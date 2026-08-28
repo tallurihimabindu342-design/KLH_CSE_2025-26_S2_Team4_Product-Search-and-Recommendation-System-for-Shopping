@@ -47,33 +47,32 @@ The system also incorporates Levenshtein Edit Distance for spelling-error recove
 
 ## Algorithms and Data Structures
 
-Product Corpus
-       |
-       v
-  Corpus Loader
-       |
-       v
- Product Records
-       |
-       v
-    User Query
-       |
-       +-------------------+
-       |                   |
-       v                   v
-      KMP             Rabin-Karp
-       |                   |
-       +---------+---------+
-                 |
-                 v
-        Matching Products
-                 |
-                 v
-       Algorithm Comparison
-                 |
-                 v
-       Performance Analysis
-
+                    Product Corpus
+                         |
+                         v
+                   Corpus Loader
+                         |
+                         v
+                  Product Records
+                         |
+                         v
+                     User Query
+                         |
+              +----------+----------+
+              |                     |
+              v                     v
+             KMP               Rabin-Karp
+              |                     |
+              +----------+----------+
+                         |
+                         v
+                 Matching Products
+                         |
+                         v
+                Algorithm Comparison
+                         |
+                         v
+                Performance Analysis
        
 ## Product Corpus
 
