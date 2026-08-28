@@ -90,5 +90,3 @@ Each product document contains information such as:
 - Specifications
 - Best use cases
 - Searchable attributes
-
-└── product_p020_samsung_t9_portable_ssd_2tb.txt
