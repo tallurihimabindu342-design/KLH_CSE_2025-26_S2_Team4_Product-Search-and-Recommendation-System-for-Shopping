@@ -1,0 +1,189 @@
+LG ULTRAGEAR 27GR95QE OLED
+==========================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P014
+  Product Name: LG UltraGear 27GR95QE OLED
+  Also Known As: LG 27GR95QE, LG UltraGear OLED 27, LG 27GR95QE-B
+  Brand: LG
+  Category: Electronics
+  Subcategory: Monitors
+  Model: 27GR95QE-B
+  Variants: Standard
+  Colours: Black
+  Selling Price: ₹94,999
+  Average Rating: 4.6/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Computer Peripherals
+  3: Monitors
+  4: Gaming Monitors
+
+Product Overview:
+  Overview: The LG UltraGear 27GR95QE is a 27-inch QHD OLED gaming monitor combining near-instant pixel response with vivid, true-black contrast.
+  Display Quality: OLED panel technology delivers per-pixel dimming for perfect blacks and vibrant colors suited to both gaming and content creation.
+  Gaming Performance: A 240Hz refresh rate with 0.03ms response time virtually eliminates motion blur and ghosting in fast-paced games.
+  Connectivity: Supports both G-Sync and FreeSync compatibility along with HDMI 2.1 for console gaming at full refresh rate.
+  Build: A slim OLED chassis with a low-profile stand suits both dedicated gaming desks and multi-monitor setups.
+
+Best For (Target Audience):
+  1: Competitive Gamers
+  2: Console Gamers
+  3: Content Creators
+  4: Streamers
+  5: Home Theater PC Users
+
+Technical Specifications:
+  Panel Type: 27-inch QHD (2560x1440) OLED
+  Refresh Rate: 240Hz
+  Response Time: 0.03ms (GtG)
+  Adaptive Sync: NVIDIA G-Sync Compatible, AMD FreeSync Premium
+  Ports: 2x HDMI 2.1, 1x DisplayPort 1.4, USB hub
+  Brightness: 1300 nits peak (HDR), 200 nits typical
+  Build: Slim OLED chassis, adjustable stand, VESA mount compatible
+
+Quick Highlights:
+  1: 27-inch QHD OLED Panel
+  2: 240Hz Refresh Rate
+  3: 0.03ms Response Time
+  4: HDMI 2.1 for Consoles
+  5: G-Sync & FreeSync Compatible
+  6: True Blacks via OLED
+
+Key Features:
+  [1] Feature Name: OLED Per-pixel Dimming
+      Description: Each pixel can turn fully off for true blacks and infinite contrast ratio.
+      Benefits: Deep blacks, vibrant HDR content
+      Common Search Terms: oled gaming monitor, true black monitor, best contrast monitor
+
+  [2] Feature Name: 240Hz Refresh Rate
+      Description: High refresh rate reduces motion blur and improves responsiveness in competitive games.
+      Benefits: Smoother competitive gaming, less motion blur
+      Common Search Terms: 240hz monitor, high refresh gaming monitor, competitive gaming display
+
+  [3] Feature Name: 0.03ms Response Time
+      Description: Among the fastest pixel response times available, virtually eliminating ghosting.
+      Benefits: No visible ghosting, crisp fast motion
+      Common Search Terms: fastest response time monitor, no ghosting monitor, oled response time
+
+  [4] Feature Name: HDMI 2.1 Console Support
+      Description: Full-bandwidth HDMI 2.1 ports support 4K 120Hz or QHD 240Hz on PS5 and Xbox Series X.
+      Benefits: Console gaming at full refresh rate
+      Common Search Terms: hdmi 2.1 monitor, ps5 240hz monitor, console gaming monitor
+
+  [5] Feature Name: Dual Adaptive Sync Support
+      Description: Compatible with both NVIDIA G-Sync and AMD FreeSync to eliminate screen tearing.
+      Benefits: Tear-free gaming regardless of GPU brand
+      Common Search Terms: g-sync freesync monitor, adaptive sync gaming monitor, tear free monitor
+
+Best Use Cases (Activities):
+  1: Competitive PC Gaming
+  2: Console Gaming (PS5/Xbox)
+  3: Color-critical Content Creation
+  4: Streaming Setup
+  5: Movie and Media Viewing
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: lg ultragear 27gr95qe, lg 27gr95qe, lg oled gaming monitor
+  Feature Keywords: best oled gaming monitor, 240hz oled monitor, fastest gaming monitor, hdmi 2.1 monitor
+  Technical Keywords: QHD OLED, 240Hz, 0.03ms response, G-Sync compatible
+  Aliases: lg 27 inch oled monitor, ultragear oled, lg gaming monitor 27
+  Synonyms: gaming monitor, oled display, competitive gaming screen
+  Common Misspellings: lg ultragear 27gr95qe, lg 27 gr95qe, lg ultra gear oled, lg27gr95qe
+  Search Phrases: best monitor for competitive gaming, oled monitor for ps5, monitor with true blacks, best 240hz monitor 2024
+  Search Intent Keywords: buy gaming monitor, upgrade to oled monitor, console gaming monitor purchase
+  Related Search Terms: monitor for valorant, monitor for console gaming, best oled monitor for pc, high refresh rate monitor
+
+Customer Search Queries:
+  Exact Queries: "lg ultragear 27gr95qe", "lg 27gr95qe-b"
+  Partial Queries: "lg ultragear oled", "lg 27gr95qe"
+  Feature Queries: "oled monitor for gaming", "240hz monitor with hdmi 2.1", "monitor with true blacks"
+  Comparison Queries: "lg 27gr95qe vs asus rog swift oled", "oled monitor vs ips monitor"
+  Attribute Queries: "0.03ms response time monitor", "qhd oled monitor", "g-sync compatible monitor"
+  Natural Language Queries: "which monitor is best for ps5", "monitor with no motion blur"
+  Typo Queries: "lg ultra gear 27gr95qe", "lg 27 gr95 qe", "lg ultragear oled monitor"
+
+Customer Questions & Answers:
+  Does it support HDMI 2.1 for consoles?: Yes, both HDMI ports support full-bandwidth HDMI 2.1 for 4K 120Hz or QHD 240Hz.
+  Is it G-Sync or FreeSync compatible?: Both — it supports NVIDIA G-Sync Compatible and AMD FreeSync Premium.
+  Is there a risk of OLED burn-in?: OLED panels carry some burn-in risk with static content over long periods; LG includes pixel-refresh technology to mitigate this.
+  What is the panel resolution?: 2560x1440 (QHD).
+  Does it include speakers?: No, external speakers or headphones are required.
+  Is the stand height-adjustable?: Yes, the included stand supports height, tilt, and swivel adjustment.
+
+Searchable Attributes:
+  [1] Attribute: Panel Type
+      Value: OLED, QHD
+      Common Search Terms: oled monitor panel, qhd gaming monitor
+      Filter Value: OLED QHD
+
+  [2] Attribute: Refresh Rate
+      Value: 240Hz
+      Common Search Terms: 240hz monitor spec, high refresh rate display
+      Filter Value: 240Hz
+
+  [3] Attribute: Response Time
+      Value: 0.03ms GtG
+      Common Search Terms: fastest monitor response time, no blur monitor
+      Filter Value: 0.03ms
+
+  [4] Attribute: Ports
+      Value: 2x HDMI 2.1, 1x DP 1.4
+      Common Search Terms: hdmi 2.1 ports monitor, displayport monitor
+      Filter Value: HDMI 2.1
+
+  [5] Attribute: Adaptive Sync
+      Value: G-Sync + FreeSync
+      Common Search Terms: dual adaptive sync monitor, tear free gaming monitor
+      Filter Value: G-Sync/FreeSync
+
+  [6] Attribute: Peak Brightness
+      Value: 1300 nits (HDR)
+      Common Search Terms: hdr brightness monitor, oled peak brightness
+      Filter Value: 1300 nits
+
+  [7] Attribute: Screen Size
+      Value: 27-inch
+      Common Search Terms: 27 inch gaming monitor, mid size gaming display
+      Filter Value: 27in
+
+Customer Reviews:
+  ★★★★★: Black levels are genuinely perfect compared to my previous IPS monitor, especially in dark game scenes.
+  ★★★★★: Motion clarity at 240Hz with this response time makes fast-paced shooters feel dramatically smoother.
+  ★★★★☆: Console gaming at 4K 120Hz on PS5 looks and feels excellent through the HDMI 2.1 port.
+  ★★★☆☆: Brightness in SDR content feels a bit dim compared to traditional LCD monitors in a bright room.
+  ★★★☆☆: Had to be mindful of static UI elements to avoid any risk of long-term burn-in.
+  ★★☆☆☆: Price is significantly higher than equivalent 240Hz IPS alternatives.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: LG UltraGear 32GS95UE
+  2: Asus ROG Swift OLED PG27AQDM
+
+Brand Ecosystem Products:
+  1: LG UltraFine Speakers
+  2: LG Monitor Arm Mount
+
+Compatible Accessories:
+  Cables: HDMI 2.1 High Speed Cable, DisplayPort 1.4 Cable
+  Mounts & Arms: LG Monitor Arm Mount, VESA Wall Mount
+  Speakers: LG UltraFine Speakers
+  Peripherals: Logitech MX Master 3S Mouse, Logitech MX Keys S Keyboard
+
+Frequently Bought Together:
+  1: HDMI 2.1 cable
+  2: Monitor arm mount
+
+Budget Alternatives:
+  1: LG UltraGear 27GP850
+  2: LG UltraGear 27GR83Q

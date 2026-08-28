@@ -1,0 +1,187 @@
+HP SMART TANK 790 ALL-IN-ONE
+============================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P016
+  Product Name: HP Smart Tank 790 All-in-One
+  Also Known As: HP Smart Tank 790, HP Tank 790, HP Smart Tank790 AIO
+  Brand: HP
+  Category: Electronics
+  Subcategory: Printers
+  Model: Smart Tank 790
+  Variants: Standard
+  Colours: White
+  Selling Price: ₹28,999
+  Average Rating: 4.3/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Computer Peripherals
+  3: Printers
+  4: Ink Tank All-in-One Printers
+
+Product Overview:
+  Overview: The HP Smart Tank 790 is an ink tank all-in-one printer built for households and small offices with high printing volume needs.
+  Print Economy: Refillable ink tanks replace cartridges, with bundled ink capable of printing thousands of pages before a refill is needed.
+  Functionality: Combines printing, scanning, copying, and faxing in a single device with an automatic document feeder for multi-page jobs.
+  Connectivity: Wi-Fi and Wi-Fi Direct support let multiple devices print wirelessly without a direct cable connection.
+  Speed: Delivers up to 22 pages per minute in black and white, suited to moderate office print volumes.
+
+Best For (Target Audience):
+  1: Small Business Owners
+  2: Home Office Users
+  3: Students Printing Frequently
+  4: Families with High Print Volume
+  5: Remote Workers
+
+Technical Specifications:
+  Print Technology: Thermal inkjet, ink tank system
+  Print Speed: Up to 22 ppm (black), 18 ppm (color)
+  Functions: Print, Scan, Copy, Fax
+  Connectivity: Wi-Fi, Wi-Fi Direct, USB, Ethernet
+  Paper Handling: 250-sheet input tray, 35-sheet ADF
+  Ink Yield: Up to 12,000 pages (black) / 6,000 pages (color) per bottle set
+
+Quick Highlights:
+  1: Refillable Ink Tank System
+  2: Up to 12,000-page Ink Yield
+  3: Print, Scan, Copy, Fax
+  4: Auto Document Feeder
+  5: Wi-Fi & Ethernet
+  6: 22ppm Print Speed
+
+Key Features:
+  [1] Feature Name: Refillable Ink Tank System
+      Description: Large refillable tanks replace disposable cartridges, dramatically lowering per-page cost.
+      Benefits: Lower long-term printing cost, less frequent refills
+      Common Search Terms: ink tank printer, low cost printing, refillable ink printer
+
+  [2] Feature Name: Automatic Document Feeder
+      Description: Feeds up to 35 pages automatically for scanning, copying, or faxing multi-page documents.
+      Benefits: Faster multi-page scanning, hands-free document handling
+      Common Search Terms: printer with adf, auto document feeder printer, multi page scan printer
+
+  [3] Feature Name: Wi-Fi Direct Printing
+      Description: Allows printing directly from a phone or laptop without connecting to the same network.
+      Benefits: Convenient wireless printing, no router dependency
+      Common Search Terms: wireless printer, wifi direct printing, mobile printing
+
+  [4] Feature Name: High-yield Ink Bottles
+      Description: Bundled ink bottles can print thousands of pages before requiring a refill.
+      Benefits: Fewer ink refills, predictable ongoing cost
+      Common Search Terms: high yield ink printer, long lasting ink printer, low maintenance printer
+
+  [5] Feature Name: All-in-One Functionality
+      Description: Combines printing, scanning, copying, and faxing capabilities in a single compact device.
+      Benefits: Space-saving, fewer separate devices needed
+      Common Search Terms: all in one printer, multi function printer, home office printer
+
+Best Use Cases (Activities):
+  1: High-volume Home Printing
+  2: Small Office Document Management
+  3: Student Assignment Printing
+  4: Scanning and Faxing Documents
+  5: Remote Work Printing Needs
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: hp smart tank 790, hp tank 790, hp smart tank 790 all in one
+  Feature Keywords: best ink tank printer, low cost printing printer, printer for small business, wireless all in one printer
+  Technical Keywords: thermal inkjet, ink tank system, ADF printer, Wi-Fi Direct
+  Aliases: hp 790 printer, hp smart tank series, hp tank printer
+  Synonyms: all in one printer, multifunction printer, home office printer
+  Common Misspellings: hp smart tank790, hp smarttank 790, hp smart tank 970 (confused model), hp smart tank 970
+  Search Phrases: best printer for home office, printer with low running cost, printer with scanner and fax, best hp printer for students
+  Search Intent Keywords: buy printer for small business, upgrade to ink tank printer, home printer purchase
+  Related Search Terms: printer for students, printer for scanning documents, low cost ink printer, wireless office printer
+
+Customer Search Queries:
+  Exact Queries: "hp smart tank 790 printer", "hp smart tank 790 all in one"
+  Partial Queries: "hp smart tank 790", "hp tank 790"
+  Feature Queries: "printer with refillable ink", "printer with auto document feeder", "wireless printer with fax"
+  Comparison Queries: "hp smart tank 790 vs canon megatank", "hp smart tank 790 vs 750"
+  Attribute Queries: "printer with wifi direct", "high yield ink printer", "printer with ethernet"
+  Natural Language Queries: "which printer is cheapest to run", "printer that can fax documents"
+  Typo Queries: "hp smart tank790", "hp smarttank 790", "hp smart tank 970"
+
+Customer Questions & Answers:
+  Does it support wireless printing?: Yes, via Wi-Fi and Wi-Fi Direct.
+  How many pages can the ink last?: Bundled ink bottles can print up to 12,000 black or 6,000 color pages.
+  Does it have a fax function?: Yes, fax is included alongside print, scan, and copy.
+  Does it have an automatic document feeder?: Yes, a 35-sheet ADF is included for multi-page scanning and copying.
+  Can I print from my phone?: Yes, via HP Smart app or Wi-Fi Direct.
+  Does it support Ethernet connection?: Yes, a wired Ethernet port is included alongside Wi-Fi.
+
+Searchable Attributes:
+  [1] Attribute: Print Speed
+      Value: 22 ppm (black)
+      Common Search Terms: printer speed spec, pages per minute printer
+      Filter Value: 22ppm
+
+  [2] Attribute: Ink System
+      Value: Refillable tank
+      Common Search Terms: ink tank printer type, refillable ink system
+      Filter Value: Ink Tank
+
+  [3] Attribute: Functions
+      Value: Print, Scan, Copy, Fax
+      Common Search Terms: all in one printer functions, multi function printer spec
+      Filter Value: 4-in-1
+
+  [4] Attribute: Connectivity
+      Value: Wi-Fi, Ethernet, USB
+      Common Search Terms: printer connectivity options, wireless printer spec
+      Filter Value: Wi-Fi+Ethernet
+
+  [5] Attribute: Paper Capacity
+      Value: 250 sheets
+      Common Search Terms: printer paper tray capacity, high capacity printer tray
+      Filter Value: 250 sheets
+
+  [6] Attribute: ADF Capacity
+      Value: 35 sheets
+      Common Search Terms: auto document feeder capacity, printer adf spec
+      Filter Value: 35 sheets
+
+  [7] Attribute: Ink Yield
+      Value: Up to 12,000 pages
+      Common Search Terms: printer ink yield, long lasting ink printer spec
+      Filter Value: 12,000 pages
+
+Customer Reviews:
+  ★★★★☆: Ink cost per page is dramatically lower than my old cartridge printer, easily paid for itself within months.
+  ★★★★☆: Automatic document feeder makes scanning multi-page assignments much faster than doing it manually.
+  ★★★☆☆: Print quality for photos is decent but not as sharp as a dedicated photo printer.
+  ★★★☆☆: Setup over Wi-Fi took a few attempts before it connected reliably to my home network.
+  ★★★☆☆: Fairly bulky footprint compared to basic inkjet printers without the tank system.
+  ★★☆☆☆: Occasional paper jams with thicker paper stock during automatic feeding.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: HP Smart Tank 750
+  2: HP Smart Tank 580
+
+Brand Ecosystem Products:
+  1: HP 65 Ink Bottles
+  2: HP Smart App
+
+Compatible Accessories:
+  Ink Bottles: HP GT53 Black Ink Bottle, HP GT52 Color Ink Bottles
+  Cables: USB Printer Cable, Ethernet Cable
+  Paper: HP Premium Plain Paper, HP Photo Paper
+
+Frequently Bought Together:
+  1: Extra black ink bottle
+  2: Photo paper pack
+
+Budget Alternatives:
+  1: HP Smart Tank 580
+  2: HP DeskJet 2331

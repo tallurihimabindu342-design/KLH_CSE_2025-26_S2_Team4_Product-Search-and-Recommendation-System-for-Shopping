@@ -1,0 +1,191 @@
+SONY ALPHA A7 IV
+================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P013
+  Product Name: Sony Alpha A7 IV
+  Also Known As: Sony A7 IV, Sony A7IV, Sony Alpha 7 IV
+  Brand: Sony
+  Category: Electronics
+  Subcategory: Cameras
+  Model: ILCE-7M4
+  Variants: Body Only, with FE 28-70mm Kit
+  Colours: Black
+  Selling Price: ₹2,29,990
+  Average Rating: 4.6/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Cameras
+  3: Mirrorless Cameras
+  4: Full-frame Mirrorless Cameras
+
+Product Overview:
+  Overview: The Sony Alpha A7 IV is a full-frame hybrid mirrorless camera balancing high resolution stills with strong 4K video capability for working professionals.
+  Autofocus: Real-time Eye AF for humans, animals, and birds keeps subjects sharply tracked across stills and video.
+  Stills Performance: A 33MP sensor offers more cropping flexibility than typical hybrid cameras while maintaining solid low-light performance.
+  Video: Records 4K 60p with a Super35 crop or 4K 30p full-frame, plus 10-bit 4:2:2 color for professional grading.
+  Ergonomics: A fully articulating screen and improved menu system make it more accessible for both photo and video workflows.
+
+Best For (Target Audience):
+  1: Portrait Photographers
+  2: Commercial Photographers
+  3: Documentary Filmmakers
+  4: Content Creators
+  5: Wedding Videographers
+
+Technical Specifications:
+  Sensor: 33MP full-frame back-illuminated CMOS
+  Processor: BIONZ XR
+  Autofocus: 759-point phase detection, Real-time Eye AF
+  Burst Shooting: Up to 10fps mechanical/electronic shutter
+  Video: 4K 60p (Super35 crop), 4K 30p full-frame, 10-bit 4:2:2
+  Stabilization: In-body 5-axis IS, up to 5.5 stops
+  Build: Weather-sealed magnesium alloy body, 658g (body only)
+
+Quick Highlights:
+  1: 33MP Full-frame Sensor
+  2: Real-time Eye AF
+  3: 10-bit 4:2:2 Video
+  4: Fully Articulating Screen
+  5: 5.5-stop Stabilization
+  6: Dual Card Slots
+
+Key Features:
+  [1] Feature Name: Real-time Eye AF
+      Description: AI-based autofocus that detects and tracks human, animal, and bird eyes automatically.
+      Benefits: Sharp portraits, reliable subject tracking
+      Common Search Terms: sony eye af, best autofocus camera, real time tracking camera
+
+  [2] Feature Name: 33MP Sensor Resolution
+      Description: Higher resolution than typical hybrid cameras, offering more room to crop without losing detail.
+      Benefits: Flexible cropping, high detail stills
+      Common Search Terms: high resolution full frame camera, 33mp sensor camera, sony a7 iv sensor
+
+  [3] Feature Name: 10-bit 4:2:2 Video Color
+      Description: Professional-grade color sampling for more flexibility in post-production color grading.
+      Benefits: Better color grading flexibility, professional video output
+      Common Search Terms: 10 bit video camera, professional color grading camera, sony video camera
+
+  [4] Feature Name: Fully Articulating Screen
+      Description: Vari-angle LCD screen that flips out and rotates for vlogging and awkward-angle shots.
+      Benefits: Easier vlogging, flexible shooting angles
+      Common Search Terms: vlogging camera screen, articulating screen camera, flip screen mirrorless
+
+  [5] Feature Name: Dual Card Slots
+      Description: Two card slots supporting both CFexpress Type A and SD cards for flexible storage and backup.
+      Benefits: Reliable backup recording, flexible storage options
+      Common Search Terms: dual card slot camera, backup recording camera, cfexpress camera
+
+Best Use Cases (Activities):
+  1: Portrait Photography
+  2: Documentary Filmmaking
+  3: Vlogging
+  4: Commercial Product Photography
+  5: Wedding Videography
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: sony a7 iv, sony alpha a7 iv, sony a7iv camera
+  Feature Keywords: best hybrid camera, sony eye af camera, best video mirrorless camera, sony full frame camera
+  Technical Keywords: BIONZ XR, 10-bit 422, real-time eye af, dual card slots
+  Aliases: sony alpha 7 iv, a7m4, sony a74
+  Synonyms: mirrorless camera, hybrid camera, full frame camera
+  Common Misspellings: sony a74, sony alpha7iv, sony a7 4, sony a7iv camera
+  Search Phrases: best camera for portraits, best hybrid camera for video and photo, camera with best eye tracking, camera for vlogging and photography
+  Search Intent Keywords: buy full frame camera, upgrade from crop sensor, professional video camera purchase
+  Related Search Terms: camera for wedding videography, camera for youtube content, sony e mount lens camera, best sony mirrorless
+
+Customer Search Queries:
+  Exact Queries: "sony a7 iv body only", "sony alpha a7 iv with 28-70mm kit"
+  Partial Queries: "sony a7 iv", "sony alpha 7 iv"
+  Feature Queries: "camera with best eye af", "camera with 10 bit video", "camera with articulating screen"
+  Comparison Queries: "sony a7 iv vs canon r6 mark ii", "sony a7 iv vs a7 iii"
+  Attribute Queries: "33mp full frame camera", "dual card slot camera", "10fps burst camera"
+  Natural Language Queries: "which sony camera is best for video", "camera good for both photo and video"
+  Typo Queries: "sony a74", "sony alpha7iv", "sony a7 4"
+
+Customer Questions & Answers:
+  Does it shoot 4K without crop?: Yes, 4K 30p is recorded full-frame; 4K 60p uses a Super35 crop.
+  What lens mount does it use?: Sony E-mount, compatible with all FE full-frame lenses.
+  Does it have dual card slots?: Yes, supporting CFexpress Type A and SD UHS-II cards.
+  Is it weather sealed?: Yes, the body includes dust and moisture sealing.
+  What is the resolution of the sensor?: 33 megapixels, full-frame back-illuminated CMOS.
+  Does it support 10-bit video?: Yes, 10-bit 4:2:2 color sampling is supported for internal recording.
+
+Searchable Attributes:
+  [1] Attribute: Sensor
+      Value: 33MP Full-frame BSI CMOS
+      Common Search Terms: high resolution full frame sensor, sony sensor spec
+      Filter Value: 33MP
+
+  [2] Attribute: Autofocus Points
+      Value: 759-point phase detection
+      Common Search Terms: sony autofocus points, best af camera
+      Filter Value: 759 points
+
+  [3] Attribute: Video Bit Depth
+      Value: 10-bit 4:2:2
+      Common Search Terms: professional video camera color, 10 bit camera
+      Filter Value: 10-bit
+
+  [4] Attribute: Burst Rate
+      Value: 10fps
+      Common Search Terms: sony burst rate camera, continuous shooting camera
+      Filter Value: 10fps
+
+  [5] Attribute: Stabilization
+      Value: Up to 5.5 stops IBIS
+      Common Search Terms: sony in body stabilization, ibis rating camera
+      Filter Value: 5.5 stops
+
+  [6] Attribute: Weight
+      Value: 658g (body only)
+      Common Search Terms: sony a7 iv weight, full frame camera weight
+      Filter Value: 658g
+
+  [7] Attribute: Lens Mount
+      Value: Sony E-mount
+      Common Search Terms: sony e mount, sony fe lens compatibility
+      Filter Value: E-mount
+
+Customer Reviews:
+  ★★★★★: Eye tracking during a portrait shoot locked on and stayed accurate even as the subject moved around quickly.
+  ★★★★☆: 10-bit video gives noticeably more flexibility when color grading footage in post-production.
+  ★★★★☆: 33MP resolution is a nice middle ground between the A7S line and higher resolution A7R models.
+  ★★★☆☆: 4K 60p crop is a bit of a limitation compared to some competitors offering full-frame 60p.
+  ★★★☆☆: Menu system is improved over previous Sony cameras but still takes time to fully learn.
+  ★★☆☆☆: Battery life during heavy video recording sessions requires carrying multiple spares.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Sony A7R V
+  2: Sony A7S III
+
+Brand Ecosystem Products:
+  1: Sony FE 24-70mm f/2.8 GM II Lens
+  2: Sony ECM-B10 Microphone
+  3: Sony NP-FZ100 Battery
+
+Compatible Accessories:
+  Lenses: Sony FE 24-70mm f/2.8 GM II, Sony FE 70-200mm f/2.8 GM
+  Batteries: Sony NP-FZ100 Battery
+  Microphones: Sony ECM-B10 Shotgun Microphone
+  Storage Accessories: Samsung T9 Portable SSD, Sony CFexpress Type A Card
+  Camera Bags: Peak Design Everyday Backpack
+
+Frequently Bought Together:
+  1: Extra NP-FZ100 battery
+  2: CFexpress Type A memory card
+
+Budget Alternatives:
+  1: Sony A7 III
+  2: Sony A7C II

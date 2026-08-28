@@ -1,0 +1,189 @@
+APPLE WATCH SERIES 10
+=====================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P011
+  Product Name: Apple Watch Series 10
+  Also Known As: Apple Watch S10, Watch Series 10, AppleWatch10
+  Brand: Apple
+  Category: Electronics
+  Subcategory: Smartwatches
+  Model: A3208
+  Variants: 42mm, 46mm
+  Colours: Jet Black, Rose Gold, Silver
+  Selling Price: ₹46,900
+  Average Rating: 4.6/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Wearables
+  3: Smartwatches
+  4: General Purpose Smartwatches
+
+Product Overview:
+  Overview: The Apple Watch Series 10 is Apple's thinnest and largest-display Watch yet, combining everyday health tracking with deep iPhone integration.
+  Health: Includes ECG, blood oxygen monitoring, and a new sleep apnea detection feature validated through FDA clearance.
+  Display: A wide-angle OLED display up to 40% brighter at an angle makes it easier to read the time without turning the wrist fully.
+  Battery: Up to 18 hours of typical use, with fast charging reaching 80% in about 30 minutes.
+  Software: Runs watchOS 11 with deep Health app integration, Apple Pay, and cellular connectivity on select models.
+
+Best For (Target Audience):
+  1: iOS Users
+  2: Fitness Enthusiasts
+  3: Health-conscious Users
+  4: Business Professionals
+  5: Casual Athletes
+
+Technical Specifications:
+  Display: 1.96-inch (46mm) LTPO OLED, always-on
+  Case Material: Aluminum or Titanium
+  Battery: Up to 18 hours, fast charge 80% in 30 min
+  Health Sensors: ECG, Blood Oxygen, Temperature, Sleep Apnea Notifications
+  Water Resistance: 50 meters (WR50), IP6X dust resistance
+  Connectivity: Bluetooth 5.3, Wi-Fi, optional LTE
+
+Quick Highlights:
+  1: Thinnest Apple Watch Yet
+  2: Sleep Apnea Detection
+  3: Wide-angle OLED Display
+  4: 50m Water Resistance
+  5: Fast Charging
+  6: Titanium Option
+
+Key Features:
+  [1] Feature Name: Sleep Apnea Notifications
+      Description: Uses wrist motion during sleep to detect signs of moderate to severe sleep apnea.
+      Benefits: Early health awareness, actionable health data
+      Common Search Terms: apple watch sleep apnea, sleep tracking watch, health monitoring smartwatch
+
+  [2] Feature Name: Wide-angle OLED Display
+      Description: New display technology stays readable even when viewed from an angle without raising the wrist fully.
+      Benefits: Easier at-a-glance readability
+      Common Search Terms: apple watch bright display, wide angle watch screen, easy to read smartwatch
+
+  [3] Feature Name: Thinnest Apple Watch Design
+      Description: 9.7mm thick case, the slimmest Apple Watch to date.
+      Benefits: More comfortable daily wear, less bulk
+      Common Search Terms: thin apple watch, slim smartwatch, comfortable apple watch
+
+  [4] Feature Name: Fast Charging
+      Description: Reaches 80% battery in about 30 minutes using the included charger.
+      Benefits: Quick top-ups, less charging downtime
+      Common Search Terms: fast charging smartwatch, apple watch quick charge
+
+  [5] Feature Name: Titanium Case Option
+      Description: Lighter and more scratch-resistant than stainless steel for a premium build.
+      Benefits: Durability, lighter feel on wrist
+      Common Search Terms: titanium apple watch, premium apple watch, scratch resistant smartwatch
+
+Best Use Cases (Activities):
+  1: Daily Fitness Tracking
+  2: Sleep Monitoring
+  3: Contactless Payments
+  4: Notifications on the Go
+  5: Casual Workouts
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: apple watch series 10, apple watch s10, apple watch 10
+  Feature Keywords: sleep apnea watch, thin apple watch, best apple watch, titanium apple watch
+  Technical Keywords: LTPO OLED, ECG watch, WR50, watchOS 11
+  Aliases: watch series 10, apple watch 2024, apple flagship watch
+  Synonyms: apple smartwatch, ios watch, wrist wearable
+  Common Misspellings: apple watch series10, apple watch serie 10, aple watch series 10, apple wach series 10
+  Search Phrases: best apple watch for sleep tracking, thinnest apple watch, apple watch with titanium case, apple watch for fitness
+  Search Intent Keywords: buy apple watch, upgrade smartwatch, ios wearable purchase
+  Related Search Terms: watch for iphone users, health tracking smartwatch, apple watch for workouts, best smartwatch for sleep
+
+Customer Search Queries:
+  Exact Queries: "apple watch series 10 46mm", "apple watch series 10 titanium"
+  Partial Queries: "apple watch series 10", "watch series 10"
+  Feature Queries: "apple watch with sleep apnea", "thinnest apple watch", "apple watch titanium case"
+  Comparison Queries: "apple watch series 10 vs ultra 2", "series 10 vs series 9"
+  Attribute Queries: "50m water resistant watch", "titanium apple watch", "ecg apple watch"
+  Natural Language Queries: "which apple watch tracks sleep apnea", "thinnest smartwatch apple"
+  Typo Queries: "aple watch series 10", "apple wach series 10", "apple watch serie 10"
+
+Customer Questions & Answers:
+  Is it compatible with Android?: No, Apple Watch requires an iPhone to set up and use.
+  Does it detect sleep apnea?: Yes, via FDA-cleared wrist motion analysis during sleep.
+  What is the water resistance rating?: 50 meters (WR50), suitable for swimming but not diving.
+  Does it support cellular calls?: Yes, on the GPS + Cellular model without needing an iPhone nearby.
+  How long does the battery last?: Up to 18 hours of typical use per charge.
+  Is the titanium case worth the upgrade?: It offers a lighter, more scratch-resistant build over the aluminum case, at a higher price.
+
+Searchable Attributes:
+  [1] Attribute: Case Material
+      Value: Aluminum or Titanium
+      Common Search Terms: apple watch case material, titanium apple watch
+      Filter Value: Titanium
+
+  [2] Attribute: Display
+      Value: LTPO OLED, always-on
+      Common Search Terms: apple watch display, always on watch screen
+      Filter Value: LTPO OLED
+
+  [3] Attribute: Water Resistance
+      Value: 50 meters
+      Common Search Terms: waterproof apple watch, wr50 rating
+      Filter Value: 50m
+
+  [4] Attribute: Battery Life
+      Value: Up to 18 hours
+      Common Search Terms: apple watch battery life, all day smartwatch
+      Filter Value: 18hrs
+
+  [5] Attribute: Health Sensors
+      Value: ECG, SpO2, Sleep Apnea
+      Common Search Terms: apple watch health features, ecg smartwatch
+      Filter Value: ECG+SpO2
+
+  [6] Attribute: Connectivity
+      Value: Bluetooth, Wi-Fi, optional LTE
+      Common Search Terms: cellular apple watch, lte smartwatch
+      Filter Value: LTE optional
+
+  [7] Attribute: Thickness
+      Value: 9.7mm
+      Common Search Terms: thin smartwatch, slim apple watch
+      Filter Value: 9.7mm
+
+Customer Reviews:
+  ★★★★★: The wider viewing angle on the display genuinely makes checking notifications while typing much easier.
+  ★★★★☆: Sleep apnea notification feature gave me useful data I hadn't gotten from any previous wearable.
+  ★★★★☆: Battery comfortably lasts through a full day including a tracked workout, though not multiple days.
+  ★★★☆☆: Titanium version is a nice upgrade but the price difference over aluminum feels steep for the weight savings.
+  ★★★☆☆: Still requires daily charging, unlike some Android rivals with multi-day battery life.
+  ★★☆☆☆: Locked entirely to iPhone, which is a dealbreaker if you ever plan to switch platforms.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Apple Watch Ultra 2
+  2: Apple Watch SE
+
+Brand Ecosystem Products:
+  1: iPhone 16 Pro Max
+  2: AirPods Pro 2
+  3: MacBook Air M3
+
+Compatible Accessories:
+  Bands & Straps: Apple Sport Band, Apple Milanese Loop
+  Chargers: Apple Magnetic Fast Charger
+  Screen Protectors: Apple Watch Tempered Glass Protector
+  Cases: Apple Watch Bumper Case
+
+Frequently Bought Together:
+  1: Extra sport band
+  2: Magnetic fast charger
+
+Budget Alternatives:
+  1: Apple Watch SE (2nd Gen)
+  2: Apple Watch Series 9 (previous gen)

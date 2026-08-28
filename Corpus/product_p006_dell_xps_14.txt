@@ -1,0 +1,192 @@
+DELL XPS 14
+===========
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P006
+  Product Name: Dell XPS 14
+  Also Known As: XPS 14, Dell XPS14, XPS 9440
+  Brand: Dell
+  Category: Electronics
+  Subcategory: Laptops
+  Model: 9440
+  Variants: 16GB/512GB, 32GB/1TB, 64GB/2TB
+  Colours: Platinum Silver, Graphite
+  Selling Price: ₹1,89,990
+  Average Rating: 4.4/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Computers
+  3: Laptops
+  4: Premium Windows Laptops
+
+Product Overview:
+  Overview: The Dell XPS 14 is a premium Windows laptop with a near-borderless InfinityEdge display and a machined aluminum chassis built for creators and professionals.
+  Performance: Intel Core Ultra processors paired with optional NVIDIA RTX 4050/4060 graphics handle everything from office work to light video editing and CAD.
+  Display: A 14.5-inch OLED or LCD option with up to 3.2K resolution offers accurate colors suited to photo and video review.
+  Battery: A 69.5Wh battery targets a full workday of use, though heavier creative workloads reduce runtime noticeably.
+  Software: Runs Windows 11 with Dell's optimization utilities for thermal management and driver updates.
+
+Best For (Target Audience):
+  1: Creative Professionals
+  2: Business Users
+  3: Software Developers
+  4: Students in Design Programs
+  5: Windows Power Users
+
+Technical Specifications:
+  Display: 14.5-inch OLED, up to 3.2K, 120Hz
+  Processor: Intel Core Ultra 7/9
+  Memory: 16GB / 32GB / 64GB RAM, 512GB / 1TB / 2TB SSD
+  Graphics: Intel Arc integrated or NVIDIA RTX 4050/4060
+  Battery: 69.5Wh, up to 13 hours typical use
+  Ports: 2x Thunderbolt 4, microSD, headphone jack
+  Build: Machined aluminum chassis, Gorilla Glass trackpad, 1.55kg
+
+Quick Highlights:
+  1: InfinityEdge OLED Display
+  2: Intel Core Ultra
+  3: Optional RTX Graphics
+  4: Machined Aluminum Body
+  5: Thunderbolt 4
+  6: Zero-lattice Keyboard
+
+Key Features:
+  [1] Feature Name: InfinityEdge OLED Display
+      Description: Near-borderless 3.2K OLED panel with deep contrast for creative work.
+      Benefits: Accurate colors, immersive viewing
+      Common Search Terms: oled laptop display, infinityedge display, dell xps screen
+
+  [2] Feature Name: Optional RTX 4060 Graphics
+      Description: Discrete NVIDIA graphics for light video editing, 3D rendering, and creative apps.
+      Benefits: Faster rendering, creative workload support
+      Common Search Terms: rtx laptop, dell laptop with graphics card, creator laptop
+
+  [3] Feature Name: Zero-lattice Keyboard
+      Description: Edge-to-edge keyboard design that maximizes key size within a compact chassis.
+      Benefits: Comfortable typing, larger key targets
+      Common Search Terms: dell xps keyboard, zero lattice keyboard, comfortable laptop keyboard
+
+  [4] Feature Name: Machined Aluminum Chassis
+      Description: CNC-machined unibody aluminum construction for a premium, rigid feel.
+      Benefits: Durability, premium build quality
+      Common Search Terms: aluminum laptop, premium windows laptop, dell xps build
+
+  [5] Feature Name: Thunderbolt 4 Ports
+      Description: High-speed ports supporting external GPUs, 8K displays, and fast data transfer.
+      Benefits: Fast connectivity, external display support
+      Common Search Terms: thunderbolt 4 laptop, fast usb-c laptop, dell xps ports
+
+Best Use Cases (Activities):
+  1: Photo and Video Editing
+  2: CAD and 3D Design
+  3: Software Development
+  4: Business Presentations
+  5: Creative Portfolio Work
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: dell xps 14, xps 14, dell xps 14 2024
+  Feature Keywords: oled laptop, rtx laptop dell, premium windows laptop, creator laptop dell
+  Technical Keywords: Intel Core Ultra, RTX 4060, Thunderbolt 4, InfinityEdge display
+  Aliases: xps 9440, dell xps line, dell creator laptop
+  Synonyms: premium ultrabook, windows flagship laptop, creator notebook
+  Common Misspellings: del xps 14, dell xps14, xps forteen, dell xps 4
+  Search Phrases: best laptop for video editing windows, laptop with oled display, dell laptop with graphics card, premium windows laptop 2024
+  Search Intent Keywords: buy creator laptop, laptop upgrade for editing, windows premium laptop purchase
+  Related Search Terms: laptop for designers, laptop for architects, windows laptop with rtx graphics, dell xps alternatives
+
+Customer Search Queries:
+  Exact Queries: "dell xps 14 32gb 1tb", "dell xps 14 graphite"
+  Partial Queries: "xps 14", "dell xps"
+  Feature Queries: "laptop with oled screen", "windows laptop with rtx graphics", "laptop for video editing"
+  Comparison Queries: "dell xps 14 vs macbook pro", "xps 14 vs xps 15"
+  Attribute Queries: "32gb ram laptop", "thunderbolt 4 laptop", "rtx 4060 laptop"
+  Natural Language Queries: "which dell xps is best for editing", "windows laptop with best display"
+  Typo Queries: "del xps 14", "dell xps14", "dell xps 4"
+
+Customer Questions & Answers:
+  Does it have a dedicated graphics card?: Optional NVIDIA RTX 4050 or 4060 depending on configuration.
+  Is the RAM upgradeable?: No, RAM is soldered and fixed at time of purchase.
+  Is storage expandable?: The SSD can be replaced by a technician, but there is no separate expansion slot.
+  Does it have an SD card reader?: Yes, a microSD card reader is included.
+  What is the battery life like?: Rated up to 13 hours, less under GPU-intensive workloads.
+  Does it run Windows 11?: Yes, it ships with Windows 11 preinstalled.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: Intel Core Ultra 7/9
+      Common Search Terms: intel core ultra, latest intel chip
+      Filter Value: Core Ultra 7
+
+  [2] Attribute: Graphics
+      Value: RTX 4050 / RTX 4060
+      Common Search Terms: rtx laptop graphics, dedicated gpu laptop
+      Filter Value: RTX 4060
+
+  [3] Attribute: Display
+      Value: 14.5-inch OLED 3.2K
+      Common Search Terms: oled laptop screen, high resolution laptop
+      Filter Value: 3.2K
+
+  [4] Attribute: Memory
+      Value: 16GB / 32GB / 64GB
+      Common Search Terms: ram options laptop, high ram windows laptop
+      Filter Value: 32GB
+
+  [5] Attribute: Storage
+      Value: 512GB / 1TB / 2TB SSD
+      Common Search Terms: ssd storage laptop, dell storage options
+      Filter Value: 1TB
+
+  [6] Attribute: Weight
+      Value: 1.55kg
+      Common Search Terms: lightweight windows laptop, portable dell laptop
+      Filter Value: 1.55kg
+
+  [7] Attribute: Ports
+      Value: Thunderbolt 4
+      Common Search Terms: thunderbolt laptop, fast port laptop
+      Filter Value: TB4
+
+Customer Reviews:
+  ★★★★★: OLED display makes color grading video noticeably easier than my previous laptop's LCD panel.
+  ★★★★☆: RTX 4060 handles Premiere Pro exports well, though the fans get audible under sustained load.
+  ★★★★☆: Build quality feels genuinely premium, comparable to higher-end MacBooks.
+  ★★★☆☆: Battery life drops significantly when running the discrete GPU for extended periods.
+  ★★★☆☆: Only two ports means a dongle is necessary for anything beyond USB-C peripherals.
+  ★★☆☆☆: Price feels high compared to similarly specced competitors from other brands.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Dell XPS 15
+  2: Dell XPS 13 Plus
+
+Brand Ecosystem Products:
+  1: Dell Premier Wireless Mouse
+  2: Dell Thunderbolt Dock
+  3: Dell UltraSharp Monitor
+
+Compatible Accessories:
+  Cases & Sleeves: Dell Premier Sleeve, Incase Laptop Sleeve
+  Chargers: Dell 130W USB-C Adapter
+  Docks & Hubs: Dell Thunderbolt Dock WD22TB4
+  Input Devices: Dell Premier Wireless Keyboard and Mouse
+  External Storage: Samsung T9 Portable SSD
+  Monitors: Dell UltraSharp U2724DE
+
+Frequently Bought Together:
+  1: Thunderbolt docking station
+  2: Laptop sleeve
+
+Budget Alternatives:
+  1: Dell XPS 13
+  2: Dell Inspiron 14 Plus

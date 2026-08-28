@@ -1,0 +1,193 @@
+APPLE MACBOOK AIR M3 13"
+========================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P005
+  Product Name: Apple MacBook Air M3 13"
+  Also Known As: MacBook Air M3 13 inch, MacBook Air 13 M3, Air M3 13
+  Brand: Apple
+  Category: Electronics
+  Subcategory: Laptops
+  Model: A3113
+  Variants: 8GB/256GB, 16GB/512GB, 24GB/1TB
+  Colours: Midnight, Starlight, Space Gray, Silver
+  Selling Price: ₹1,14,900
+  Average Rating: 4.7/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Computers
+  3: Laptops
+  4: Ultraportable Laptops
+
+Product Overview:
+  Overview: The MacBook Air M3 13-inch is Apple's thin-and-light laptop, built for portability and all-day battery life without a fan.
+  Performance: The Apple M3 chip with an 8-core CPU and up to 10-core GPU handles everyday productivity, coding, and light creative work silently and efficiently.
+  Display: A 13.6-inch Liquid Retina display with True Tone and P3 wide color makes it suitable for photo review and everyday content consumption.
+  Battery: Rated for up to 18 hours of battery life, easily covering a full workday or long-haul flight without a charger.
+  Software: Runs macOS with deep integration across iPhone, iPad, and Apple Watch via Handoff, AirDrop, and Universal Clipboard.
+
+Best For (Target Audience):
+  1: Students
+  2: Business Professionals
+  3: Software Developers
+  4: Casual Creators
+  5: Travelers
+
+Technical Specifications:
+  Display: 13.6-inch Liquid Retina, 2560x1664
+  Processor: Apple M3 (8-core CPU, up to 10-core GPU)
+  Memory: 8GB / 16GB / 24GB unified memory, 256GB / 512GB / 1TB SSD
+  Battery: Up to 18 hours, 35W/70W USB-C charging
+  Ports: 2x Thunderbolt/USB 4, MagSafe 3, 3.5mm headphone jack
+  Connectivity: Wi-Fi 6E, Bluetooth 5.3
+  Build: Aluminum unibody, fanless design, 1.24kg
+
+Quick Highlights:
+  1: Apple M3 Chip
+  2: Fanless Silent Design
+  3: 18-Hour Battery
+  4: Liquid Retina Display
+  5: MagSafe 3 Charging
+  6: 1.24kg Weight
+
+Key Features:
+  [1] Feature Name: Apple M3 Chip
+      Description: 8-core CPU and up to 10-core GPU built on 3nm process for efficient performance.
+      Benefits: Fast everyday performance, long battery life
+      Common Search Terms: macbook air m3, apple silicon laptop, m3 chip laptop
+
+  [2] Feature Name: Fanless Design
+      Description: No internal fan, so the laptop runs completely silent even under sustained workloads.
+      Benefits: Silent operation, no fan noise
+      Common Search Terms: silent laptop, fanless macbook, quiet laptop
+
+  [3] Feature Name: 18-Hour Battery Life
+      Description: Apple rates the Air M3 for up to 18 hours of video playback on a single charge.
+      Benefits: All-day battery, fewer charging interruptions
+      Common Search Terms: long battery laptop, all day laptop, macbook battery life
+
+  [4] Feature Name: Liquid Retina Display
+      Description: P3 wide color and True Tone display tuned for accurate colors and comfortable viewing.
+      Benefits: Accurate colors, comfortable for long sessions
+      Common Search Terms: macbook display, retina display laptop, color accurate laptop
+
+  [5] Feature Name: MagSafe 3 Charging
+      Description: Magnetic charging connector that detaches safely if the cable is pulled.
+      Benefits: Safer charging, no accidental laptop falls
+      Common Search Terms: magsafe charging, safe laptop charger, magnetic charger laptop
+
+Best Use Cases (Activities):
+  1: Everyday Productivity
+  2: Software Development
+  3: Online Learning
+  4: Light Photo and Video Editing
+  5: Business Travel
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: macbook air m3, macbook air 13 m3, apple macbook air m3
+  Feature Keywords: silent laptop, fanless laptop, long battery laptop, m3 chip laptop
+  Technical Keywords: Apple M3, Liquid Retina, MagSafe 3, Thunderbolt 4
+  Aliases: air m3, macbook air 2024, apple thin laptop
+  Synonyms: ultrabook, thin and light laptop, apple silicon laptop
+  Common Misspellings: macbook air m3 13inch, mac book air m3, macbookair m3, macbook air m 3
+  Search Phrases: best laptop for students, lightest apple laptop, laptop with best battery life, silent laptop for coding
+  Search Intent Keywords: buy laptop for college, laptop upgrade, lightweight laptop purchase
+  Related Search Terms: laptop for programming, laptop for online classes, thin laptop for travel, apple laptop for students
+
+Customer Search Queries:
+  Exact Queries: "macbook air m3 13 inch 256gb", "macbook air m3 midnight"
+  Partial Queries: "macbook air m3", "air m3 13"
+  Feature Queries: "laptop with best battery life", "silent laptop for coding", "lightest apple laptop"
+  Comparison Queries: "macbook air m3 vs m2", "macbook air vs macbook pro"
+  Attribute Queries: "16gb ram laptop", "fanless laptop", "thunderbolt laptop"
+  Natural Language Queries: "which macbook is best for students", "lightest laptop with long battery"
+  Typo Queries: "macbok air m3", "mac book air m3", "macbookair m3"
+
+Customer Questions & Answers:
+  Does it have a fan?: No, the MacBook Air M3 is completely fanless and runs silently.
+  How long does the battery last?: Up to 18 hours of video playback according to Apple's testing.
+  Can the RAM be upgraded later?: No, unified memory is fixed at time of purchase and cannot be upgraded.
+  Does it support external displays?: Yes, it can drive one external display up to 6K resolution.
+  Is storage expandable?: No, internal SSD storage is fixed at time of purchase.
+  Does it charge via USB-C?: Yes, via MagSafe 3 or either Thunderbolt/USB 4 port.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: Apple M3 (8-core CPU)
+      Common Search Terms: m3 chip, apple silicon, fast macbook
+      Filter Value: M3
+
+  [2] Attribute: Memory
+      Value: 8GB / 16GB / 24GB
+      Common Search Terms: unified memory laptop, ram options macbook
+      Filter Value: 16GB
+
+  [3] Attribute: Storage
+      Value: 256GB / 512GB / 1TB SSD
+      Common Search Terms: ssd storage laptop, macbook storage options
+      Filter Value: 512GB
+
+  [4] Attribute: Battery
+      Value: Up to 18 hours
+      Common Search Terms: long battery laptop, all day battery macbook
+      Filter Value: 18hrs
+
+  [5] Attribute: Weight
+      Value: 1.24kg
+      Common Search Terms: lightweight laptop, portable macbook
+      Filter Value: 1.24kg
+
+  [6] Attribute: Display
+      Value: 13.6-inch Liquid Retina
+      Common Search Terms: retina display laptop, color accurate screen
+      Filter Value: 13.6in
+
+  [7] Attribute: Design
+      Value: Fanless
+      Common Search Terms: silent laptop, no fan macbook
+      Filter Value: Fanless
+
+Customer Reviews:
+  ★★★★★: Completely silent even when compiling code for extended periods, something my old Windows laptop never managed.
+  ★★★★★: Battery genuinely lasts a full day of classes and note-taking without needing a charger.
+  ★★★★☆: Performance is excellent for everyday tasks but light video editing does slow down under heavy exports.
+  ★★★★☆: Display colors look great for photo review, though brightness could be higher for outdoor use.
+  ★★★☆☆: Only two Thunderbolt ports means I need a dongle for anything beyond basic peripherals.
+  ★★★☆☆: Base 8GB configuration feels tight if you keep many browser tabs and apps open simultaneously.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Apple MacBook Air 15-inch M3
+  2: Apple MacBook Pro 14-inch M3
+
+Brand Ecosystem Products:
+  1: AirPods Pro 2
+  2: Apple Watch Series 10
+  3: Magic Mouse
+  4: Magic Keyboard
+
+Compatible Accessories:
+  Cases & Sleeves: Apple Leather Sleeve, Incase Laptop Sleeve
+  Chargers: Apple 35W Dual USB-C Power Adapter
+  Docks & Hubs: Anker USB-C Hub for MacBook
+  Input Devices: Magic Mouse, Magic Keyboard
+  Audio Accessories: AirPods Pro 2
+  Storage Accessories: Samsung T9 Portable SSD
+
+Frequently Bought Together:
+  1: USB-C hub with HDMI
+  2: Laptop sleeve
+
+Budget Alternatives:
+  1: Apple MacBook Air M2
+  2: Apple MacBook Air 15-inch M2

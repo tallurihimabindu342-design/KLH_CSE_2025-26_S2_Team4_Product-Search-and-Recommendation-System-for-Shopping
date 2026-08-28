@@ -1,0 +1,189 @@
+DELL ULTRASHARP U2724DE
+=======================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P015
+  Product Name: Dell UltraSharp U2724DE
+  Also Known As: Dell U2724DE, UltraSharp 27 U2724DE, Dell UltraSharp 27 4K
+  Brand: Dell
+  Category: Electronics
+  Subcategory: Monitors
+  Model: U2724DE
+  Variants: Standard
+  Colours: Platinum Silver / Black
+  Selling Price: ₹52,999
+  Average Rating: 4.5/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Computer Peripherals
+  3: Monitors
+  4: Productivity Monitors
+
+Product Overview:
+  Overview: The Dell UltraSharp U2724DE is a 27-inch QHD IPS monitor built for professionals who need accurate colors and extensive connectivity for a clean desk setup.
+  Display Quality: A factory-calibrated IPS Black panel delivers accurate colors and improved contrast suited to design, spreadsheet, and document work.
+  Connectivity: Includes USB-C with 90W power delivery, allowing a single cable to power a laptop while transmitting video and data.
+  Ergonomics: A fully adjustable stand with height, tilt, swivel, and pivot supports long working sessions in a comfortable position.
+  Productivity: Built-in KVM switch and Ethernet port let users control two connected computers and share a wired network connection.
+
+Best For (Target Audience):
+  1: Business Professionals
+  2: Software Developers
+  3: Designers
+  4: Remote Workers
+  5: Office Managers Setting Up Workstations
+
+Technical Specifications:
+  Panel Type: 27-inch QHD (2560x1440) IPS Black
+  Refresh Rate: 120Hz
+  Color Accuracy: Factory calibrated, 100% sRGB, Delta E<2
+  Ports: USB-C (90W PD), HDMI, DisplayPort, USB hub, Ethernet (RJ45)
+  Ergonomics: Height, tilt, swivel, pivot adjustable stand
+  Build: Ultra-thin bezel, VESA mount compatible
+
+Quick Highlights:
+  1: QHD IPS Black Panel
+  2: 90W USB-C Power Delivery
+  3: Built-in KVM Switch
+  4: Factory Color Calibration
+  5: 120Hz Refresh Rate
+  6: Ethernet Passthrough
+
+Key Features:
+  [1] Feature Name: USB-C with 90W Power Delivery
+      Description: Charges a connected laptop at up to 90W while carrying video and data over a single cable.
+      Benefits: Single-cable desk setup, less cable clutter
+      Common Search Terms: usb-c monitor power delivery, single cable monitor, dell usb-c hub monitor
+
+  [2] Feature Name: IPS Black Panel Technology
+      Description: Improved contrast ratio over standard IPS panels while retaining accurate wide-angle colors.
+      Benefits: Better contrast, accurate colors for design work
+      Common Search Terms: ips black monitor, high contrast ips display, dell ultrasharp panel
+
+  [3] Feature Name: Built-in KVM Switch
+      Description: Allows controlling two connected computers with a single keyboard and mouse.
+      Benefits: Simplified multi-computer workflow, less desk clutter
+      Common Search Terms: kvm switch monitor, dual computer monitor, dell kvm feature
+
+  [4] Feature Name: Factory Color Calibration
+      Description: Each unit is individually calibrated for color accuracy before shipping.
+      Benefits: Reliable color accuracy out of the box, less manual calibration
+      Common Search Terms: color accurate monitor, factory calibrated display, design monitor
+
+  [5] Feature Name: Ethernet Passthrough
+      Description: Built-in RJ45 port shares a wired network connection to a connected laptop over USB-C.
+      Benefits: Stable wired internet without extra adapters
+      Common Search Terms: monitor with ethernet port, usb-c ethernet monitor, wired network monitor
+
+Best Use Cases (Activities):
+  1: Business Productivity
+  2: Software Development
+  3: Graphic Design
+  4: Video Conferencing Setup
+  5: Multi-computer Workstations
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: dell ultrasharp u2724de, dell u2724de, ultrasharp 27 qhd monitor
+  Feature Keywords: best productivity monitor, usb-c power delivery monitor, monitor with kvm switch, color accurate monitor
+  Technical Keywords: IPS Black panel, 90W USB-C, factory calibration, ethernet monitor
+  Aliases: dell ultrasharp 27, u2724de monitor, dell qhd monitor
+  Synonyms: business monitor, office monitor, productivity display
+  Common Misspellings: dell ultra sharp u2724de, dell u2724 de, dell ultrasharp u2724, del ultrasharp
+  Search Phrases: best monitor for programming, monitor with usb-c charging, monitor for laptop docking, best dell monitor for office
+  Search Intent Keywords: buy office monitor, upgrade to usb-c monitor, workstation monitor purchase
+  Related Search Terms: monitor for macbook, monitor with ethernet port, dual computer monitor setup, monitor for remote work
+
+Customer Search Queries:
+  Exact Queries: "dell ultrasharp u2724de", "dell u2724de qhd monitor"
+  Partial Queries: "dell ultrasharp 27", "u2724de"
+  Feature Queries: "monitor with usb-c power delivery", "monitor with kvm switch", "monitor with ethernet port"
+  Comparison Queries: "dell u2724de vs lg ultrafine", "dell ultrasharp vs benq designvue"
+  Attribute Queries: "90w usb-c monitor", "ips black monitor", "factory calibrated monitor"
+  Natural Language Queries: "which monitor charges my laptop", "monitor for two computers"
+  Typo Queries: "dell u2724 de", "dell ultra sharp u2724de", "del ultrasharp"
+
+Customer Questions & Answers:
+  Does it charge a laptop over USB-C?: Yes, it delivers up to 90W of power over a single USB-C cable.
+  Does it have a KVM switch?: Yes, a built-in KVM switch lets you control two computers with one keyboard and mouse.
+  Is the panel factory calibrated?: Yes, each unit ships with factory color calibration for accurate output.
+  Does it include an Ethernet port?: Yes, an RJ45 port shares a wired connection with a connected laptop via USB-C.
+  What is the refresh rate?: 120Hz, higher than typical productivity monitors.
+  Is the stand height adjustable?: Yes, it supports height, tilt, swivel, and pivot adjustment.
+
+Searchable Attributes:
+  [1] Attribute: Panel Type
+      Value: QHD IPS Black
+      Common Search Terms: ips black monitor panel, qhd business monitor
+      Filter Value: IPS Black
+
+  [2] Attribute: USB-C Power Delivery
+      Value: 90W
+      Common Search Terms: usb-c charging monitor, laptop charging monitor
+      Filter Value: 90W
+
+  [3] Attribute: Refresh Rate
+      Value: 120Hz
+      Common Search Terms: 120hz productivity monitor, smooth office monitor
+      Filter Value: 120Hz
+
+  [4] Attribute: KVM Switch
+      Value: Built-in
+      Common Search Terms: kvm monitor, dual pc monitor switch
+      Filter Value: Built-in KVM
+
+  [5] Attribute: Color Accuracy
+      Value: 100% sRGB, Delta E<2
+      Common Search Terms: color accurate monitor spec, design monitor color
+      Filter Value: Delta E<2
+
+  [6] Attribute: Ports
+      Value: USB-C, HDMI, DP, Ethernet
+      Common Search Terms: monitor port options, usb-c hub monitor
+      Filter Value: USB-C/HDMI/DP/RJ45
+
+  [7] Attribute: Screen Size
+      Value: 27-inch
+      Common Search Terms: 27 inch monitor, mid size office monitor
+      Filter Value: 27in
+
+Customer Reviews:
+  ★★★★★: Single USB-C cable charges my laptop and drives the display, cutting my desk cable clutter dramatically.
+  ★★★★☆: KVM switch works reliably for jumping between my work and personal laptops without unplugging anything.
+  ★★★★☆: Color accuracy out of the box is impressive enough that I skipped manual calibration entirely.
+  ★★★☆☆: 120Hz is a nice bonus but this monitor is clearly built for productivity rather than gaming.
+  ★★★☆☆: Stand takes up a bit more desk depth than expected due to the adjustable arm mechanism.
+  ★★☆☆☆: Price is high for a QHD panel compared to some 4K alternatives at a similar cost.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Dell UltraSharp U2724D
+  2: Dell UltraSharp U3224KB
+
+Brand Ecosystem Products:
+  1: Dell XPS 14
+  2: Dell Thunderbolt Dock
+  3: Dell Premier Wireless Mouse
+
+Compatible Accessories:
+  Cables: USB-C to USB-C Cable, DisplayPort Cable
+  Mounts & Arms: Dell Monitor Arm, VESA Wall Mount
+  Docking Stations: Dell Thunderbolt Dock WD22TB4
+  Peripherals: Logitech MX Master 3S Mouse, Logitech MX Keys S Keyboard
+
+Frequently Bought Together:
+  1: USB-C to USB-C cable
+  2: Monitor arm mount
+
+Budget Alternatives:
+  1: Dell UltraSharp U2723QE
+  2: Dell P2723DE

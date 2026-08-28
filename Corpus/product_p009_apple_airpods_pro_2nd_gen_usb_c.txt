@@ -1,0 +1,190 @@
+APPLE AIRPODS PRO (2ND GEN USB-C)
+=================================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P009
+  Product Name: Apple AirPods Pro (2nd Gen USB-C)
+  Also Known As: AirPods Pro 2 USB-C, AirPods Pro 2nd Gen, AirPods Pro USB-C
+  Brand: Apple
+  Category: Electronics
+  Subcategory: Audio Devices
+  Model: A2698
+  Variants: Standard
+  Colours: White
+  Selling Price: ₹24,900
+  Average Rating: 4.6/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Audio Devices
+  3: Earbuds
+  4: Noise Cancelling In-Ear Earbuds
+
+Product Overview:
+  Overview: The AirPods Pro 2 with USB-C brings Apple's flagship earbuds in line with the wider USB-C ecosystem while keeping the same H2 chip and adaptive audio features.
+  Sound: The H2 chip powers Adaptive Audio, which blends Transparency and Active Noise Cancellation based on the environment automatically.
+  Noise Cancellation: Up to 2x more ANC than the first-generation AirPods Pro, effective for flights, commutes, and open offices.
+  Battery: Up to 6 hours of listening with ANC on, and up to 30 hours total with the charging case.
+  Fit & Health: Includes four ear tip sizes plus a new XS size, along with a hearing test and hearing aid feature via iOS.
+
+Best For (Target Audience):
+  1: iOS Users
+  2: Commuters
+  3: Fitness Users
+  4: Remote Workers
+  5: Frequent Travelers
+
+Technical Specifications:
+  Chip: Apple H2
+  Noise Cancellation: Active Noise Cancellation with Adaptive Audio and Transparency mode
+  Battery: Up to 6 hours (ANC on), 30 hours with case
+  Connectivity: Bluetooth 5.3, USB-C charging case
+  Water Resistance: IP54 (earbuds and case)
+  Fit: 4 ear tip sizes including new XS
+  Extras: Find My support, Precision Finding (U1 chip in case)
+
+Quick Highlights:
+  1: Apple H2 Chip
+  2: Adaptive Audio
+  3: USB-C Charging
+  4: IP54 Water Resistance
+  5: Hearing Health Features
+  6: Precision Finding
+
+Key Features:
+  [1] Feature Name: Adaptive Audio
+      Description: Dynamically blends Transparency and Noise Cancellation based on the surrounding environment.
+      Benefits: Seamless environment adaptation, less manual switching
+      Common Search Terms: adaptive audio airpods, airpods pro features, smart noise cancelling earbuds
+
+  [2] Feature Name: USB-C Charging Case
+      Description: Replaces the Lightning port with USB-C, matching newer iPhones and iPads.
+      Benefits: Single charger for multiple devices, simpler travel kit
+      Common Search Terms: airpods pro usb-c, usb-c earbuds case, apple usb-c charging
+
+  [3] Feature Name: Hearing Health Features
+      Description: Includes a clinical-grade hearing test and hearing aid functionality via iOS software update.
+      Benefits: Accessibility, hearing protection awareness
+      Common Search Terms: airpods hearing test, airpods hearing aid, apple hearing health
+
+  [4] Feature Name: Precision Finding
+      Description: U1 chip in the case allows precise location tracking via Find My with directional guidance.
+      Benefits: Easier to locate lost earbuds or case
+      Common Search Terms: find my airpods, precision finding airpods, lost earbuds tracker
+
+  [5] Feature Name: IP54 Water Resistance
+      Description: Protects against dust and splashes, suitable for workouts and light rain.
+      Benefits: Workout-friendly, weather resistant
+      Common Search Terms: waterproof airpods, sweat resistant earbuds, workout earbuds
+
+Best Use Cases (Activities):
+  1: Workouts and Fitness
+  2: Daily Commuting
+  3: Video Calls
+  4: Air Travel
+  5: Everyday iOS Integration
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: airpods pro 2 usb-c, airpods pro usb-c, apple airpods pro 2nd gen
+  Feature Keywords: best noise cancelling earbuds, airpods pro features, usb-c airpods, adaptive audio earbuds
+  Technical Keywords: H2 chip, IP54, bluetooth 5.3, precision finding
+  Aliases: airpods pro 2, apple pro earbuds, airpods usb-c version
+  Synonyms: wireless earbuds, noise cancelling earbuds, in-ear anc earbuds
+  Common Misspellings: air pods pro 2, airpod pro usb c, airpods pro usbc, airpodspro2
+  Search Phrases: best earbuds for iphone, earbuds with usb-c charging, best noise cancelling earbuds 2024, earbuds with hearing test
+  Search Intent Keywords: buy noise cancelling earbuds, upgrade to usb-c earbuds, apple earbuds purchase
+  Related Search Terms: earbuds for workouts, earbuds for commuting, apple earbuds with anc, earbuds with find my
+
+Customer Search Queries:
+  Exact Queries: "airpods pro 2 usb-c", "apple airpods pro 2nd generation usb-c"
+  Partial Queries: "airpods pro usb-c", "airpods pro 2"
+  Feature Queries: "earbuds with usb-c", "earbuds with hearing test", "earbuds with adaptive audio"
+  Comparison Queries: "airpods pro 2 usb-c vs lightning", "airpods pro vs airpods max"
+  Attribute Queries: "ip54 earbuds", "bluetooth 5.3 earbuds", "u1 chip earbuds case"
+  Natural Language Queries: "which airpods have usb-c", "earbuds that work as hearing aids"
+  Typo Queries: "air pods pro 2", "airpod pro usbc", "airpods pro usb c"
+
+Customer Questions & Answers:
+  Does it charge via USB-C?: Yes, the case uses a USB-C port instead of Lightning.
+  Is it water resistant?: Yes, IP54 rated for dust and splash resistance.
+  Does it support Android devices?: Basic Bluetooth audio works, but Adaptive Audio and hearing features require iOS.
+  How long does the battery last?: Up to 6 hours per charge, 30 hours total with the case.
+  Does it include a hearing test?: Yes, added via a software update, available through the Health app on iOS.
+  Can I find a lost case using Find My?: Yes, the case includes a U1 chip for Precision Finding.
+
+Searchable Attributes:
+  [1] Attribute: Chip
+      Value: Apple H2
+      Common Search Terms: h2 chip airpods, apple audio chip
+      Filter Value: H2
+
+  [2] Attribute: Battery Life
+      Value: 6 hours (ANC on)
+      Common Search Terms: airpods battery life, long battery earbuds
+      Filter Value: 6hrs
+
+  [3] Attribute: Charging Port
+      Value: USB-C
+      Common Search Terms: usb-c earbuds, apple usb-c case
+      Filter Value: USB-C
+
+  [4] Attribute: Water Resistance
+      Value: IP54
+      Common Search Terms: waterproof earbuds, sweat resistant airpods
+      Filter Value: IP54
+
+  [5] Attribute: Connectivity
+      Value: Bluetooth 5.3
+      Common Search Terms: bluetooth 5.3 earbuds, latest bluetooth airpods
+      Filter Value: BT 5.3
+
+  [6] Attribute: Ear Tip Sizes
+      Value: 4 sizes (incl. XS)
+      Common Search Terms: airpods fit sizes, small ear tip airpods
+      Filter Value: 4 sizes
+
+  [7] Attribute: Find My Support
+      Value: Yes, U1 chip
+      Common Search Terms: find my airpods case, precision finding earbuds
+      Filter Value: U1 chip
+
+Customer Reviews:
+  ★★★★★: Adaptive Audio switches so smoothly between environments that I stopped manually toggling modes entirely.
+  ★★★★★: Having USB-C means I no longer need a separate Lightning cable just for my earbuds case.
+  ★★★★☆: Noise cancellation is excellent for the size, though over-ear headphones still block more sound overall.
+  ★★★★☆: Fit feels secure during workouts and hasn't fallen out even during running.
+  ★★★☆☆: Battery life is good but not class-leading compared to some Android competitors.
+  ★★★☆☆: Case is easy to lose track of given how small and light it is.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Apple AirPods 4 with ANC
+  2: Apple AirPods Max
+
+Brand Ecosystem Products:
+  1: Apple Watch Series 10
+  2: iPhone 16 Pro Max
+  3: Apple MagSafe Charger
+
+Compatible Accessories:
+  Cases: Apple AirPods Pro Silicone Case, Spigen Silicone Case
+  Chargers: Apple 20W USB-C Power Adapter
+  Ear Tips: Apple Silicone Ear Tips (XS/S/M/L)
+  Cables: Apple USB-C to USB-C Cable
+
+Frequently Bought Together:
+  1: Silicone protective case for charging case
+  2: USB-C charging cable
+
+Budget Alternatives:
+  1: Apple AirPods 4
+  2: Apple AirPods 3
