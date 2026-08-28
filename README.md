@@ -47,26 +47,34 @@ The system also incorporates Levenshtein Edit Distance for spelling-error recove
 
 ## Algorithms and Data Structures
 
-The project includes:
+Product Corpus
+       |
+       v
+  Corpus Loader
+       |
+       v
+ Product Records
+       |
+       v
+    User Query
+       |
+       +-------------------+
+       |                   |
+       v                   v
+      KMP             Rabin-Karp
+       |                   |
+       +---------+---------+
+                 |
+                 v
+        Matching Products
+                 |
+                 v
+       Algorithm Comparison
+                 |
+                 v
+       Performance Analysis
 
-- Knuth-Morris-Pratt (KMP) pattern matching
-- Rabin-Karp pattern matching
-- Pattern/String Matching
-- LPS array
-- Rolling hash
-- Levenshtein Edit Distance
-- Product corpus loading
-- Product document processing
-- Search result matching
-- Relevance-based product ranking
-- Algorithm performance comparison
-- Product detail retrieval
-- Trie-based prefix suggestions
-
-Future phases may incorporate additional DSA-3 concepts based on the project requirements and course progression.
-
----
-
+       
 ## Product Corpus
 
 The system uses a structured product corpus containing **20 product text files**.
@@ -84,15 +92,4 @@ Each product document contains information such as:
 - Best use cases
 - Searchable attributes
 
-Example corpus structure:
-
-```text
-corpus/
-│
-├── product_p001_samsung_s24_ultra.txt
-├── product_p002_apple_iphone_16_pro_max.txt
-├── product_p003_google_pixel_9_pro_xl.txt
-├── product_p004_oneplus_13.txt
-├── product_p005_apple_macbook_air_m3_13.txt
-├── ...
 └── product_p020_samsung_t9_portable_ssd_2tb.txt
