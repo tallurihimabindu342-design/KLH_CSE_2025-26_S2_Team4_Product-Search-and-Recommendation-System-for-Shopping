@@ -1,0 +1,194 @@
+APPLE WATCH ULTRA 2
+APPLE WATCH ULTRA 2
+=====================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P098
+  Product Name: Apple Watch Ultra 2
+  Also Known As: Apple Watch Ultra 2, AppleWatchUltra2, Apple Smartwatches
+  Brand: Apple
+  Category: Electronics
+  Subcategory: Smartwatches
+  Model: P098
+  Variants: Standard, Premium
+  Colours: Black, Silver, Gray, Blue
+  Selling Price: INR 89,900
+  Average Rating: 4.7/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Smartwatches
+  3: Consumer Technology
+  4: Smartwatches Products
+
+Product Overview:
+  Overview: The Apple Watch Ultra 2 is a Apple smartwatches designed for users who need dependable performance, practical features, and modern connectivity.
+  Performance: Powered by S9 SiP, the product is designed for responsive everyday use, multitasking, and demanding workloads appropriate to its category.
+  Camera: The product focuses on category-specific performance and practical features rather than a single-use workflow.
+  Battery: Power efficiency and dependable daily operation are designed around normal usage patterns for this category.
+  Software: The product is designed to work with current operating systems, applications, devices, and standard consumer technology ecosystems.
+
+Best For (Target Audience):
+  1: Runners
+  2: Fitness Users
+  3: Students
+  4: Professionals
+  5: Outdoor Users
+
+Technical Specifications:
+  Display: Category-appropriate high-quality display or interface
+  Processor: S9 SiP
+  Memory: Standard configuration for the product category
+  Camera: Category-dependent imaging or video capability
+  Battery: Designed for extended everyday operation
+  Connectivity: Wi-Fi, Bluetooth, USB or category-appropriate interfaces
+  Build: Durable consumer-grade construction
+
+Quick Highlights:
+  1: S9 SiP
+  2: Modern Connectivity
+  3: Performance-focused Design
+  4: Productivity Features
+  5: Reliable Everyday Use
+  6: Apple Ecosystem Compatibility
+  7: Practical Consumer Design
+
+Key Features:
+  [1] Feature Name: Performance Platform
+      Description: Uses S9 SiP to provide responsive performance for supported workloads.
+      Benefits: Smooth operation, multitasking, dependable performance
+      Common Search Terms: s9 sip, fast smartwatches, high performance smartwatches
+  [2] Feature Name: Modern Connectivity
+      Description: Provides convenient connection with current devices, networks, and accessories.
+      Benefits: Flexible setup, easier device integration, convenient connectivity
+      Common Search Terms: wireless smartwatches, bluetooth, connectivity
+  [3] Feature Name: Productivity Design
+      Description: Designed to support common work, study, entertainment, and creative workflows.
+      Benefits: Better productivity, easier daily use, versatile operation
+      Common Search Terms: productivity smartwatches, work smartwatches, student smartwatches
+  [4] Feature Name: Premium Build
+      Description: Uses a durable design intended for regular everyday usage.
+      Benefits: Durability, practical everyday use, dependable construction
+      Common Search Terms: durable smartwatches, premium smartwatches, reliable smartwatches
+  [5] Feature Name: Everyday Usability
+      Description: Combines practical controls and category-specific features for daily use.
+      Benefits: Convenience, usability, versatile operation
+      Common Search Terms: easy to use smartwatches, everyday smartwatches, apple
+
+Best Use Cases (Activities):
+  1: Fitness Tracking
+  2: Running
+  3: Health Monitoring
+  4: Travel
+  5: Daily Productivity
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: apple watch ultra 2, apple smartwatches, smartwatches apple
+  Feature Keywords: smartwatches performance, productivity smartwatches, premium smartwatches, modern smartwatches
+  Technical Keywords: S9 SiP, modern connectivity, performance, productivity
+  Aliases: apple watch ultra 2, apple smartwatches, apple product
+  Synonyms: smartwatches, consumer electronics, technology product
+  Common Misspellings: appl watch ultra 2, aple watch ultra 2, applewatchultra2
+  Search Phrases: best smartwatches for students, best smartwatches for work, apple smartwatches review, apple watch ultra 2 specifications
+  Search Intent Keywords: buy smartwatches, upgrade smartwatches, smartwatches for productivity
+  Related Search Terms: affordable smartwatches, premium smartwatches, best smartwatches, reliable smartwatches
+
+Customer Search Queries:
+  Exact Queries: "apple watch ultra 2", "apple smartwatches"
+  Partial Queries: "apple smartwatches", "apple"
+  Feature Queries: "best smartwatches for students", "best smartwatches for productivity", "fast smartwatches"
+  Comparison Queries: "apple smartwatches vs alternatives", "apple watch ultra 2 vs previous model"
+  Attribute Queries: "high performance smartwatches", "best smartwatches for work"
+  Natural Language Queries: "which smartwatches is good for students", "best smartwatches for productivity"
+  Typo Queries: "appl watch ultra 2, aple watch ultra 2, applewatchultra2"
+
+Customer Questions & Answers:
+  Is it suitable for students?: Yes, it is designed to support common study and productivity workflows.
+  Is it suitable for professional use?: Yes, it can be used for supported professional workloads within its category.
+  Does it support modern connectivity?: Yes, it is designed around current connectivity options appropriate for the product category.
+  Is it available?: The product is listed as in stock in this corpus entry.
+  Is it suitable for travel?: Its suitability depends on the user's setup and portability requirements.
+  Does it support multitasking?: Yes, the S9 SiP platform is intended to provide responsive performance for supported workloads.
+  Does it work with common devices?: Yes, it is designed for compatibility with standard devices and accessories in its category.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: S9 SiP
+      Common Search Terms: s9 sip, processor, performance platform
+      Filter Value: S9 SiP
+
+  [2] Attribute: Category
+      Value: Smartwatches
+      Common Search Terms: smartwatches, best smartwatches, smartwatches product
+      Filter Value: Smartwatches
+
+  [3] Attribute: Brand
+      Value: Apple
+      Common Search Terms: apple, apple electronics, apple product
+      Filter Value: Apple
+
+  [4] Attribute: Rating
+      Value: 4.7/5
+      Common Search Terms: highly rated, 4.7 rating, customer rating
+      Filter Value: 4.7
+
+  [5] Attribute: Connectivity
+      Value: Modern connectivity
+      Common Search Terms: wireless, bluetooth, usb, connectivity
+      Filter Value: Modern
+
+  [6] Attribute: Availability
+      Value: In Stock
+      Common Search Terms: available product, in stock, buy apple watch ultra 2
+      Filter Value: In Stock
+
+  [7] Attribute: Use Case
+      Value: Productivity and everyday use
+      Common Search Terms: productivity, student, work, everyday use
+      Filter Value: Productivity
+
+Customer Reviews:
+  ★★★★★: The Apple Watch Ultra 2 performs very well for everyday smartwatches use and feels reliable in regular workloads.
+  ★★★★★: Setup was straightforward and the main features of the Apple Watch Ultra 2 are easy to use.
+  ★★★★☆: Performance is strong for my workflow, especially when using the primary features regularly.
+  ★★★★☆: The build quality feels solid and the product integrates well with my existing setup.
+  ★★★☆☆: Good product overall, although some advanced features could be improved.
+  ★★★☆☆: The experience is generally positive, but the price and a few limitations are worth considering.
+  ★★☆☆☆: It works well, but I expected a little more from a product in this price range.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Apple Smartwatches alternative
+  2: Premium smartwatches alternative
+
+Brand Ecosystem Products:
+  1: Apple compatible accessory
+  2: Apple companion device
+  3: Apple connectivity accessory
+  4: Apple official accessory
+
+Compatible Accessories:
+  Cases & Covers: Protective case or sleeve where applicable
+  Chargers: Compatible power adapter where applicable
+  Wireless Chargers: Compatible wireless charging accessory where applicable
+  Screen Protectors: Compatible protective screen accessory where applicable
+  Audio Accessories: Compatible audio accessory
+  Wearables: Compatible wearable or companion device
+
+Frequently Bought Together:
+  1: Protective accessory
+  2: Connectivity accessory
+
+Budget Alternatives:
+  1: Previous-generation smartwatches
+  2: Entry-level smartwatches
+=====================

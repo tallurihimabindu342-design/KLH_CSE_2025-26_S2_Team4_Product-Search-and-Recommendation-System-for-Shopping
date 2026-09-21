@@ -1,0 +1,194 @@
+GARMIN FENIX 8
+GARMIN FENIX 8
+=====================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P099
+  Product Name: Garmin Fenix 8
+  Also Known As: Garmin Fenix 8, GarminFenix8, Garmin Smartwatches
+  Brand: Garmin
+  Category: Electronics
+  Subcategory: Smartwatches
+  Model: P099
+  Variants: Standard, Premium
+  Colours: Black, Silver, Gray, Blue
+  Selling Price: INR 1,11,990
+  Average Rating: 4.7/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Smartwatches
+  3: Consumer Technology
+  4: Smartwatches Products
+
+Product Overview:
+  Overview: The Garmin Fenix 8 is a Garmin smartwatches designed for users who need dependable performance, practical features, and modern connectivity.
+  Performance: Powered by AMOLED multisport platform, the product is designed for responsive everyday use, multitasking, and demanding workloads appropriate to its category.
+  Camera: The product focuses on category-specific performance and practical features rather than a single-use workflow.
+  Battery: Power efficiency and dependable daily operation are designed around normal usage patterns for this category.
+  Software: The product is designed to work with current operating systems, applications, devices, and standard consumer technology ecosystems.
+
+Best For (Target Audience):
+  1: Runners
+  2: Fitness Users
+  3: Students
+  4: Professionals
+  5: Outdoor Users
+
+Technical Specifications:
+  Display: Category-appropriate high-quality display or interface
+  Processor: AMOLED multisport platform
+  Memory: Standard configuration for the product category
+  Camera: Category-dependent imaging or video capability
+  Battery: Designed for extended everyday operation
+  Connectivity: Wi-Fi, Bluetooth, USB or category-appropriate interfaces
+  Build: Durable consumer-grade construction
+
+Quick Highlights:
+  1: AMOLED multisport platform
+  2: Modern Connectivity
+  3: Performance-focused Design
+  4: Productivity Features
+  5: Reliable Everyday Use
+  6: Garmin Ecosystem Compatibility
+  7: Practical Consumer Design
+
+Key Features:
+  [1] Feature Name: Performance Platform
+      Description: Uses AMOLED multisport platform to provide responsive performance for supported workloads.
+      Benefits: Smooth operation, multitasking, dependable performance
+      Common Search Terms: amoled multisport platform, fast smartwatches, high performance smartwatches
+  [2] Feature Name: Modern Connectivity
+      Description: Provides convenient connection with current devices, networks, and accessories.
+      Benefits: Flexible setup, easier device integration, convenient connectivity
+      Common Search Terms: wireless smartwatches, bluetooth, connectivity
+  [3] Feature Name: Productivity Design
+      Description: Designed to support common work, study, entertainment, and creative workflows.
+      Benefits: Better productivity, easier daily use, versatile operation
+      Common Search Terms: productivity smartwatches, work smartwatches, student smartwatches
+  [4] Feature Name: Premium Build
+      Description: Uses a durable design intended for regular everyday usage.
+      Benefits: Durability, practical everyday use, dependable construction
+      Common Search Terms: durable smartwatches, premium smartwatches, reliable smartwatches
+  [5] Feature Name: Everyday Usability
+      Description: Combines practical controls and category-specific features for daily use.
+      Benefits: Convenience, usability, versatile operation
+      Common Search Terms: easy to use smartwatches, everyday smartwatches, garmin
+
+Best Use Cases (Activities):
+  1: Fitness Tracking
+  2: Running
+  3: Health Monitoring
+  4: Travel
+  5: Daily Productivity
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: garmin fenix 8, garmin smartwatches, smartwatches garmin
+  Feature Keywords: smartwatches performance, productivity smartwatches, premium smartwatches, modern smartwatches
+  Technical Keywords: AMOLED multisport platform, modern connectivity, performance, productivity
+  Aliases: garmin fenix 8, garmin smartwatches, garmin product
+  Synonyms: smartwatches, consumer electronics, technology product
+  Common Misspellings: garmi fenix 8, grmin fenix 8, garminfenix8
+  Search Phrases: best smartwatches for students, best smartwatches for work, garmin smartwatches review, garmin fenix 8 specifications
+  Search Intent Keywords: buy smartwatches, upgrade smartwatches, smartwatches for productivity
+  Related Search Terms: affordable smartwatches, premium smartwatches, best smartwatches, reliable smartwatches
+
+Customer Search Queries:
+  Exact Queries: "garmin fenix 8", "garmin smartwatches"
+  Partial Queries: "garmin smartwatches", "garmin"
+  Feature Queries: "best smartwatches for students", "best smartwatches for productivity", "fast smartwatches"
+  Comparison Queries: "garmin smartwatches vs alternatives", "garmin fenix 8 vs previous model"
+  Attribute Queries: "high performance smartwatches", "best smartwatches for work"
+  Natural Language Queries: "which smartwatches is good for students", "best smartwatches for productivity"
+  Typo Queries: "garmi fenix 8, grmin fenix 8, garminfenix8"
+
+Customer Questions & Answers:
+  Is it suitable for students?: Yes, it is designed to support common study and productivity workflows.
+  Is it suitable for professional use?: Yes, it can be used for supported professional workloads within its category.
+  Does it support modern connectivity?: Yes, it is designed around current connectivity options appropriate for the product category.
+  Is it available?: The product is listed as in stock in this corpus entry.
+  Is it suitable for travel?: Its suitability depends on the user's setup and portability requirements.
+  Does it support multitasking?: Yes, the AMOLED multisport platform platform is intended to provide responsive performance for supported workloads.
+  Does it work with common devices?: Yes, it is designed for compatibility with standard devices and accessories in its category.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: AMOLED multisport platform
+      Common Search Terms: amoled multisport platform, processor, performance platform
+      Filter Value: AMOLED multisport platform
+
+  [2] Attribute: Category
+      Value: Smartwatches
+      Common Search Terms: smartwatches, best smartwatches, smartwatches product
+      Filter Value: Smartwatches
+
+  [3] Attribute: Brand
+      Value: Garmin
+      Common Search Terms: garmin, garmin electronics, garmin product
+      Filter Value: Garmin
+
+  [4] Attribute: Rating
+      Value: 4.7/5
+      Common Search Terms: highly rated, 4.7 rating, customer rating
+      Filter Value: 4.7
+
+  [5] Attribute: Connectivity
+      Value: Modern connectivity
+      Common Search Terms: wireless, bluetooth, usb, connectivity
+      Filter Value: Modern
+
+  [6] Attribute: Availability
+      Value: In Stock
+      Common Search Terms: available product, in stock, buy garmin fenix 8
+      Filter Value: In Stock
+
+  [7] Attribute: Use Case
+      Value: Productivity and everyday use
+      Common Search Terms: productivity, student, work, everyday use
+      Filter Value: Productivity
+
+Customer Reviews:
+  ★★★★★: The Garmin Fenix 8 performs very well for everyday smartwatches use and feels reliable in regular workloads.
+  ★★★★★: Setup was straightforward and the main features of the Garmin Fenix 8 are easy to use.
+  ★★★★☆: Performance is strong for my workflow, especially when using the primary features regularly.
+  ★★★★☆: The build quality feels solid and the product integrates well with my existing setup.
+  ★★★☆☆: Good product overall, although some advanced features could be improved.
+  ★★★☆☆: The experience is generally positive, but the price and a few limitations are worth considering.
+  ★★☆☆☆: It works well, but I expected a little more from a product in this price range.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Garmin Smartwatches alternative
+  2: Premium smartwatches alternative
+
+Brand Ecosystem Products:
+  1: Garmin compatible accessory
+  2: Garmin companion device
+  3: Garmin connectivity accessory
+  4: Garmin official accessory
+
+Compatible Accessories:
+  Cases & Covers: Protective case or sleeve where applicable
+  Chargers: Compatible power adapter where applicable
+  Wireless Chargers: Compatible wireless charging accessory where applicable
+  Screen Protectors: Compatible protective screen accessory where applicable
+  Audio Accessories: Compatible audio accessory
+  Wearables: Compatible wearable or companion device
+
+Frequently Bought Together:
+  1: Protective accessory
+  2: Connectivity accessory
+
+Budget Alternatives:
+  1: Previous-generation smartwatches
+  2: Entry-level smartwatches
+=====================

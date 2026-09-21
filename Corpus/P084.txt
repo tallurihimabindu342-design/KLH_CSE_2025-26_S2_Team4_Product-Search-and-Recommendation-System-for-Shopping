@@ -1,0 +1,194 @@
+FUJIFILM X-T5
+FUJIFILM X-T5
+=====================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P084
+  Product Name: Fujifilm X-T5
+  Also Known As: Fujifilm X-T5, FujifilmX-T5, Fujifilm Cameras
+  Brand: Fujifilm
+  Category: Electronics
+  Subcategory: Cameras
+  Model: P084
+  Variants: Standard, Premium
+  Colours: Black, Silver, Gray, Blue
+  Selling Price: INR 1,69,999
+  Average Rating: 4.7/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Cameras
+  3: Consumer Technology
+  4: Cameras Products
+
+Product Overview:
+  Overview: The Fujifilm X-T5 is a Fujifilm cameras designed for users who need dependable performance, practical features, and modern connectivity.
+  Performance: Powered by 40.2MP X-Trans CMOS, the product is designed for responsive everyday use, multitasking, and demanding workloads appropriate to its category.
+  Camera: The product focuses on category-specific performance and practical features rather than a single-use workflow.
+  Battery: Power efficiency and dependable daily operation are designed around normal usage patterns for this category.
+  Software: The product is designed to work with current operating systems, applications, devices, and standard consumer technology ecosystems.
+
+Best For (Target Audience):
+  1: Photographers
+  2: Content Creators
+  3: Videographers
+  4: Travelers
+  5: Professionals
+
+Technical Specifications:
+  Display: Category-appropriate high-quality display or interface
+  Processor: 40.2MP X-Trans CMOS
+  Memory: Standard configuration for the product category
+  Camera: Category-dependent imaging or video capability
+  Battery: Designed for extended everyday operation
+  Connectivity: Wi-Fi, Bluetooth, USB or category-appropriate interfaces
+  Build: Durable consumer-grade construction
+
+Quick Highlights:
+  1: 40.2MP X-Trans CMOS
+  2: Modern Connectivity
+  3: Performance-focused Design
+  4: Productivity Features
+  5: Reliable Everyday Use
+  6: Fujifilm Ecosystem Compatibility
+  7: Practical Consumer Design
+
+Key Features:
+  [1] Feature Name: Performance Platform
+      Description: Uses 40.2MP X-Trans CMOS to provide responsive performance for supported workloads.
+      Benefits: Smooth operation, multitasking, dependable performance
+      Common Search Terms: 40.2mp x-trans cmos, fast cameras, high performance cameras
+  [2] Feature Name: Modern Connectivity
+      Description: Provides convenient connection with current devices, networks, and accessories.
+      Benefits: Flexible setup, easier device integration, convenient connectivity
+      Common Search Terms: wireless cameras, bluetooth, connectivity
+  [3] Feature Name: Productivity Design
+      Description: Designed to support common work, study, entertainment, and creative workflows.
+      Benefits: Better productivity, easier daily use, versatile operation
+      Common Search Terms: productivity cameras, work cameras, student cameras
+  [4] Feature Name: Premium Build
+      Description: Uses a durable design intended for regular everyday usage.
+      Benefits: Durability, practical everyday use, dependable construction
+      Common Search Terms: durable cameras, premium cameras, reliable cameras
+  [5] Feature Name: Everyday Usability
+      Description: Combines practical controls and category-specific features for daily use.
+      Benefits: Convenience, usability, versatile operation
+      Common Search Terms: easy to use cameras, everyday cameras, fujifilm
+
+Best Use Cases (Activities):
+  1: Photography
+  2: Video Production
+  3: Travel
+  4: Content Creation
+  5: Events
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: fujifilm x-t5, fujifilm cameras, cameras fujifilm
+  Feature Keywords: cameras performance, productivity cameras, premium cameras, modern cameras
+  Technical Keywords: 40.2MP X-Trans CMOS, modern connectivity, performance, productivity
+  Aliases: fujifilm x-t5, fujifilm cameras, fujifilm product
+  Synonyms: cameras, consumer electronics, technology product
+  Common Misspellings: fujifil x-t5, fjifilm x-t5, fujifilmx-t5
+  Search Phrases: best cameras for students, best cameras for work, fujifilm cameras review, fujifilm x-t5 specifications
+  Search Intent Keywords: buy cameras, upgrade cameras, cameras for productivity
+  Related Search Terms: affordable cameras, premium cameras, best cameras, reliable cameras
+
+Customer Search Queries:
+  Exact Queries: "fujifilm x-t5", "fujifilm cameras"
+  Partial Queries: "fujifilm cameras", "fujifilm"
+  Feature Queries: "best cameras for students", "best cameras for productivity", "fast cameras"
+  Comparison Queries: "fujifilm cameras vs alternatives", "fujifilm x-t5 vs previous model"
+  Attribute Queries: "high performance cameras", "best cameras for work"
+  Natural Language Queries: "which cameras is good for students", "best cameras for productivity"
+  Typo Queries: "fujifil x-t5, fjifilm x-t5, fujifilmx-t5"
+
+Customer Questions & Answers:
+  Is it suitable for students?: Yes, it is designed to support common study and productivity workflows.
+  Is it suitable for professional use?: Yes, it can be used for supported professional workloads within its category.
+  Does it support modern connectivity?: Yes, it is designed around current connectivity options appropriate for the product category.
+  Is it available?: The product is listed as in stock in this corpus entry.
+  Is it suitable for travel?: Its suitability depends on the user's setup and portability requirements.
+  Does it support multitasking?: Yes, the 40.2MP X-Trans CMOS platform is intended to provide responsive performance for supported workloads.
+  Does it work with common devices?: Yes, it is designed for compatibility with standard devices and accessories in its category.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: 40.2MP X-Trans CMOS
+      Common Search Terms: 40.2mp x-trans cmos, processor, performance platform
+      Filter Value: 40.2MP X-Trans CMOS
+
+  [2] Attribute: Category
+      Value: Cameras
+      Common Search Terms: cameras, best cameras, cameras product
+      Filter Value: Cameras
+
+  [3] Attribute: Brand
+      Value: Fujifilm
+      Common Search Terms: fujifilm, fujifilm electronics, fujifilm product
+      Filter Value: Fujifilm
+
+  [4] Attribute: Rating
+      Value: 4.7/5
+      Common Search Terms: highly rated, 4.7 rating, customer rating
+      Filter Value: 4.7
+
+  [5] Attribute: Connectivity
+      Value: Modern connectivity
+      Common Search Terms: wireless, bluetooth, usb, connectivity
+      Filter Value: Modern
+
+  [6] Attribute: Availability
+      Value: In Stock
+      Common Search Terms: available product, in stock, buy fujifilm x-t5
+      Filter Value: In Stock
+
+  [7] Attribute: Use Case
+      Value: Productivity and everyday use
+      Common Search Terms: productivity, student, work, everyday use
+      Filter Value: Productivity
+
+Customer Reviews:
+  ★★★★★: The Fujifilm X-T5 performs very well for everyday cameras use and feels reliable in regular workloads.
+  ★★★★★: Setup was straightforward and the main features of the Fujifilm X-T5 are easy to use.
+  ★★★★☆: Performance is strong for my workflow, especially when using the primary features regularly.
+  ★★★★☆: The build quality feels solid and the product integrates well with my existing setup.
+  ★★★☆☆: Good product overall, although some advanced features could be improved.
+  ★★★☆☆: The experience is generally positive, but the price and a few limitations are worth considering.
+  ★★☆☆☆: It works well, but I expected a little more from a product in this price range.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Fujifilm Cameras alternative
+  2: Premium cameras alternative
+
+Brand Ecosystem Products:
+  1: Fujifilm compatible accessory
+  2: Fujifilm companion device
+  3: Fujifilm connectivity accessory
+  4: Fujifilm official accessory
+
+Compatible Accessories:
+  Cases & Covers: Protective case or sleeve where applicable
+  Chargers: Compatible power adapter where applicable
+  Wireless Chargers: Compatible wireless charging accessory where applicable
+  Screen Protectors: Compatible protective screen accessory where applicable
+  Audio Accessories: Compatible audio accessory
+  Wearables: Compatible wearable or companion device
+
+Frequently Bought Together:
+  1: Protective accessory
+  2: Connectivity accessory
+
+Budget Alternatives:
+  1: Previous-generation cameras
+  2: Entry-level cameras
+=====================

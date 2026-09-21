@@ -1,0 +1,194 @@
+ASUS ZENBOOK 14 OLED
+ASUS ZENBOOK 14 OLED
+=====================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P028
+  Product Name: ASUS Zenbook 14 OLED
+  Also Known As: ASUS Zenbook 14 OLED, ASUSZenbook14OLED, ASUS Laptops
+  Brand: ASUS
+  Category: Electronics
+  Subcategory: Laptops
+  Model: P028
+  Variants: Standard, Premium
+  Colours: Black, Silver, Gray, Blue
+  Selling Price: INR 1,19,990
+  Average Rating: 4.5/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Laptops
+  3: Consumer Technology
+  4: Laptops Products
+
+Product Overview:
+  Overview: The ASUS Zenbook 14 OLED is a ASUS laptops designed for users who need dependable performance, practical features, and modern connectivity.
+  Performance: Powered by Intel Core Ultra 7, the product is designed for responsive everyday use, multitasking, and demanding workloads appropriate to its category.
+  Camera: The product focuses on category-specific performance and practical features rather than a single-use workflow.
+  Battery: Power efficiency and dependable daily operation are designed around normal usage patterns for this category.
+  Software: The product is designed to work with current operating systems, applications, devices, and standard consumer technology ecosystems.
+
+Best For (Target Audience):
+  1: Students
+  2: Software Developers
+  3: Content Creators
+  4: Professionals
+  5: Gamers
+
+Technical Specifications:
+  Display: Category-appropriate high-quality display or interface
+  Processor: Intel Core Ultra 7
+  Memory: Standard configuration for the product category
+  Camera: Category-dependent imaging or video capability
+  Battery: Designed for extended everyday operation
+  Connectivity: Wi-Fi, Bluetooth, USB or category-appropriate interfaces
+  Build: Durable consumer-grade construction
+
+Quick Highlights:
+  1: Intel Core Ultra 7
+  2: Modern Connectivity
+  3: Performance-focused Design
+  4: Productivity Features
+  5: Reliable Everyday Use
+  6: ASUS Ecosystem Compatibility
+  7: Practical Consumer Design
+
+Key Features:
+  [1] Feature Name: Performance Platform
+      Description: Uses Intel Core Ultra 7 to provide responsive performance for supported workloads.
+      Benefits: Smooth operation, multitasking, dependable performance
+      Common Search Terms: intel core ultra 7, fast laptops, high performance laptops
+  [2] Feature Name: Modern Connectivity
+      Description: Provides convenient connection with current devices, networks, and accessories.
+      Benefits: Flexible setup, easier device integration, convenient connectivity
+      Common Search Terms: wireless laptops, bluetooth, connectivity
+  [3] Feature Name: Productivity Design
+      Description: Designed to support common work, study, entertainment, and creative workflows.
+      Benefits: Better productivity, easier daily use, versatile operation
+      Common Search Terms: productivity laptops, work laptops, student laptops
+  [4] Feature Name: Premium Build
+      Description: Uses a durable design intended for regular everyday usage.
+      Benefits: Durability, practical everyday use, dependable construction
+      Common Search Terms: durable laptops, premium laptops, reliable laptops
+  [5] Feature Name: Everyday Usability
+      Description: Combines practical controls and category-specific features for daily use.
+      Benefits: Convenience, usability, versatile operation
+      Common Search Terms: easy to use laptops, everyday laptops, asus
+
+Best Use Cases (Activities):
+  1: Software Development
+  2: Gaming
+  3: Content Creation
+  4: Remote Work
+  5: Online Learning
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: asus zenbook 14 oled, asus laptops, laptops asus
+  Feature Keywords: laptops performance, productivity laptops, premium laptops, modern laptops
+  Technical Keywords: Intel Core Ultra 7, modern connectivity, performance, productivity
+  Aliases: asus zenbook 14 oled, asus laptops, asus product
+  Synonyms: laptops, consumer electronics, technology product
+  Common Misspellings: asuszenbook14oled
+  Search Phrases: best laptops for students, best laptops for work, asus laptops review, asus zenbook 14 oled specifications
+  Search Intent Keywords: buy laptops, upgrade laptops, laptops for productivity
+  Related Search Terms: affordable laptops, premium laptops, best laptops, reliable laptops
+
+Customer Search Queries:
+  Exact Queries: "asus zenbook 14 oled", "asus laptops"
+  Partial Queries: "asus laptops", "asus"
+  Feature Queries: "best laptops for students", "best laptops for productivity", "fast laptops"
+  Comparison Queries: "asus laptops vs alternatives", "asus zenbook 14 oled vs previous model"
+  Attribute Queries: "high performance laptops", "best laptops for work"
+  Natural Language Queries: "which laptops is good for students", "best laptops for productivity"
+  Typo Queries: "asuszenbook14oled"
+
+Customer Questions & Answers:
+  Is it suitable for students?: Yes, it is designed to support common study and productivity workflows.
+  Is it suitable for professional use?: Yes, it can be used for supported professional workloads within its category.
+  Does it support modern connectivity?: Yes, it is designed around current connectivity options appropriate for the product category.
+  Is it available?: The product is listed as in stock in this corpus entry.
+  Is it suitable for travel?: Its suitability depends on the user's setup and portability requirements.
+  Does it support multitasking?: Yes, the Intel Core Ultra 7 platform is intended to provide responsive performance for supported workloads.
+  Does it work with common devices?: Yes, it is designed for compatibility with standard devices and accessories in its category.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: Intel Core Ultra 7
+      Common Search Terms: intel core ultra 7, processor, performance platform
+      Filter Value: Intel Core Ultra 7
+
+  [2] Attribute: Category
+      Value: Laptops
+      Common Search Terms: laptops, best laptops, laptops product
+      Filter Value: Laptops
+
+  [3] Attribute: Brand
+      Value: ASUS
+      Common Search Terms: asus, asus electronics, asus product
+      Filter Value: ASUS
+
+  [4] Attribute: Rating
+      Value: 4.5/5
+      Common Search Terms: highly rated, 4.5 rating, customer rating
+      Filter Value: 4.5
+
+  [5] Attribute: Connectivity
+      Value: Modern connectivity
+      Common Search Terms: wireless, bluetooth, usb, connectivity
+      Filter Value: Modern
+
+  [6] Attribute: Availability
+      Value: In Stock
+      Common Search Terms: available product, in stock, buy asus zenbook 14 oled
+      Filter Value: In Stock
+
+  [7] Attribute: Use Case
+      Value: Productivity and everyday use
+      Common Search Terms: productivity, student, work, everyday use
+      Filter Value: Productivity
+
+Customer Reviews:
+  ★★★★★: The ASUS Zenbook 14 OLED performs very well for everyday laptops use and feels reliable in regular workloads.
+  ★★★★★: Setup was straightforward and the main features of the ASUS Zenbook 14 OLED are easy to use.
+  ★★★★☆: Performance is strong for my workflow, especially when using the primary features regularly.
+  ★★★★☆: The build quality feels solid and the product integrates well with my existing setup.
+  ★★★☆☆: Good product overall, although some advanced features could be improved.
+  ★★★☆☆: The experience is generally positive, but the price and a few limitations are worth considering.
+  ★★☆☆☆: It works well, but I expected a little more from a product in this price range.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: ASUS Laptops alternative
+  2: Premium laptops alternative
+
+Brand Ecosystem Products:
+  1: ASUS compatible accessory
+  2: ASUS companion device
+  3: ASUS connectivity accessory
+  4: ASUS official accessory
+
+Compatible Accessories:
+  Cases & Covers: Protective case or sleeve where applicable
+  Chargers: Compatible power adapter where applicable
+  Wireless Chargers: Compatible wireless charging accessory where applicable
+  Screen Protectors: Compatible protective screen accessory where applicable
+  Audio Accessories: Compatible audio accessory
+  Wearables: Compatible wearable or companion device
+
+Frequently Bought Together:
+  1: Protective accessory
+  2: Connectivity accessory
+
+Budget Alternatives:
+  1: Previous-generation laptops
+  2: Entry-level laptops
+=====================

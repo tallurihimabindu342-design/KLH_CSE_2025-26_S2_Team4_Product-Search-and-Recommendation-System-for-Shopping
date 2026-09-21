@@ -1,0 +1,194 @@
+TP-LINK DECO BE65
+TP-LINK DECO BE65
+=====================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P096
+  Product Name: TP-Link Deco BE65
+  Also Known As: TP-Link Deco BE65, TP-LinkDecoBE65, TP-Link Mesh Systems
+  Brand: TP-Link
+  Category: Electronics
+  Subcategory: Mesh Systems
+  Model: P096
+  Variants: Standard, Premium
+  Colours: Black, Silver, Gray, Blue
+  Selling Price: INR 39,999
+  Average Rating: 4.6/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Mesh Systems
+  3: Consumer Technology
+  4: Mesh Systems Products
+
+Product Overview:
+  Overview: The TP-Link Deco BE65 is a TP-Link mesh systems designed for users who need dependable performance, practical features, and modern connectivity.
+  Performance: Powered by Wi-Fi 7 mesh, the product is designed for responsive everyday use, multitasking, and demanding workloads appropriate to its category.
+  Camera: The product focuses on category-specific performance and practical features rather than a single-use workflow.
+  Battery: Power efficiency and dependable daily operation are designed around normal usage patterns for this category.
+  Software: The product is designed to work with current operating systems, applications, devices, and standard consumer technology ecosystems.
+
+Best For (Target Audience):
+  1: Families
+  2: Remote Workers
+  3: Large Homes
+  4: Streamers
+  5: Smart Home Users
+
+Technical Specifications:
+  Display: Category-appropriate high-quality display or interface
+  Processor: Wi-Fi 7 mesh
+  Memory: Standard configuration for the product category
+  Camera: Category-dependent imaging or video capability
+  Battery: Designed for extended everyday operation
+  Connectivity: Wi-Fi, Bluetooth, USB or category-appropriate interfaces
+  Build: Durable consumer-grade construction
+
+Quick Highlights:
+  1: Wi-Fi 7 mesh
+  2: Modern Connectivity
+  3: Performance-focused Design
+  4: Productivity Features
+  5: Reliable Everyday Use
+  6: TP-Link Ecosystem Compatibility
+  7: Practical Consumer Design
+
+Key Features:
+  [1] Feature Name: Performance Platform
+      Description: Uses Wi-Fi 7 mesh to provide responsive performance for supported workloads.
+      Benefits: Smooth operation, multitasking, dependable performance
+      Common Search Terms: wi-fi 7 mesh, fast mesh systems, high performance mesh systems
+  [2] Feature Name: Modern Connectivity
+      Description: Provides convenient connection with current devices, networks, and accessories.
+      Benefits: Flexible setup, easier device integration, convenient connectivity
+      Common Search Terms: wireless mesh systems, bluetooth, connectivity
+  [3] Feature Name: Productivity Design
+      Description: Designed to support common work, study, entertainment, and creative workflows.
+      Benefits: Better productivity, easier daily use, versatile operation
+      Common Search Terms: productivity mesh systems, work mesh systems, student mesh systems
+  [4] Feature Name: Premium Build
+      Description: Uses a durable design intended for regular everyday usage.
+      Benefits: Durability, practical everyday use, dependable construction
+      Common Search Terms: durable mesh systems, premium mesh systems, reliable mesh systems
+  [5] Feature Name: Everyday Usability
+      Description: Combines practical controls and category-specific features for daily use.
+      Benefits: Convenience, usability, versatile operation
+      Common Search Terms: easy to use mesh systems, everyday mesh systems, tp-link
+
+Best Use Cases (Activities):
+  1: Whole-home Wi-Fi
+  2: Streaming
+  3: Remote Work
+  4: Large Homes
+  5: Smart Home
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: tp-link deco be65, tp-link mesh systems, mesh systems tp-link
+  Feature Keywords: mesh systems performance, productivity mesh systems, premium mesh systems, modern mesh systems
+  Technical Keywords: Wi-Fi 7 mesh, modern connectivity, performance, productivity
+  Aliases: tp-link deco be65, tp-link mesh systems, tp-link product
+  Synonyms: mesh systems, consumer electronics, technology product
+  Common Misspellings: tp-lin deco be65, t-link deco be65, tp-linkdecobe65
+  Search Phrases: best mesh systems for students, best mesh systems for work, tp-link mesh systems review, tp-link deco be65 specifications
+  Search Intent Keywords: buy mesh systems, upgrade mesh systems, mesh systems for productivity
+  Related Search Terms: affordable mesh systems, premium mesh systems, best mesh systems, reliable mesh systems
+
+Customer Search Queries:
+  Exact Queries: "tp-link deco be65", "tp-link mesh systems"
+  Partial Queries: "tp-link mesh systems", "tp-link"
+  Feature Queries: "best mesh systems for students", "best mesh systems for productivity", "fast mesh systems"
+  Comparison Queries: "tp-link mesh systems vs alternatives", "tp-link deco be65 vs previous model"
+  Attribute Queries: "high performance mesh systems", "best mesh systems for work"
+  Natural Language Queries: "which mesh systems is good for students", "best mesh systems for productivity"
+  Typo Queries: "tp-lin deco be65, t-link deco be65, tp-linkdecobe65"
+
+Customer Questions & Answers:
+  Is it suitable for students?: Yes, it is designed to support common study and productivity workflows.
+  Is it suitable for professional use?: Yes, it can be used for supported professional workloads within its category.
+  Does it support modern connectivity?: Yes, it is designed around current connectivity options appropriate for the product category.
+  Is it available?: The product is listed as in stock in this corpus entry.
+  Is it suitable for travel?: Its suitability depends on the user's setup and portability requirements.
+  Does it support multitasking?: Yes, the Wi-Fi 7 mesh platform is intended to provide responsive performance for supported workloads.
+  Does it work with common devices?: Yes, it is designed for compatibility with standard devices and accessories in its category.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: Wi-Fi 7 mesh
+      Common Search Terms: wi-fi 7 mesh, processor, performance platform
+      Filter Value: Wi-Fi 7 mesh
+
+  [2] Attribute: Category
+      Value: Mesh Systems
+      Common Search Terms: mesh systems, best mesh systems, mesh systems product
+      Filter Value: Mesh Systems
+
+  [3] Attribute: Brand
+      Value: TP-Link
+      Common Search Terms: tp-link, tp-link electronics, tp-link product
+      Filter Value: TP-Link
+
+  [4] Attribute: Rating
+      Value: 4.6/5
+      Common Search Terms: highly rated, 4.6 rating, customer rating
+      Filter Value: 4.6
+
+  [5] Attribute: Connectivity
+      Value: Modern connectivity
+      Common Search Terms: wireless, bluetooth, usb, connectivity
+      Filter Value: Modern
+
+  [6] Attribute: Availability
+      Value: In Stock
+      Common Search Terms: available product, in stock, buy tp-link deco be65
+      Filter Value: In Stock
+
+  [7] Attribute: Use Case
+      Value: Productivity and everyday use
+      Common Search Terms: productivity, student, work, everyday use
+      Filter Value: Productivity
+
+Customer Reviews:
+  ★★★★★: The TP-Link Deco BE65 performs very well for everyday mesh systems use and feels reliable in regular workloads.
+  ★★★★★: Setup was straightforward and the main features of the TP-Link Deco BE65 are easy to use.
+  ★★★★☆: Performance is strong for my workflow, especially when using the primary features regularly.
+  ★★★★☆: The build quality feels solid and the product integrates well with my existing setup.
+  ★★★☆☆: Good product overall, although some advanced features could be improved.
+  ★★★☆☆: The experience is generally positive, but the price and a few limitations are worth considering.
+  ★★☆☆☆: It works well, but I expected a little more from a product in this price range.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: TP-Link Mesh Systems alternative
+  2: Premium mesh systems alternative
+
+Brand Ecosystem Products:
+  1: TP-Link compatible accessory
+  2: TP-Link companion device
+  3: TP-Link connectivity accessory
+  4: TP-Link official accessory
+
+Compatible Accessories:
+  Cases & Covers: Protective case or sleeve where applicable
+  Chargers: Compatible power adapter where applicable
+  Wireless Chargers: Compatible wireless charging accessory where applicable
+  Screen Protectors: Compatible protective screen accessory where applicable
+  Audio Accessories: Compatible audio accessory
+  Wearables: Compatible wearable or companion device
+
+Frequently Bought Together:
+  1: Protective accessory
+  2: Connectivity accessory
+
+Budget Alternatives:
+  1: Previous-generation mesh systems
+  2: Entry-level mesh systems
+=====================

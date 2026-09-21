@@ -1,0 +1,194 @@
+CORSAIR K70 RGB PRO
+CORSAIR K70 RGB PRO
+=====================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P074
+  Product Name: Corsair K70 RGB Pro
+  Also Known As: Corsair K70 RGB Pro, CorsairK70RGBPro, Corsair Keyboards
+  Brand: Corsair
+  Category: Electronics
+  Subcategory: Keyboards
+  Model: P074
+  Variants: Standard, Premium
+  Colours: Black, Silver, Gray, Blue
+  Selling Price: INR 17,999
+  Average Rating: 4.5/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Keyboards
+  3: Consumer Technology
+  4: Keyboards Products
+
+Product Overview:
+  Overview: The Corsair K70 RGB Pro is a Corsair keyboards designed for users who need dependable performance, practical features, and modern connectivity.
+  Performance: Powered by CHERRY MX switches, the product is designed for responsive everyday use, multitasking, and demanding workloads appropriate to its category.
+  Camera: The product focuses on category-specific performance and practical features rather than a single-use workflow.
+  Battery: Power efficiency and dependable daily operation are designed around normal usage patterns for this category.
+  Software: The product is designed to work with current operating systems, applications, devices, and standard consumer technology ecosystems.
+
+Best For (Target Audience):
+  1: Programmers
+  2: Writers
+  3: Gamers
+  4: Office Professionals
+  5: Power Users
+
+Technical Specifications:
+  Display: Category-appropriate high-quality display or interface
+  Processor: CHERRY MX switches
+  Memory: Standard configuration for the product category
+  Camera: Category-dependent imaging or video capability
+  Battery: Designed for extended everyday operation
+  Connectivity: Wi-Fi, Bluetooth, USB or category-appropriate interfaces
+  Build: Durable consumer-grade construction
+
+Quick Highlights:
+  1: CHERRY MX switches
+  2: Modern Connectivity
+  3: Performance-focused Design
+  4: Productivity Features
+  5: Reliable Everyday Use
+  6: Corsair Ecosystem Compatibility
+  7: Practical Consumer Design
+
+Key Features:
+  [1] Feature Name: Performance Platform
+      Description: Uses CHERRY MX switches to provide responsive performance for supported workloads.
+      Benefits: Smooth operation, multitasking, dependable performance
+      Common Search Terms: cherry mx switches, fast keyboards, high performance keyboards
+  [2] Feature Name: Modern Connectivity
+      Description: Provides convenient connection with current devices, networks, and accessories.
+      Benefits: Flexible setup, easier device integration, convenient connectivity
+      Common Search Terms: wireless keyboards, bluetooth, connectivity
+  [3] Feature Name: Productivity Design
+      Description: Designed to support common work, study, entertainment, and creative workflows.
+      Benefits: Better productivity, easier daily use, versatile operation
+      Common Search Terms: productivity keyboards, work keyboards, student keyboards
+  [4] Feature Name: Premium Build
+      Description: Uses a durable design intended for regular everyday usage.
+      Benefits: Durability, practical everyday use, dependable construction
+      Common Search Terms: durable keyboards, premium keyboards, reliable keyboards
+  [5] Feature Name: Everyday Usability
+      Description: Combines practical controls and category-specific features for daily use.
+      Benefits: Convenience, usability, versatile operation
+      Common Search Terms: easy to use keyboards, everyday keyboards, corsair
+
+Best Use Cases (Activities):
+  1: Programming
+  2: Office Work
+  3: Gaming
+  4: Writing
+  5: Productivity
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: corsair k70 rgb pro, corsair keyboards, keyboards corsair
+  Feature Keywords: keyboards performance, productivity keyboards, premium keyboards, modern keyboards
+  Technical Keywords: CHERRY MX switches, modern connectivity, performance, productivity
+  Aliases: corsair k70 rgb pro, corsair keyboards, corsair product
+  Synonyms: keyboards, consumer electronics, technology product
+  Common Misspellings: corsai k70 rgb pro, crsair k70 rgb pro, corsairk70rgbpro
+  Search Phrases: best keyboards for students, best keyboards for work, corsair keyboards review, corsair k70 rgb pro specifications
+  Search Intent Keywords: buy keyboards, upgrade keyboards, keyboards for productivity
+  Related Search Terms: affordable keyboards, premium keyboards, best keyboards, reliable keyboards
+
+Customer Search Queries:
+  Exact Queries: "corsair k70 rgb pro", "corsair keyboards"
+  Partial Queries: "corsair keyboards", "corsair"
+  Feature Queries: "best keyboards for students", "best keyboards for productivity", "fast keyboards"
+  Comparison Queries: "corsair keyboards vs alternatives", "corsair k70 rgb pro vs previous model"
+  Attribute Queries: "high performance keyboards", "best keyboards for work"
+  Natural Language Queries: "which keyboards is good for students", "best keyboards for productivity"
+  Typo Queries: "corsai k70 rgb pro, crsair k70 rgb pro, corsairk70rgbpro"
+
+Customer Questions & Answers:
+  Is it suitable for students?: Yes, it is designed to support common study and productivity workflows.
+  Is it suitable for professional use?: Yes, it can be used for supported professional workloads within its category.
+  Does it support modern connectivity?: Yes, it is designed around current connectivity options appropriate for the product category.
+  Is it available?: The product is listed as in stock in this corpus entry.
+  Is it suitable for travel?: Its suitability depends on the user's setup and portability requirements.
+  Does it support multitasking?: Yes, the CHERRY MX switches platform is intended to provide responsive performance for supported workloads.
+  Does it work with common devices?: Yes, it is designed for compatibility with standard devices and accessories in its category.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: CHERRY MX switches
+      Common Search Terms: cherry mx switches, processor, performance platform
+      Filter Value: CHERRY MX switches
+
+  [2] Attribute: Category
+      Value: Keyboards
+      Common Search Terms: keyboards, best keyboards, keyboards product
+      Filter Value: Keyboards
+
+  [3] Attribute: Brand
+      Value: Corsair
+      Common Search Terms: corsair, corsair electronics, corsair product
+      Filter Value: Corsair
+
+  [4] Attribute: Rating
+      Value: 4.5/5
+      Common Search Terms: highly rated, 4.5 rating, customer rating
+      Filter Value: 4.5
+
+  [5] Attribute: Connectivity
+      Value: Modern connectivity
+      Common Search Terms: wireless, bluetooth, usb, connectivity
+      Filter Value: Modern
+
+  [6] Attribute: Availability
+      Value: In Stock
+      Common Search Terms: available product, in stock, buy corsair k70 rgb pro
+      Filter Value: In Stock
+
+  [7] Attribute: Use Case
+      Value: Productivity and everyday use
+      Common Search Terms: productivity, student, work, everyday use
+      Filter Value: Productivity
+
+Customer Reviews:
+  ★★★★★: The Corsair K70 RGB Pro performs very well for everyday keyboards use and feels reliable in regular workloads.
+  ★★★★★: Setup was straightforward and the main features of the Corsair K70 RGB Pro are easy to use.
+  ★★★★☆: Performance is strong for my workflow, especially when using the primary features regularly.
+  ★★★★☆: The build quality feels solid and the product integrates well with my existing setup.
+  ★★★☆☆: Good product overall, although some advanced features could be improved.
+  ★★★☆☆: The experience is generally positive, but the price and a few limitations are worth considering.
+  ★★☆☆☆: It works well, but I expected a little more from a product in this price range.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Corsair Keyboards alternative
+  2: Premium keyboards alternative
+
+Brand Ecosystem Products:
+  1: Corsair compatible accessory
+  2: Corsair companion device
+  3: Corsair connectivity accessory
+  4: Corsair official accessory
+
+Compatible Accessories:
+  Cases & Covers: Protective case or sleeve where applicable
+  Chargers: Compatible power adapter where applicable
+  Wireless Chargers: Compatible wireless charging accessory where applicable
+  Screen Protectors: Compatible protective screen accessory where applicable
+  Audio Accessories: Compatible audio accessory
+  Wearables: Compatible wearable or companion device
+
+Frequently Bought Together:
+  1: Protective accessory
+  2: Connectivity accessory
+
+Budget Alternatives:
+  1: Previous-generation keyboards
+  2: Entry-level keyboards
+=====================

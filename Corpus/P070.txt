@@ -1,0 +1,194 @@
+KEYCHRON Q1 PRO
+KEYCHRON Q1 PRO
+=====================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P070
+  Product Name: Keychron Q1 Pro
+  Also Known As: Keychron Q1 Pro, KeychronQ1Pro, Keychron Keyboards
+  Brand: Keychron
+  Category: Electronics
+  Subcategory: Keyboards
+  Model: P070
+  Variants: Standard, Premium
+  Colours: Black, Silver, Gray, Blue
+  Selling Price: INR 19,999
+  Average Rating: 4.7/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Keyboards
+  3: Consumer Technology
+  4: Keyboards Products
+
+Product Overview:
+  Overview: The Keychron Q1 Pro is a Keychron keyboards designed for users who need dependable performance, practical features, and modern connectivity.
+  Performance: Powered by Gateron Jupiter switches, the product is designed for responsive everyday use, multitasking, and demanding workloads appropriate to its category.
+  Camera: The product focuses on category-specific performance and practical features rather than a single-use workflow.
+  Battery: Power efficiency and dependable daily operation are designed around normal usage patterns for this category.
+  Software: The product is designed to work with current operating systems, applications, devices, and standard consumer technology ecosystems.
+
+Best For (Target Audience):
+  1: Programmers
+  2: Writers
+  3: Gamers
+  4: Office Professionals
+  5: Power Users
+
+Technical Specifications:
+  Display: Category-appropriate high-quality display or interface
+  Processor: Gateron Jupiter switches
+  Memory: Standard configuration for the product category
+  Camera: Category-dependent imaging or video capability
+  Battery: Designed for extended everyday operation
+  Connectivity: Wi-Fi, Bluetooth, USB or category-appropriate interfaces
+  Build: Durable consumer-grade construction
+
+Quick Highlights:
+  1: Gateron Jupiter switches
+  2: Modern Connectivity
+  3: Performance-focused Design
+  4: Productivity Features
+  5: Reliable Everyday Use
+  6: Keychron Ecosystem Compatibility
+  7: Practical Consumer Design
+
+Key Features:
+  [1] Feature Name: Performance Platform
+      Description: Uses Gateron Jupiter switches to provide responsive performance for supported workloads.
+      Benefits: Smooth operation, multitasking, dependable performance
+      Common Search Terms: gateron jupiter switches, fast keyboards, high performance keyboards
+  [2] Feature Name: Modern Connectivity
+      Description: Provides convenient connection with current devices, networks, and accessories.
+      Benefits: Flexible setup, easier device integration, convenient connectivity
+      Common Search Terms: wireless keyboards, bluetooth, connectivity
+  [3] Feature Name: Productivity Design
+      Description: Designed to support common work, study, entertainment, and creative workflows.
+      Benefits: Better productivity, easier daily use, versatile operation
+      Common Search Terms: productivity keyboards, work keyboards, student keyboards
+  [4] Feature Name: Premium Build
+      Description: Uses a durable design intended for regular everyday usage.
+      Benefits: Durability, practical everyday use, dependable construction
+      Common Search Terms: durable keyboards, premium keyboards, reliable keyboards
+  [5] Feature Name: Everyday Usability
+      Description: Combines practical controls and category-specific features for daily use.
+      Benefits: Convenience, usability, versatile operation
+      Common Search Terms: easy to use keyboards, everyday keyboards, keychron
+
+Best Use Cases (Activities):
+  1: Programming
+  2: Office Work
+  3: Gaming
+  4: Writing
+  5: Productivity
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: keychron q1 pro, keychron keyboards, keyboards keychron
+  Feature Keywords: keyboards performance, productivity keyboards, premium keyboards, modern keyboards
+  Technical Keywords: Gateron Jupiter switches, modern connectivity, performance, productivity
+  Aliases: keychron q1 pro, keychron keyboards, keychron product
+  Synonyms: keyboards, consumer electronics, technology product
+  Common Misspellings: keychro q1 pro, kychron q1 pro, keychronq1pro
+  Search Phrases: best keyboards for students, best keyboards for work, keychron keyboards review, keychron q1 pro specifications
+  Search Intent Keywords: buy keyboards, upgrade keyboards, keyboards for productivity
+  Related Search Terms: affordable keyboards, premium keyboards, best keyboards, reliable keyboards
+
+Customer Search Queries:
+  Exact Queries: "keychron q1 pro", "keychron keyboards"
+  Partial Queries: "keychron keyboards", "keychron"
+  Feature Queries: "best keyboards for students", "best keyboards for productivity", "fast keyboards"
+  Comparison Queries: "keychron keyboards vs alternatives", "keychron q1 pro vs previous model"
+  Attribute Queries: "high performance keyboards", "best keyboards for work"
+  Natural Language Queries: "which keyboards is good for students", "best keyboards for productivity"
+  Typo Queries: "keychro q1 pro, kychron q1 pro, keychronq1pro"
+
+Customer Questions & Answers:
+  Is it suitable for students?: Yes, it is designed to support common study and productivity workflows.
+  Is it suitable for professional use?: Yes, it can be used for supported professional workloads within its category.
+  Does it support modern connectivity?: Yes, it is designed around current connectivity options appropriate for the product category.
+  Is it available?: The product is listed as in stock in this corpus entry.
+  Is it suitable for travel?: Its suitability depends on the user's setup and portability requirements.
+  Does it support multitasking?: Yes, the Gateron Jupiter switches platform is intended to provide responsive performance for supported workloads.
+  Does it work with common devices?: Yes, it is designed for compatibility with standard devices and accessories in its category.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: Gateron Jupiter switches
+      Common Search Terms: gateron jupiter switches, processor, performance platform
+      Filter Value: Gateron Jupiter switches
+
+  [2] Attribute: Category
+      Value: Keyboards
+      Common Search Terms: keyboards, best keyboards, keyboards product
+      Filter Value: Keyboards
+
+  [3] Attribute: Brand
+      Value: Keychron
+      Common Search Terms: keychron, keychron electronics, keychron product
+      Filter Value: Keychron
+
+  [4] Attribute: Rating
+      Value: 4.7/5
+      Common Search Terms: highly rated, 4.7 rating, customer rating
+      Filter Value: 4.7
+
+  [5] Attribute: Connectivity
+      Value: Modern connectivity
+      Common Search Terms: wireless, bluetooth, usb, connectivity
+      Filter Value: Modern
+
+  [6] Attribute: Availability
+      Value: In Stock
+      Common Search Terms: available product, in stock, buy keychron q1 pro
+      Filter Value: In Stock
+
+  [7] Attribute: Use Case
+      Value: Productivity and everyday use
+      Common Search Terms: productivity, student, work, everyday use
+      Filter Value: Productivity
+
+Customer Reviews:
+  ★★★★★: The Keychron Q1 Pro performs very well for everyday keyboards use and feels reliable in regular workloads.
+  ★★★★★: Setup was straightforward and the main features of the Keychron Q1 Pro are easy to use.
+  ★★★★☆: Performance is strong for my workflow, especially when using the primary features regularly.
+  ★★★★☆: The build quality feels solid and the product integrates well with my existing setup.
+  ★★★☆☆: Good product overall, although some advanced features could be improved.
+  ★★★☆☆: The experience is generally positive, but the price and a few limitations are worth considering.
+  ★★☆☆☆: It works well, but I expected a little more from a product in this price range.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Keychron Keyboards alternative
+  2: Premium keyboards alternative
+
+Brand Ecosystem Products:
+  1: Keychron compatible accessory
+  2: Keychron companion device
+  3: Keychron connectivity accessory
+  4: Keychron official accessory
+
+Compatible Accessories:
+  Cases & Covers: Protective case or sleeve where applicable
+  Chargers: Compatible power adapter where applicable
+  Wireless Chargers: Compatible wireless charging accessory where applicable
+  Screen Protectors: Compatible protective screen accessory where applicable
+  Audio Accessories: Compatible audio accessory
+  Wearables: Compatible wearable or companion device
+
+Frequently Bought Together:
+  1: Protective accessory
+  2: Connectivity accessory
+
+Budget Alternatives:
+  1: Previous-generation keyboards
+  2: Entry-level keyboards
+=====================

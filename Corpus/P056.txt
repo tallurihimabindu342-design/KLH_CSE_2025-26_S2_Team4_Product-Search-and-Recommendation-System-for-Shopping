@@ -1,0 +1,194 @@
+MARSHALL MAJOR V
+MARSHALL MAJOR V
+=====================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P056
+  Product Name: Marshall Major V
+  Also Known As: Marshall Major V, MarshallMajorV, Marshall Headphones
+  Brand: Marshall
+  Category: Electronics
+  Subcategory: Headphones
+  Model: P056
+  Variants: Standard, Premium
+  Colours: Black, Silver, Gray, Blue
+  Selling Price: INR 14,999
+  Average Rating: 4.5/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Headphones
+  3: Consumer Technology
+  4: Headphones Products
+
+Product Overview:
+  Overview: The Marshall Major V is a Marshall headphones designed for users who need dependable performance, practical features, and modern connectivity.
+  Performance: Powered by Custom 40mm driver, the product is designed for responsive everyday use, multitasking, and demanding workloads appropriate to its category.
+  Camera: The product focuses on category-specific performance and practical features rather than a single-use workflow.
+  Battery: Power efficiency and dependable daily operation are designed around normal usage patterns for this category.
+  Software: The product is designed to work with current operating systems, applications, devices, and standard consumer technology ecosystems.
+
+Best For (Target Audience):
+  1: Students
+  2: Remote Workers
+  3: Frequent Travelers
+  4: Music Listeners
+  5: Gamers
+
+Technical Specifications:
+  Display: Category-appropriate high-quality display or interface
+  Processor: Custom 40mm driver
+  Memory: Standard configuration for the product category
+  Camera: Category-dependent imaging or video capability
+  Battery: Designed for extended everyday operation
+  Connectivity: Wi-Fi, Bluetooth, USB or category-appropriate interfaces
+  Build: Durable consumer-grade construction
+
+Quick Highlights:
+  1: Custom 40mm driver
+  2: Modern Connectivity
+  3: Performance-focused Design
+  4: Productivity Features
+  5: Reliable Everyday Use
+  6: Marshall Ecosystem Compatibility
+  7: Practical Consumer Design
+
+Key Features:
+  [1] Feature Name: Performance Platform
+      Description: Uses Custom 40mm driver to provide responsive performance for supported workloads.
+      Benefits: Smooth operation, multitasking, dependable performance
+      Common Search Terms: custom 40mm driver, fast headphones, high performance headphones
+  [2] Feature Name: Modern Connectivity
+      Description: Provides convenient connection with current devices, networks, and accessories.
+      Benefits: Flexible setup, easier device integration, convenient connectivity
+      Common Search Terms: wireless headphones, bluetooth, connectivity
+  [3] Feature Name: Productivity Design
+      Description: Designed to support common work, study, entertainment, and creative workflows.
+      Benefits: Better productivity, easier daily use, versatile operation
+      Common Search Terms: productivity headphones, work headphones, student headphones
+  [4] Feature Name: Premium Build
+      Description: Uses a durable design intended for regular everyday usage.
+      Benefits: Durability, practical everyday use, dependable construction
+      Common Search Terms: durable headphones, premium headphones, reliable headphones
+  [5] Feature Name: Everyday Usability
+      Description: Combines practical controls and category-specific features for daily use.
+      Benefits: Convenience, usability, versatile operation
+      Common Search Terms: easy to use headphones, everyday headphones, marshall
+
+Best Use Cases (Activities):
+  1: Flights
+  2: Remote Work
+  3: Studying
+  4: Music
+  5: Gaming
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: marshall major v, marshall headphones, headphones marshall
+  Feature Keywords: headphones performance, productivity headphones, premium headphones, modern headphones
+  Technical Keywords: Custom 40mm driver, modern connectivity, performance, productivity
+  Aliases: marshall major v, marshall headphones, marshall product
+  Synonyms: headphones, consumer electronics, technology product
+  Common Misspellings: marshal major v, mrshall major v, marshallmajorv
+  Search Phrases: best headphones for students, best headphones for work, marshall headphones review, marshall major v specifications
+  Search Intent Keywords: buy headphones, upgrade headphones, headphones for productivity
+  Related Search Terms: affordable headphones, premium headphones, best headphones, reliable headphones
+
+Customer Search Queries:
+  Exact Queries: "marshall major v", "marshall headphones"
+  Partial Queries: "marshall headphones", "marshall"
+  Feature Queries: "best headphones for students", "best headphones for productivity", "fast headphones"
+  Comparison Queries: "marshall headphones vs alternatives", "marshall major v vs previous model"
+  Attribute Queries: "high performance headphones", "best headphones for work"
+  Natural Language Queries: "which headphones is good for students", "best headphones for productivity"
+  Typo Queries: "marshal major v, mrshall major v, marshallmajorv"
+
+Customer Questions & Answers:
+  Is it suitable for students?: Yes, it is designed to support common study and productivity workflows.
+  Is it suitable for professional use?: Yes, it can be used for supported professional workloads within its category.
+  Does it support modern connectivity?: Yes, it is designed around current connectivity options appropriate for the product category.
+  Is it available?: The product is listed as in stock in this corpus entry.
+  Is it suitable for travel?: Its suitability depends on the user's setup and portability requirements.
+  Does it support multitasking?: Yes, the Custom 40mm driver platform is intended to provide responsive performance for supported workloads.
+  Does it work with common devices?: Yes, it is designed for compatibility with standard devices and accessories in its category.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: Custom 40mm driver
+      Common Search Terms: custom 40mm driver, processor, performance platform
+      Filter Value: Custom 40mm driver
+
+  [2] Attribute: Category
+      Value: Headphones
+      Common Search Terms: headphones, best headphones, headphones product
+      Filter Value: Headphones
+
+  [3] Attribute: Brand
+      Value: Marshall
+      Common Search Terms: marshall, marshall electronics, marshall product
+      Filter Value: Marshall
+
+  [4] Attribute: Rating
+      Value: 4.5/5
+      Common Search Terms: highly rated, 4.5 rating, customer rating
+      Filter Value: 4.5
+
+  [5] Attribute: Connectivity
+      Value: Modern connectivity
+      Common Search Terms: wireless, bluetooth, usb, connectivity
+      Filter Value: Modern
+
+  [6] Attribute: Availability
+      Value: In Stock
+      Common Search Terms: available product, in stock, buy marshall major v
+      Filter Value: In Stock
+
+  [7] Attribute: Use Case
+      Value: Productivity and everyday use
+      Common Search Terms: productivity, student, work, everyday use
+      Filter Value: Productivity
+
+Customer Reviews:
+  ★★★★★: The Marshall Major V performs very well for everyday headphones use and feels reliable in regular workloads.
+  ★★★★★: Setup was straightforward and the main features of the Marshall Major V are easy to use.
+  ★★★★☆: Performance is strong for my workflow, especially when using the primary features regularly.
+  ★★★★☆: The build quality feels solid and the product integrates well with my existing setup.
+  ★★★☆☆: Good product overall, although some advanced features could be improved.
+  ★★★☆☆: The experience is generally positive, but the price and a few limitations are worth considering.
+  ★★☆☆☆: It works well, but I expected a little more from a product in this price range.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Marshall Headphones alternative
+  2: Premium headphones alternative
+
+Brand Ecosystem Products:
+  1: Marshall compatible accessory
+  2: Marshall companion device
+  3: Marshall connectivity accessory
+  4: Marshall official accessory
+
+Compatible Accessories:
+  Cases & Covers: Protective case or sleeve where applicable
+  Chargers: Compatible power adapter where applicable
+  Wireless Chargers: Compatible wireless charging accessory where applicable
+  Screen Protectors: Compatible protective screen accessory where applicable
+  Audio Accessories: Compatible audio accessory
+  Wearables: Compatible wearable or companion device
+
+Frequently Bought Together:
+  1: Protective accessory
+  2: Connectivity accessory
+
+Budget Alternatives:
+  1: Previous-generation headphones
+  2: Entry-level headphones
+=====================

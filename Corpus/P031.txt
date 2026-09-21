@@ -1,0 +1,194 @@
+APPLE IPHONE 16
+APPLE IPHONE 16
+=====================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P031
+  Product Name: Apple iPhone 16
+  Also Known As: Apple iPhone 16, AppleiPhone16, Apple Mobile Phones
+  Brand: Apple
+  Category: Electronics
+  Subcategory: Mobile Phones
+  Model: P031
+  Variants: Standard, Premium
+  Colours: Black, Silver, Gray, Blue
+  Selling Price: INR 79,900
+  Average Rating: 4.6/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Mobile Phones
+  3: Consumer Technology
+  4: Mobile Phones Products
+
+Product Overview:
+  Overview: The Apple iPhone 16 is a Apple mobile phones designed for users who need dependable performance, practical features, and modern connectivity.
+  Performance: Powered by A18, the product is designed for responsive everyday use, multitasking, and demanding workloads appropriate to its category.
+  Camera: The product focuses on category-specific performance and practical features rather than a single-use workflow.
+  Battery: Power efficiency and dependable daily operation are designed around normal usage patterns for this category.
+  Software: The product is designed to work with current operating systems, applications, devices, and standard consumer technology ecosystems.
+
+Best For (Target Audience):
+  1: Students
+  2: Photographers
+  3: Gamers
+  4: Content Creators
+  5: Business Users
+
+Technical Specifications:
+  Display: Category-appropriate high-quality display or interface
+  Processor: A18
+  Memory: Standard configuration for the product category
+  Camera: Category-dependent imaging or video capability
+  Battery: Designed for extended everyday operation
+  Connectivity: Wi-Fi, Bluetooth, USB or category-appropriate interfaces
+  Build: Durable consumer-grade construction
+
+Quick Highlights:
+  1: A18
+  2: Modern Connectivity
+  3: Performance-focused Design
+  4: Productivity Features
+  5: Reliable Everyday Use
+  6: Apple Ecosystem Compatibility
+  7: Practical Consumer Design
+
+Key Features:
+  [1] Feature Name: Performance Platform
+      Description: Uses A18 to provide responsive performance for supported workloads.
+      Benefits: Smooth operation, multitasking, dependable performance
+      Common Search Terms: a18, fast mobile phones, high performance mobile phones
+  [2] Feature Name: Modern Connectivity
+      Description: Provides convenient connection with current devices, networks, and accessories.
+      Benefits: Flexible setup, easier device integration, convenient connectivity
+      Common Search Terms: wireless mobile phones, bluetooth, connectivity
+  [3] Feature Name: Productivity Design
+      Description: Designed to support common work, study, entertainment, and creative workflows.
+      Benefits: Better productivity, easier daily use, versatile operation
+      Common Search Terms: productivity mobile phones, work mobile phones, student mobile phones
+  [4] Feature Name: Premium Build
+      Description: Uses a durable design intended for regular everyday usage.
+      Benefits: Durability, practical everyday use, dependable construction
+      Common Search Terms: durable mobile phones, premium mobile phones, reliable mobile phones
+  [5] Feature Name: Everyday Usability
+      Description: Combines practical controls and category-specific features for daily use.
+      Benefits: Convenience, usability, versatile operation
+      Common Search Terms: easy to use mobile phones, everyday mobile phones, apple
+
+Best Use Cases (Activities):
+  1: Photography
+  2: Gaming
+  3: Social Media
+  4: Business Productivity
+  5: Travel
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: apple iphone 16, apple mobile phones, mobile phones apple
+  Feature Keywords: mobile phones performance, productivity mobile phones, premium mobile phones, modern mobile phones
+  Technical Keywords: A18, modern connectivity, performance, productivity
+  Aliases: apple iphone 16, apple mobile phones, apple product
+  Synonyms: mobile phones, consumer electronics, technology product
+  Common Misspellings: appl iphone 16, aple iphone 16, appleiphone16
+  Search Phrases: best mobile phones for students, best mobile phones for work, apple mobile phones review, apple iphone 16 specifications
+  Search Intent Keywords: buy mobile phones, upgrade mobile phones, mobile phones for productivity
+  Related Search Terms: affordable mobile phones, premium mobile phones, best mobile phones, reliable mobile phones
+
+Customer Search Queries:
+  Exact Queries: "apple iphone 16", "apple mobile phones"
+  Partial Queries: "apple mobile phones", "apple"
+  Feature Queries: "best mobile phones for students", "best mobile phones for productivity", "fast mobile phones"
+  Comparison Queries: "apple mobile phones vs alternatives", "apple iphone 16 vs previous model"
+  Attribute Queries: "high performance mobile phones", "best mobile phones for work"
+  Natural Language Queries: "which mobile phones is good for students", "best mobile phones for productivity"
+  Typo Queries: "appl iphone 16, aple iphone 16, appleiphone16"
+
+Customer Questions & Answers:
+  Is it suitable for students?: Yes, it is designed to support common study and productivity workflows.
+  Is it suitable for professional use?: Yes, it can be used for supported professional workloads within its category.
+  Does it support modern connectivity?: Yes, it is designed around current connectivity options appropriate for the product category.
+  Is it available?: The product is listed as in stock in this corpus entry.
+  Is it suitable for travel?: Its suitability depends on the user's setup and portability requirements.
+  Does it support multitasking?: Yes, the A18 platform is intended to provide responsive performance for supported workloads.
+  Does it work with common devices?: Yes, it is designed for compatibility with standard devices and accessories in its category.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: A18
+      Common Search Terms: a18, processor, performance platform
+      Filter Value: A18
+
+  [2] Attribute: Category
+      Value: Mobile Phones
+      Common Search Terms: mobile phones, best mobile phones, mobile phones product
+      Filter Value: Mobile Phones
+
+  [3] Attribute: Brand
+      Value: Apple
+      Common Search Terms: apple, apple electronics, apple product
+      Filter Value: Apple
+
+  [4] Attribute: Rating
+      Value: 4.6/5
+      Common Search Terms: highly rated, 4.6 rating, customer rating
+      Filter Value: 4.6
+
+  [5] Attribute: Connectivity
+      Value: Modern connectivity
+      Common Search Terms: wireless, bluetooth, usb, connectivity
+      Filter Value: Modern
+
+  [6] Attribute: Availability
+      Value: In Stock
+      Common Search Terms: available product, in stock, buy apple iphone 16
+      Filter Value: In Stock
+
+  [7] Attribute: Use Case
+      Value: Productivity and everyday use
+      Common Search Terms: productivity, student, work, everyday use
+      Filter Value: Productivity
+
+Customer Reviews:
+  ★★★★★: The Apple iPhone 16 performs very well for everyday mobile phones use and feels reliable in regular workloads.
+  ★★★★★: Setup was straightforward and the main features of the Apple iPhone 16 are easy to use.
+  ★★★★☆: Performance is strong for my workflow, especially when using the primary features regularly.
+  ★★★★☆: The build quality feels solid and the product integrates well with my existing setup.
+  ★★★☆☆: Good product overall, although some advanced features could be improved.
+  ★★★☆☆: The experience is generally positive, but the price and a few limitations are worth considering.
+  ★★☆☆☆: It works well, but I expected a little more from a product in this price range.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Apple Mobile Phones alternative
+  2: Premium mobile phones alternative
+
+Brand Ecosystem Products:
+  1: Apple compatible accessory
+  2: Apple companion device
+  3: Apple connectivity accessory
+  4: Apple official accessory
+
+Compatible Accessories:
+  Cases & Covers: Protective case or sleeve where applicable
+  Chargers: Compatible power adapter where applicable
+  Wireless Chargers: Compatible wireless charging accessory where applicable
+  Screen Protectors: Compatible protective screen accessory where applicable
+  Audio Accessories: Compatible audio accessory
+  Wearables: Compatible wearable or companion device
+
+Frequently Bought Together:
+  1: Protective accessory
+  2: Connectivity accessory
+
+Budget Alternatives:
+  1: Previous-generation mobile phones
+  2: Entry-level mobile phones
+=====================

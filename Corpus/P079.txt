@@ -1,0 +1,194 @@
+CORSAIR DARKSTAR WIRELESS
+CORSAIR DARKSTAR WIRELESS
+=====================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P079
+  Product Name: Corsair Darkstar Wireless
+  Also Known As: Corsair Darkstar Wireless, CorsairDarkstarWireless, Corsair Mice
+  Brand: Corsair
+  Category: Electronics
+  Subcategory: Mice
+  Model: P079
+  Variants: Standard, Premium
+  Colours: Black, Silver, Gray, Blue
+  Selling Price: INR 13,999
+  Average Rating: 4.4/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Mice
+  3: Consumer Technology
+  4: Mice Products
+
+Product Overview:
+  Overview: The Corsair Darkstar Wireless is a Corsair mice designed for users who need dependable performance, practical features, and modern connectivity.
+  Performance: Powered by 26K DPI sensor, the product is designed for responsive everyday use, multitasking, and demanding workloads appropriate to its category.
+  Camera: The product focuses on category-specific performance and practical features rather than a single-use workflow.
+  Battery: Power efficiency and dependable daily operation are designed around normal usage patterns for this category.
+  Software: The product is designed to work with current operating systems, applications, devices, and standard consumer technology ecosystems.
+
+Best For (Target Audience):
+  1: Programmers
+  2: Designers
+  3: Gamers
+  4: Office Professionals
+  5: Content Creators
+
+Technical Specifications:
+  Display: Category-appropriate high-quality display or interface
+  Processor: 26K DPI sensor
+  Memory: Standard configuration for the product category
+  Camera: Category-dependent imaging or video capability
+  Battery: Designed for extended everyday operation
+  Connectivity: Wi-Fi, Bluetooth, USB or category-appropriate interfaces
+  Build: Durable consumer-grade construction
+
+Quick Highlights:
+  1: 26K DPI sensor
+  2: Modern Connectivity
+  3: Performance-focused Design
+  4: Productivity Features
+  5: Reliable Everyday Use
+  6: Corsair Ecosystem Compatibility
+  7: Practical Consumer Design
+
+Key Features:
+  [1] Feature Name: Performance Platform
+      Description: Uses 26K DPI sensor to provide responsive performance for supported workloads.
+      Benefits: Smooth operation, multitasking, dependable performance
+      Common Search Terms: 26k dpi sensor, fast mice, high performance mice
+  [2] Feature Name: Modern Connectivity
+      Description: Provides convenient connection with current devices, networks, and accessories.
+      Benefits: Flexible setup, easier device integration, convenient connectivity
+      Common Search Terms: wireless mice, bluetooth, connectivity
+  [3] Feature Name: Productivity Design
+      Description: Designed to support common work, study, entertainment, and creative workflows.
+      Benefits: Better productivity, easier daily use, versatile operation
+      Common Search Terms: productivity mice, work mice, student mice
+  [4] Feature Name: Premium Build
+      Description: Uses a durable design intended for regular everyday usage.
+      Benefits: Durability, practical everyday use, dependable construction
+      Common Search Terms: durable mice, premium mice, reliable mice
+  [5] Feature Name: Everyday Usability
+      Description: Combines practical controls and category-specific features for daily use.
+      Benefits: Convenience, usability, versatile operation
+      Common Search Terms: easy to use mice, everyday mice, corsair
+
+Best Use Cases (Activities):
+  1: Programming
+  2: Office Work
+  3: Gaming
+  4: Design
+  5: Productivity
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: corsair darkstar wireless, corsair mice, mice corsair
+  Feature Keywords: mice performance, productivity mice, premium mice, modern mice
+  Technical Keywords: 26K DPI sensor, modern connectivity, performance, productivity
+  Aliases: corsair darkstar wireless, corsair mice, corsair product
+  Synonyms: mice, consumer electronics, technology product
+  Common Misspellings: corsai darkstar wireless, crsair darkstar wireless, corsairdarkstarwireless
+  Search Phrases: best mice for students, best mice for work, corsair mice review, corsair darkstar wireless specifications
+  Search Intent Keywords: buy mice, upgrade mice, mice for productivity
+  Related Search Terms: affordable mice, premium mice, best mice, reliable mice
+
+Customer Search Queries:
+  Exact Queries: "corsair darkstar wireless", "corsair mice"
+  Partial Queries: "corsair mice", "corsair"
+  Feature Queries: "best mice for students", "best mice for productivity", "fast mice"
+  Comparison Queries: "corsair mice vs alternatives", "corsair darkstar wireless vs previous model"
+  Attribute Queries: "high performance mice", "best mice for work"
+  Natural Language Queries: "which mice is good for students", "best mice for productivity"
+  Typo Queries: "corsai darkstar wireless, crsair darkstar wireless, corsairdarkstarwireless"
+
+Customer Questions & Answers:
+  Is it suitable for students?: Yes, it is designed to support common study and productivity workflows.
+  Is it suitable for professional use?: Yes, it can be used for supported professional workloads within its category.
+  Does it support modern connectivity?: Yes, it is designed around current connectivity options appropriate for the product category.
+  Is it available?: The product is listed as in stock in this corpus entry.
+  Is it suitable for travel?: Its suitability depends on the user's setup and portability requirements.
+  Does it support multitasking?: Yes, the 26K DPI sensor platform is intended to provide responsive performance for supported workloads.
+  Does it work with common devices?: Yes, it is designed for compatibility with standard devices and accessories in its category.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: 26K DPI sensor
+      Common Search Terms: 26k dpi sensor, processor, performance platform
+      Filter Value: 26K DPI sensor
+
+  [2] Attribute: Category
+      Value: Mice
+      Common Search Terms: mice, best mice, mice product
+      Filter Value: Mice
+
+  [3] Attribute: Brand
+      Value: Corsair
+      Common Search Terms: corsair, corsair electronics, corsair product
+      Filter Value: Corsair
+
+  [4] Attribute: Rating
+      Value: 4.4/5
+      Common Search Terms: highly rated, 4.4 rating, customer rating
+      Filter Value: 4.4
+
+  [5] Attribute: Connectivity
+      Value: Modern connectivity
+      Common Search Terms: wireless, bluetooth, usb, connectivity
+      Filter Value: Modern
+
+  [6] Attribute: Availability
+      Value: In Stock
+      Common Search Terms: available product, in stock, buy corsair darkstar wireless
+      Filter Value: In Stock
+
+  [7] Attribute: Use Case
+      Value: Productivity and everyday use
+      Common Search Terms: productivity, student, work, everyday use
+      Filter Value: Productivity
+
+Customer Reviews:
+  ★★★★★: The Corsair Darkstar Wireless performs very well for everyday mice use and feels reliable in regular workloads.
+  ★★★★★: Setup was straightforward and the main features of the Corsair Darkstar Wireless are easy to use.
+  ★★★★☆: Performance is strong for my workflow, especially when using the primary features regularly.
+  ★★★★☆: The build quality feels solid and the product integrates well with my existing setup.
+  ★★★☆☆: Good product overall, although some advanced features could be improved.
+  ★★★☆☆: The experience is generally positive, but the price and a few limitations are worth considering.
+  ★★☆☆☆: It works well, but I expected a little more from a product in this price range.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Corsair Mice alternative
+  2: Premium mice alternative
+
+Brand Ecosystem Products:
+  1: Corsair compatible accessory
+  2: Corsair companion device
+  3: Corsair connectivity accessory
+  4: Corsair official accessory
+
+Compatible Accessories:
+  Cases & Covers: Protective case or sleeve where applicable
+  Chargers: Compatible power adapter where applicable
+  Wireless Chargers: Compatible wireless charging accessory where applicable
+  Screen Protectors: Compatible protective screen accessory where applicable
+  Audio Accessories: Compatible audio accessory
+  Wearables: Compatible wearable or companion device
+
+Frequently Bought Together:
+  1: Protective accessory
+  2: Connectivity accessory
+
+Budget Alternatives:
+  1: Previous-generation mice
+  2: Entry-level mice
+=====================

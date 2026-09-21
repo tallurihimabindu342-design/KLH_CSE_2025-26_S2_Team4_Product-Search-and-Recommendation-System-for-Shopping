@@ -1,0 +1,194 @@
+SAMSUNG T7 SHIELD PORTABLE SSD 2TB
+SAMSUNG T7 SHIELD PORTABLE SSD 2TB
+=====================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P087
+  Product Name: Samsung T7 Shield Portable SSD 2TB
+  Also Known As: Samsung T7 Shield Portable SSD 2TB, SamsungT7ShieldPortableSSD2TB, Samsung Storage
+  Brand: Samsung
+  Category: Electronics
+  Subcategory: Storage
+  Model: P087
+  Variants: Standard, Premium
+  Colours: Black, Silver, Gray, Blue
+  Selling Price: INR 14,999
+  Average Rating: 4.7/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Storage
+  3: Consumer Technology
+  4: Storage Products
+
+Product Overview:
+  Overview: The Samsung T7 Shield Portable SSD 2TB is a Samsung storage designed for users who need dependable performance, practical features, and modern connectivity.
+  Performance: Powered by USB 3.2 Gen 2, the product is designed for responsive everyday use, multitasking, and demanding workloads appropriate to its category.
+  Camera: The product focuses on category-specific performance and practical features rather than a single-use workflow.
+  Battery: Power efficiency and dependable daily operation are designed around normal usage patterns for this category.
+  Software: The product is designed to work with current operating systems, applications, devices, and standard consumer technology ecosystems.
+
+Best For (Target Audience):
+  1: Content Creators
+  2: Photographers
+  3: Gamers
+  4: Students
+  5: Professionals
+
+Technical Specifications:
+  Display: Category-appropriate high-quality display or interface
+  Processor: USB 3.2 Gen 2
+  Memory: Standard configuration for the product category
+  Camera: Category-dependent imaging or video capability
+  Battery: Designed for extended everyday operation
+  Connectivity: Wi-Fi, Bluetooth, USB or category-appropriate interfaces
+  Build: Durable consumer-grade construction
+
+Quick Highlights:
+  1: USB 3.2 Gen 2
+  2: Modern Connectivity
+  3: Performance-focused Design
+  4: Productivity Features
+  5: Reliable Everyday Use
+  6: Samsung Ecosystem Compatibility
+  7: Practical Consumer Design
+
+Key Features:
+  [1] Feature Name: Performance Platform
+      Description: Uses USB 3.2 Gen 2 to provide responsive performance for supported workloads.
+      Benefits: Smooth operation, multitasking, dependable performance
+      Common Search Terms: usb 3.2 gen 2, fast storage, high performance storage
+  [2] Feature Name: Modern Connectivity
+      Description: Provides convenient connection with current devices, networks, and accessories.
+      Benefits: Flexible setup, easier device integration, convenient connectivity
+      Common Search Terms: wireless storage, bluetooth, connectivity
+  [3] Feature Name: Productivity Design
+      Description: Designed to support common work, study, entertainment, and creative workflows.
+      Benefits: Better productivity, easier daily use, versatile operation
+      Common Search Terms: productivity storage, work storage, student storage
+  [4] Feature Name: Premium Build
+      Description: Uses a durable design intended for regular everyday usage.
+      Benefits: Durability, practical everyday use, dependable construction
+      Common Search Terms: durable storage, premium storage, reliable storage
+  [5] Feature Name: Everyday Usability
+      Description: Combines practical controls and category-specific features for daily use.
+      Benefits: Convenience, usability, versatile operation
+      Common Search Terms: easy to use storage, everyday storage, samsung
+
+Best Use Cases (Activities):
+  1: Video Editing
+  2: Game Libraries
+  3: Backups
+  4: Photography
+  5: File Transfer
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: samsung t7 shield portable ssd 2tb, samsung storage, storage samsung
+  Feature Keywords: storage performance, productivity storage, premium storage, modern storage
+  Technical Keywords: USB 3.2 Gen 2, modern connectivity, performance, productivity
+  Aliases: samsung t7 shield portable ssd 2tb, samsung storage, samsung product
+  Synonyms: storage, consumer electronics, technology product
+  Common Misspellings: samsun t7 shield portable ssd 2tb, smsung t7 shield portable ssd 2tb, samsungt7shieldportablessd2tb
+  Search Phrases: best storage for students, best storage for work, samsung storage review, samsung t7 shield portable ssd 2tb specifications
+  Search Intent Keywords: buy storage, upgrade storage, storage for productivity
+  Related Search Terms: affordable storage, premium storage, best storage, reliable storage
+
+Customer Search Queries:
+  Exact Queries: "samsung t7 shield portable ssd 2tb", "samsung storage"
+  Partial Queries: "samsung storage", "samsung"
+  Feature Queries: "best storage for students", "best storage for productivity", "fast storage"
+  Comparison Queries: "samsung storage vs alternatives", "samsung t7 shield portable ssd 2tb vs previous model"
+  Attribute Queries: "high performance storage", "best storage for work"
+  Natural Language Queries: "which storage is good for students", "best storage for productivity"
+  Typo Queries: "samsun t7 shield portable ssd 2tb, smsung t7 shield portable ssd 2tb, samsungt7shieldportablessd2tb"
+
+Customer Questions & Answers:
+  Is it suitable for students?: Yes, it is designed to support common study and productivity workflows.
+  Is it suitable for professional use?: Yes, it can be used for supported professional workloads within its category.
+  Does it support modern connectivity?: Yes, it is designed around current connectivity options appropriate for the product category.
+  Is it available?: The product is listed as in stock in this corpus entry.
+  Is it suitable for travel?: Its suitability depends on the user's setup and portability requirements.
+  Does it support multitasking?: Yes, the USB 3.2 Gen 2 platform is intended to provide responsive performance for supported workloads.
+  Does it work with common devices?: Yes, it is designed for compatibility with standard devices and accessories in its category.
+
+Searchable Attributes:
+  [1] Attribute: Processor
+      Value: USB 3.2 Gen 2
+      Common Search Terms: usb 3.2 gen 2, processor, performance platform
+      Filter Value: USB 3.2 Gen 2
+
+  [2] Attribute: Category
+      Value: Storage
+      Common Search Terms: storage, best storage, storage product
+      Filter Value: Storage
+
+  [3] Attribute: Brand
+      Value: Samsung
+      Common Search Terms: samsung, samsung electronics, samsung product
+      Filter Value: Samsung
+
+  [4] Attribute: Rating
+      Value: 4.7/5
+      Common Search Terms: highly rated, 4.7 rating, customer rating
+      Filter Value: 4.7
+
+  [5] Attribute: Connectivity
+      Value: Modern connectivity
+      Common Search Terms: wireless, bluetooth, usb, connectivity
+      Filter Value: Modern
+
+  [6] Attribute: Availability
+      Value: In Stock
+      Common Search Terms: available product, in stock, buy samsung t7 shield portable ssd 2tb
+      Filter Value: In Stock
+
+  [7] Attribute: Use Case
+      Value: Productivity and everyday use
+      Common Search Terms: productivity, student, work, everyday use
+      Filter Value: Productivity
+
+Customer Reviews:
+  ★★★★★: The Samsung T7 Shield Portable SSD 2TB performs very well for everyday storage use and feels reliable in regular workloads.
+  ★★★★★: Setup was straightforward and the main features of the Samsung T7 Shield Portable SSD 2TB are easy to use.
+  ★★★★☆: Performance is strong for my workflow, especially when using the primary features regularly.
+  ★★★★☆: The build quality feels solid and the product integrates well with my existing setup.
+  ★★★☆☆: Good product overall, although some advanced features could be improved.
+  ★★★☆☆: The experience is generally positive, but the price and a few limitations are worth considering.
+  ★★☆☆☆: It works well, but I expected a little more from a product in this price range.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Samsung Storage alternative
+  2: Premium storage alternative
+
+Brand Ecosystem Products:
+  1: Samsung compatible accessory
+  2: Samsung companion device
+  3: Samsung connectivity accessory
+  4: Samsung official accessory
+
+Compatible Accessories:
+  Cases & Covers: Protective case or sleeve where applicable
+  Chargers: Compatible power adapter where applicable
+  Wireless Chargers: Compatible wireless charging accessory where applicable
+  Screen Protectors: Compatible protective screen accessory where applicable
+  Audio Accessories: Compatible audio accessory
+  Wearables: Compatible wearable or companion device
+
+Frequently Bought Together:
+  1: Protective accessory
+  2: Connectivity accessory
+
+Budget Alternatives:
+  1: Previous-generation storage
+  2: Entry-level storage
+=====================
