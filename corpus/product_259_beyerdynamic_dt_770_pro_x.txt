@@ -1,0 +1,165 @@
+BEYERDYNAMIC DT 770 PRO X
+=================================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P259
+  Product Name: Beyerdynamic DT 770 Pro X
+  Also Known As: Beyerdynamic Studio Headphones
+  Brand: Beyerdynamic
+  Category: Audio
+  Subcategory: Studio Headphones
+  Model: Beyerdynamic DT 770 Pro X
+  Selling Price: ₹24,999
+  Average Rating: 4.7/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Audio
+  3: Consumer Technology
+  4: Studio Headphones
+
+Product Overview:
+  Overview: The Beyerdynamic DT 770 Pro X is a studio headphones from Beyerdynamic, designed for dependable everyday performance.
+  Performance: Designed for responsive operation, reliability, and practical everyday use.
+  Battery: Optimized for practical use and efficient power consumption.
+  Connectivity: Supports modern connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processing platform
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Battery: Product-specific battery or power system
+  Connectivity: Modern wired and wireless connectivity
+
+Quick Highlights:
+  1: Beyerdynamic engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: beyerdynamic dt 770 pro x, beyerdynamic, studio headphones, audio
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: beyerdynamic studio headphones, beyerdynamic dt 770 pro x
+  Synonyms: best studio headphones, premium studio headphones, reliable audio product
+  Common Misspellings: beyerdynamic studioheadphones, beyerdynamicdt770prox
+  Search Phrases: best beyerdynamic dt 770 pro x, beyerdynamic studio headphones, affordable studio headphones, premium studio headphones
+  Search Intent Keywords: buy studio headphones, best studio headphones, upgrade, replacement, new product
+  Related Search Terms: studio headphones, beyerdynamic product, best audio, high performance
+
+Customer Search Queries:
+  Exact Queries: "beyerdynamic dt 770 pro x", "beyerdynamic studio headphones"
+  Partial Queries: "beyerdynamic", "studio headphones"
+  Feature Queries: "best studio headphones", "fast studio headphones", "premium studio headphones"
+  Comparison Queries: "beyerdynamic dt 770 pro x vs alternative", "beyerdynamic studio headphones comparison"
+  Attribute Queries: "high performance studio headphones", "reliable studio headphones", "best rated studio headphones"
+  Natural Language Queries: "which studio headphones is good for work", "best studio headphones for students"
+  Typo Queries: "beyerdynamic studioheadphones", "beyerdynamicdt770prox"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.7/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Studio Headphones
+      Common Search Terms: studio headphones, product type, category
+      Filter Value: Studio Headphones
+
+  [2] Attribute: Brand
+      Value: Beyerdynamic
+      Common Search Terms: beyerdynamic, brand, manufacturer
+      Filter Value: Beyerdynamic
+
+  [3] Attribute: Rating
+      Value: 4.7/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.7
+
+  [4] Attribute: Price
+      Value: ₹24,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹24,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Studio Headphones
+  2: Previous-generation Studio Headphones
+
+Brand Ecosystem Products:
+  1: Other Beyerdynamic products
+  2: Compatible Beyerdynamic accessories
+  3: Beyerdynamic charging accessories
+  4: Beyerdynamic connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level studio headphones
+  2: Previous-generation studio headphones

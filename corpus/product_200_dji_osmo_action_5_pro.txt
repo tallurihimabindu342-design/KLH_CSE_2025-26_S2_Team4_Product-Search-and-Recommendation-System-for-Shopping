@@ -1,0 +1,166 @@
+DJI OSMO ACTION 5 PRO
+=============================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P200
+  Product Name: DJI Osmo Action 5 Pro
+  Also Known As: DJI Action Camera
+  Brand: DJI
+  Category: Camera
+  Subcategory: Action Camera
+  Model: DJI Osmo Action 5 Pro
+  Selling Price: ₹44,999
+  Average Rating: 4.7/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Cameras
+  3: Consumer Technology
+  4: Action Camera
+
+Product Overview:
+  Overview: The DJI Osmo Action 5 Pro is a action camera from DJI, designed for dependable everyday performance and practical use.
+  Performance: Designed for responsive operation, reliable performance, and modern connectivity.
+  Battery: Designed for practical everyday battery life or efficient power use.
+  Connectivity: Supports modern wired and wireless connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Business Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processor
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Camera: Product-specific imaging system where applicable
+  Battery: Product-specific battery or power system
+  Connectivity: Wi-Fi, Bluetooth, USB-C, or product-specific connectivity
+
+Quick Highlights:
+  1: DJI engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity options for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: dji osmo action 5 pro, dji, action camera, cameras
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: dji action camera, dji osmo action 5 pro
+  Synonyms: best action camera, premium action camera, reliable cameras product
+  Common Misspellings: djiosmoaction5pro, dji actioncamera
+  Search Phrases: best dji osmo action 5 pro, dji action camera, affordable action camera, premium action camera
+  Search Intent Keywords: buy action camera, best action camera, upgrade, replacement, new product
+  Related Search Terms: action camera, dji product, best cameras, high performance
+
+Customer Search Queries:
+  Exact Queries: "dji osmo action 5 pro", "dji action camera"
+  Partial Queries: "dji", "action camera"
+  Feature Queries: "best action camera", "fast action camera", "premium action camera"
+  Comparison Queries: "dji osmo action 5 pro vs alternative", "dji action camera comparison"
+  Attribute Queries: "high performance action camera", "reliable action camera", "best rated action camera"
+  Natural Language Queries: "which action camera is good for work", "best action camera for students"
+  Typo Queries: "dji actioncamera", "djiosmoaction5pro"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.7/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Action Camera
+      Common Search Terms: action camera, product type, category
+      Filter Value: Action Camera
+
+  [2] Attribute: Brand
+      Value: DJI
+      Common Search Terms: dji, brand, manufacturer
+      Filter Value: DJI
+
+  [3] Attribute: Rating
+      Value: 4.7/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.7
+
+  [4] Attribute: Price
+      Value: ₹44,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹44,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Action Camera
+  2: Previous-generation Action Camera
+
+Brand Ecosystem Products:
+  1: Other DJI products
+  2: Compatible DJI accessories
+  3: DJI charging accessories
+  4: DJI connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level action camera
+  2: Previous-generation action camera

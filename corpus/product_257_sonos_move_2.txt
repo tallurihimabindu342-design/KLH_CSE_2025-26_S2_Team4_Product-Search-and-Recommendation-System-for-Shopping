@@ -1,0 +1,165 @@
+SONOS MOVE 2
+========================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P257
+  Product Name: Sonos Move 2
+  Also Known As: Sonos Portable Speaker
+  Brand: Sonos
+  Category: Audio
+  Subcategory: Portable Speaker
+  Model: Sonos Move 2
+  Selling Price: ₹44,999
+  Average Rating: 4.5/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Audio
+  3: Consumer Technology
+  4: Portable Speaker
+
+Product Overview:
+  Overview: The Sonos Move 2 is a portable speaker from Sonos, designed for dependable everyday performance.
+  Performance: Designed for responsive operation, reliability, and practical everyday use.
+  Battery: Optimized for practical use and efficient power consumption.
+  Connectivity: Supports modern connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processing platform
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Battery: Product-specific battery or power system
+  Connectivity: Modern wired and wireless connectivity
+
+Quick Highlights:
+  1: Sonos engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: sonos move 2, sonos, portable speaker, audio
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: sonos portable speaker, sonos move 2
+  Synonyms: best portable speaker, premium portable speaker, reliable audio product
+  Common Misspellings: sonos portablespeaker, sonosmove2
+  Search Phrases: best sonos move 2, sonos portable speaker, affordable portable speaker, premium portable speaker
+  Search Intent Keywords: buy portable speaker, best portable speaker, upgrade, replacement, new product
+  Related Search Terms: portable speaker, sonos product, best audio, high performance
+
+Customer Search Queries:
+  Exact Queries: "sonos move 2", "sonos portable speaker"
+  Partial Queries: "sonos", "portable speaker"
+  Feature Queries: "best portable speaker", "fast portable speaker", "premium portable speaker"
+  Comparison Queries: "sonos move 2 vs alternative", "sonos portable speaker comparison"
+  Attribute Queries: "high performance portable speaker", "reliable portable speaker", "best rated portable speaker"
+  Natural Language Queries: "which portable speaker is good for work", "best portable speaker for students"
+  Typo Queries: "sonos portablespeaker", "sonosmove2"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.5/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Portable Speaker
+      Common Search Terms: portable speaker, product type, category
+      Filter Value: Portable Speaker
+
+  [2] Attribute: Brand
+      Value: Sonos
+      Common Search Terms: sonos, brand, manufacturer
+      Filter Value: Sonos
+
+  [3] Attribute: Rating
+      Value: 4.5/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.5
+
+  [4] Attribute: Price
+      Value: ₹44,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹44,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Portable Speaker
+  2: Previous-generation Portable Speaker
+
+Brand Ecosystem Products:
+  1: Other Sonos products
+  2: Compatible Sonos accessories
+  3: Sonos charging accessories
+  4: Sonos connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level portable speaker
+  2: Previous-generation portable speaker

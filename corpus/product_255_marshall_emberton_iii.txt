@@ -1,0 +1,165 @@
+MARSHALL EMBERTON III
+=============================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P255
+  Product Name: Marshall Emberton III
+  Also Known As: Marshall Bluetooth Speaker
+  Brand: Marshall
+  Category: Audio
+  Subcategory: Bluetooth Speaker
+  Model: Marshall Emberton III
+  Selling Price: ₹19,999
+  Average Rating: 4.6/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Audio
+  3: Consumer Technology
+  4: Bluetooth Speaker
+
+Product Overview:
+  Overview: The Marshall Emberton III is a bluetooth speaker from Marshall, designed for dependable everyday performance.
+  Performance: Designed for responsive operation, reliability, and practical everyday use.
+  Battery: Optimized for practical use and efficient power consumption.
+  Connectivity: Supports modern connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processing platform
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Battery: Product-specific battery or power system
+  Connectivity: Modern wired and wireless connectivity
+
+Quick Highlights:
+  1: Marshall engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: marshall emberton iii, marshall, bluetooth speaker, audio
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: marshall bluetooth speaker, marshall emberton iii
+  Synonyms: best bluetooth speaker, premium bluetooth speaker, reliable audio product
+  Common Misspellings: marshall bluetoothspeaker, marshallembertoniii
+  Search Phrases: best marshall emberton iii, marshall bluetooth speaker, affordable bluetooth speaker, premium bluetooth speaker
+  Search Intent Keywords: buy bluetooth speaker, best bluetooth speaker, upgrade, replacement, new product
+  Related Search Terms: bluetooth speaker, marshall product, best audio, high performance
+
+Customer Search Queries:
+  Exact Queries: "marshall emberton iii", "marshall bluetooth speaker"
+  Partial Queries: "marshall", "bluetooth speaker"
+  Feature Queries: "best bluetooth speaker", "fast bluetooth speaker", "premium bluetooth speaker"
+  Comparison Queries: "marshall emberton iii vs alternative", "marshall bluetooth speaker comparison"
+  Attribute Queries: "high performance bluetooth speaker", "reliable bluetooth speaker", "best rated bluetooth speaker"
+  Natural Language Queries: "which bluetooth speaker is good for work", "best bluetooth speaker for students"
+  Typo Queries: "marshall bluetoothspeaker", "marshallembertoniii"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.6/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Bluetooth Speaker
+      Common Search Terms: bluetooth speaker, product type, category
+      Filter Value: Bluetooth Speaker
+
+  [2] Attribute: Brand
+      Value: Marshall
+      Common Search Terms: marshall, brand, manufacturer
+      Filter Value: Marshall
+
+  [3] Attribute: Rating
+      Value: 4.6/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.6
+
+  [4] Attribute: Price
+      Value: ₹19,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹19,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Bluetooth Speaker
+  2: Previous-generation Bluetooth Speaker
+
+Brand Ecosystem Products:
+  1: Other Marshall products
+  2: Compatible Marshall accessories
+  3: Marshall charging accessories
+  4: Marshall connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level bluetooth speaker
+  2: Previous-generation bluetooth speaker

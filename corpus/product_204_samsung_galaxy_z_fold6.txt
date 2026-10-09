@@ -1,0 +1,165 @@
+SAMSUNG GALAXY Z FOLD6
+==============================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P204
+  Product Name: Samsung Galaxy Z Fold6
+  Also Known As: Samsung Foldable Phone
+  Brand: Samsung
+  Category: Smartphone
+  Subcategory: Foldable Phone
+  Model: Samsung Galaxy Z Fold6
+  Selling Price: ₹164,999
+  Average Rating: 4.6/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Mobile Phones
+  3: Consumer Technology
+  4: Foldable Phone
+
+Product Overview:
+  Overview: The Samsung Galaxy Z Fold6 is a foldable phone from Samsung, designed for dependable everyday performance.
+  Performance: Designed for responsive operation, reliability, and practical everyday use.
+  Battery: Optimized for practical use and efficient power consumption.
+  Connectivity: Supports modern connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processing platform
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Battery: Product-specific battery or power system
+  Connectivity: Modern wired and wireless connectivity
+
+Quick Highlights:
+  1: Samsung engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: samsung galaxy z fold6, samsung, foldable phone, mobile phones
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: samsung foldable phone, samsung galaxy z fold6
+  Synonyms: best foldable phone, premium foldable phone, reliable mobile phones product
+  Common Misspellings: samsung foldablephone, samsunggalaxyzfold6
+  Search Phrases: best samsung galaxy z fold6, samsung foldable phone, affordable foldable phone, premium foldable phone
+  Search Intent Keywords: buy foldable phone, best foldable phone, upgrade, replacement, new product
+  Related Search Terms: foldable phone, samsung product, best mobile phones, high performance
+
+Customer Search Queries:
+  Exact Queries: "samsung galaxy z fold6", "samsung foldable phone"
+  Partial Queries: "samsung", "foldable phone"
+  Feature Queries: "best foldable phone", "fast foldable phone", "premium foldable phone"
+  Comparison Queries: "samsung galaxy z fold6 vs alternative", "samsung foldable phone comparison"
+  Attribute Queries: "high performance foldable phone", "reliable foldable phone", "best rated foldable phone"
+  Natural Language Queries: "which foldable phone is good for work", "best foldable phone for students"
+  Typo Queries: "samsung foldablephone", "samsunggalaxyzfold6"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.6/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Foldable Phone
+      Common Search Terms: foldable phone, product type, category
+      Filter Value: Foldable Phone
+
+  [2] Attribute: Brand
+      Value: Samsung
+      Common Search Terms: samsung, brand, manufacturer
+      Filter Value: Samsung
+
+  [3] Attribute: Rating
+      Value: 4.6/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.6
+
+  [4] Attribute: Price
+      Value: ₹164,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹164,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Foldable Phone
+  2: Previous-generation Foldable Phone
+
+Brand Ecosystem Products:
+  1: Other Samsung products
+  2: Compatible Samsung accessories
+  3: Samsung charging accessories
+  4: Samsung connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level foldable phone
+  2: Previous-generation foldable phone

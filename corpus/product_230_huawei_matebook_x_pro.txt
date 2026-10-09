@@ -1,0 +1,165 @@
+HUAWEI MATEBOOK X PRO
+=============================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P230
+  Product Name: Huawei MateBook X Pro
+  Also Known As: Huawei Ultrabook
+  Brand: Huawei
+  Category: Laptop
+  Subcategory: Ultrabook
+  Model: Huawei MateBook X Pro
+  Selling Price: ₹149,999
+  Average Rating: 4.5/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Laptops
+  3: Consumer Technology
+  4: Ultrabook
+
+Product Overview:
+  Overview: The Huawei MateBook X Pro is a ultrabook from Huawei, designed for dependable everyday performance.
+  Performance: Designed for responsive operation, reliability, and practical everyday use.
+  Battery: Optimized for practical use and efficient power consumption.
+  Connectivity: Supports modern connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processing platform
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Battery: Product-specific battery or power system
+  Connectivity: Modern wired and wireless connectivity
+
+Quick Highlights:
+  1: Huawei engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: huawei matebook x pro, huawei, ultrabook, laptops
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: huawei ultrabook, huawei matebook x pro
+  Synonyms: best ultrabook, premium ultrabook, reliable laptops product
+  Common Misspellings: huawei ultrabook, huaweimatebookxpro
+  Search Phrases: best huawei matebook x pro, huawei ultrabook, affordable ultrabook, premium ultrabook
+  Search Intent Keywords: buy ultrabook, best ultrabook, upgrade, replacement, new product
+  Related Search Terms: ultrabook, huawei product, best laptops, high performance
+
+Customer Search Queries:
+  Exact Queries: "huawei matebook x pro", "huawei ultrabook"
+  Partial Queries: "huawei", "ultrabook"
+  Feature Queries: "best ultrabook", "fast ultrabook", "premium ultrabook"
+  Comparison Queries: "huawei matebook x pro vs alternative", "huawei ultrabook comparison"
+  Attribute Queries: "high performance ultrabook", "reliable ultrabook", "best rated ultrabook"
+  Natural Language Queries: "which ultrabook is good for work", "best ultrabook for students"
+  Typo Queries: "huawei ultrabook", "huaweimatebookxpro"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.5/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Ultrabook
+      Common Search Terms: ultrabook, product type, category
+      Filter Value: Ultrabook
+
+  [2] Attribute: Brand
+      Value: Huawei
+      Common Search Terms: huawei, brand, manufacturer
+      Filter Value: Huawei
+
+  [3] Attribute: Rating
+      Value: 4.5/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.5
+
+  [4] Attribute: Price
+      Value: ₹149,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹149,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Ultrabook
+  2: Previous-generation Ultrabook
+
+Brand Ecosystem Products:
+  1: Other Huawei products
+  2: Compatible Huawei accessories
+  3: Huawei charging accessories
+  4: Huawei connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level ultrabook
+  2: Previous-generation ultrabook

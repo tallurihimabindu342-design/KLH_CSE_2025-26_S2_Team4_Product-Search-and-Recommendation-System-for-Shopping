@@ -1,0 +1,165 @@
+MOTOROLA EDGE 50 FUSION
+===============================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P214
+  Product Name: Motorola Edge 50 Fusion
+  Also Known As: Motorola Smartphone
+  Brand: Motorola
+  Category: Smartphone
+  Subcategory: Smartphone
+  Model: Motorola Edge 50 Fusion
+  Selling Price: ₹24,999
+  Average Rating: 4.4/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Mobile Phones
+  3: Consumer Technology
+  4: Smartphone
+
+Product Overview:
+  Overview: The Motorola Edge 50 Fusion is a smartphone from Motorola, designed for dependable everyday performance.
+  Performance: Designed for responsive operation, reliability, and practical everyday use.
+  Battery: Optimized for practical use and efficient power consumption.
+  Connectivity: Supports modern connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processing platform
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Battery: Product-specific battery or power system
+  Connectivity: Modern wired and wireless connectivity
+
+Quick Highlights:
+  1: Motorola engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: motorola edge 50 fusion, motorola, smartphone, mobile phones
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: motorola smartphone, motorola edge 50 fusion
+  Synonyms: best smartphone, premium smartphone, reliable mobile phones product
+  Common Misspellings: motorola smartphone, motorolaedge50fusion
+  Search Phrases: best motorola edge 50 fusion, motorola smartphone, affordable smartphone, premium smartphone
+  Search Intent Keywords: buy smartphone, best smartphone, upgrade, replacement, new product
+  Related Search Terms: smartphone, motorola product, best mobile phones, high performance
+
+Customer Search Queries:
+  Exact Queries: "motorola edge 50 fusion", "motorola smartphone"
+  Partial Queries: "motorola", "smartphone"
+  Feature Queries: "best smartphone", "fast smartphone", "premium smartphone"
+  Comparison Queries: "motorola edge 50 fusion vs alternative", "motorola smartphone comparison"
+  Attribute Queries: "high performance smartphone", "reliable smartphone", "best rated smartphone"
+  Natural Language Queries: "which smartphone is good for work", "best smartphone for students"
+  Typo Queries: "motorola smartphone", "motorolaedge50fusion"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.4/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Smartphone
+      Common Search Terms: smartphone, product type, category
+      Filter Value: Smartphone
+
+  [2] Attribute: Brand
+      Value: Motorola
+      Common Search Terms: motorola, brand, manufacturer
+      Filter Value: Motorola
+
+  [3] Attribute: Rating
+      Value: 4.4/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.4
+
+  [4] Attribute: Price
+      Value: ₹24,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹24,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Smartphone
+  2: Previous-generation Smartphone
+
+Brand Ecosystem Products:
+  1: Other Motorola products
+  2: Compatible Motorola accessories
+  3: Motorola charging accessories
+  4: Motorola connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level smartphone
+  2: Previous-generation smartphone

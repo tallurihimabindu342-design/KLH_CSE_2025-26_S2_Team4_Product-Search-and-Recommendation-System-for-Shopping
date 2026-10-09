@@ -1,0 +1,165 @@
+JBL PARTYBOX CLUB 120
+=============================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P247
+  Product Name: JBL PartyBox Club 120
+  Also Known As: JBL Party Speaker
+  Brand: JBL
+  Category: Audio
+  Subcategory: Party Speaker
+  Model: JBL PartyBox Club 120
+  Selling Price: ₹29,999
+  Average Rating: 4.6/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Audio
+  3: Consumer Technology
+  4: Party Speaker
+
+Product Overview:
+  Overview: The JBL PartyBox Club 120 is a party speaker from JBL, designed for dependable everyday performance.
+  Performance: Designed for responsive operation, reliability, and practical everyday use.
+  Battery: Optimized for practical use and efficient power consumption.
+  Connectivity: Supports modern connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processing platform
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Battery: Product-specific battery or power system
+  Connectivity: Modern wired and wireless connectivity
+
+Quick Highlights:
+  1: JBL engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: jbl partybox club 120, jbl, party speaker, audio
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: jbl party speaker, jbl partybox club 120
+  Synonyms: best party speaker, premium party speaker, reliable audio product
+  Common Misspellings: jbl partyspeaker, jblpartyboxclub120
+  Search Phrases: best jbl partybox club 120, jbl party speaker, affordable party speaker, premium party speaker
+  Search Intent Keywords: buy party speaker, best party speaker, upgrade, replacement, new product
+  Related Search Terms: party speaker, jbl product, best audio, high performance
+
+Customer Search Queries:
+  Exact Queries: "jbl partybox club 120", "jbl party speaker"
+  Partial Queries: "jbl", "party speaker"
+  Feature Queries: "best party speaker", "fast party speaker", "premium party speaker"
+  Comparison Queries: "jbl partybox club 120 vs alternative", "jbl party speaker comparison"
+  Attribute Queries: "high performance party speaker", "reliable party speaker", "best rated party speaker"
+  Natural Language Queries: "which party speaker is good for work", "best party speaker for students"
+  Typo Queries: "jbl partyspeaker", "jblpartyboxclub120"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.6/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Party Speaker
+      Common Search Terms: party speaker, product type, category
+      Filter Value: Party Speaker
+
+  [2] Attribute: Brand
+      Value: JBL
+      Common Search Terms: jbl, brand, manufacturer
+      Filter Value: JBL
+
+  [3] Attribute: Rating
+      Value: 4.6/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.6
+
+  [4] Attribute: Price
+      Value: ₹29,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹29,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Party Speaker
+  2: Previous-generation Party Speaker
+
+Brand Ecosystem Products:
+  1: Other JBL products
+  2: Compatible JBL accessories
+  3: JBL charging accessories
+  4: JBL connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level party speaker
+  2: Previous-generation party speaker

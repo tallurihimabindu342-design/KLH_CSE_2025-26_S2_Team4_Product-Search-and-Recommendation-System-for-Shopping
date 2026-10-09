@@ -1,0 +1,165 @@
+APPLE AIRPODS MAX USB-C
+===============================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P243
+  Product Name: Apple AirPods Max USB-C
+  Also Known As: Apple Headphones
+  Brand: Apple
+  Category: Audio
+  Subcategory: Headphones
+  Model: Apple AirPods Max USB-C
+  Selling Price: ₹59,999
+  Average Rating: 4.6/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Audio
+  3: Consumer Technology
+  4: Headphones
+
+Product Overview:
+  Overview: The Apple AirPods Max USB-C is a headphones from Apple, designed for dependable everyday performance.
+  Performance: Designed for responsive operation, reliability, and practical everyday use.
+  Battery: Optimized for practical use and efficient power consumption.
+  Connectivity: Supports modern connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processing platform
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Battery: Product-specific battery or power system
+  Connectivity: Modern wired and wireless connectivity
+
+Quick Highlights:
+  1: Apple engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: apple airpods max usb-c, apple, headphones, audio
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: apple headphones, apple airpods max usb-c
+  Synonyms: best headphones, premium headphones, reliable audio product
+  Common Misspellings: apple headphones, appleairpodsmaxusb-c
+  Search Phrases: best apple airpods max usb-c, apple headphones, affordable headphones, premium headphones
+  Search Intent Keywords: buy headphones, best headphones, upgrade, replacement, new product
+  Related Search Terms: headphones, apple product, best audio, high performance
+
+Customer Search Queries:
+  Exact Queries: "apple airpods max usb-c", "apple headphones"
+  Partial Queries: "apple", "headphones"
+  Feature Queries: "best headphones", "fast headphones", "premium headphones"
+  Comparison Queries: "apple airpods max usb-c vs alternative", "apple headphones comparison"
+  Attribute Queries: "high performance headphones", "reliable headphones", "best rated headphones"
+  Natural Language Queries: "which headphones is good for work", "best headphones for students"
+  Typo Queries: "apple headphones", "appleairpodsmaxusb-c"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.6/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Headphones
+      Common Search Terms: headphones, product type, category
+      Filter Value: Headphones
+
+  [2] Attribute: Brand
+      Value: Apple
+      Common Search Terms: apple, brand, manufacturer
+      Filter Value: Apple
+
+  [3] Attribute: Rating
+      Value: 4.6/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.6
+
+  [4] Attribute: Price
+      Value: ₹59,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹59,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Headphones
+  2: Previous-generation Headphones
+
+Brand Ecosystem Products:
+  1: Other Apple products
+  2: Compatible Apple accessories
+  3: Apple charging accessories
+  4: Apple connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level headphones
+  2: Previous-generation headphones
