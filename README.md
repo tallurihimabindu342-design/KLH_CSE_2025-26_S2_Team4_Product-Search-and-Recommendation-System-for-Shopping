@@ -3,214 +3,201 @@
 **Course:** Data Structures and Algorithms – 3  
 **Course Code:** 25CS2103E  
 **Team:** 4  
-**Team Member:** Talluri HimaBindu Sree – 2520030484  
-**Supervisor:** Dr. S. Vinay Kumar, Associate Professor, Department of Computer Science and Engineering  
-**Current Phase:** Pattern/String Matching – Review 3  
+**Team Member:** Talluri HimaBindu Sree  
+**Roll Number:** 2520030484  
+**Supervisor:** Dr. S. Vinay Kumar, Associate Professor, Department of Computer Science and Engineering
 
 ---
 
-## Student Details
+## 1. Abstract
 
-| S. No. | Student Name | Roll Number |
-|-------:|--------------|-------------|
-| 1 | Talluri HimaBindu Sree | 2520030484 |
+The Product Search and Recommendation System is a Java-based application developed to demonstrate the practical application of Data Structures and Algorithms in an e-commerce environment. The system searches product information stored in a corpus of 300 text files and returns relevant results based on user queries.
 
----
+The system implements the Knuth–Morris–Pratt (KMP) and Rabin–Karp algorithms for pattern matching. A Trie data structure supports prefix-based searching, while Levenshtein Edit Distance helps identify spelling mistakes in search queries. The recommendation module uses the Edmonds–Karp maximum-flow algorithm to select products while satisfying defined recommendation constraints.
 
-## Abstract
+The application also provides performance benchmarking to compare KMP and Rabin–Karp. These features demonstrate the practical use of string matching, dynamic programming, tree-based searching, graph algorithms, and corpus processing.
 
-The **Product Search and Recommendation System** is a Data Structures and Algorithms-based project designed to provide efficient search and retrieval of products from a structured e-commerce product corpus.
+## 2. Problem Statement
 
-The system uses **Knuth-Morris-Pratt (KMP)** and **Rabin-Karp** algorithms for pattern matching. KMP uses the **LPS array** to avoid unnecessary comparisons, while Rabin-Karp uses a **rolling hash** for efficient matching.
+Searching for relevant products in a collection of product documents requires efficient pattern matching, handling of spelling errors, and suitable result selection.
 
-The system also uses **Levenshtein Edit Distance** for spelling-error recovery and relevance-based ranking to return suitable products.
+The objective is to develop a Java-based system that searches product information, supports prefix queries, assists with spelling mistakes, compares string-matching algorithms, and generates recommendations using defined constraints.
 
----
+## 3. Objectives
 
-## Objectives
+- Implement KMP and Rabin–Karp pattern-matching algorithms.
+- Search products from a structured text corpus.
+- Support prefix searching using a Trie.
+- Handle spelling mistakes using Levenshtein Edit Distance.
+- Rank and display relevant search results.
+- Generate constrained product recommendations using maximum flow.
+- Compare the performance of KMP and Rabin–Karp.
+- Demonstrate practical applications of DSA in product search.
 
-- Implement efficient string-matching algorithms.
-- Search products from a structured corpus.
-- Implement KMP and Rabin-Karp pattern matching.
-- Compare algorithm performance.
-- Handle spelling errors using Levenshtein Edit Distance.
-- Rank and display relevant products.
-- Demonstrate practical applications of DSA in e-commerce search.
+## 4. Technologies Used
 
----
+- **Programming language:** Java
+- **Data source:** Text-based product corpus
+- **Data structures:** Trie and graph-based flow network
+- **Algorithms:** KMP, Rabin–Karp, Levenshtein Edit Distance, Edmonds–Karp
+- **Version control:** Git and GitHub
 
-## Algorithms and Data Structures
+## 5. Algorithms and Data Structures
 
-- **KMP** – Pattern matching using LPS array
-- **Rabin-Karp** – Pattern matching using rolling hash
-- **Levenshtein Edit Distance** – Spelling-error recovery
-- **Trie** – Prefix searching/autocomplete
-- Product corpus loading and processing
-- Relevance-based result ranking
-- Algorithm performance benchmarking
+### 5.1 Knuth–Morris–Pratt (KMP)
 
----
+KMP searches for a pattern using a Longest Prefix Suffix (LPS) array. The array helps avoid repeating unnecessary comparisons after a mismatch.
 
-## Project Flow
+**Time complexity:** O(n + m)
+
+### 5.2 Rabin–Karp
+
+Rabin–Karp uses hashing and a rolling hash technique to locate pattern matches in text.
+
+**Expected time complexity:** O(n + m), under suitable hashing assumptions.  
+**Worst-case time complexity:** O(nm).
+
+### 5.3 Levenshtein Edit Distance
+
+Levenshtein Edit Distance calculates the minimum number of insertions, deletions, and substitutions needed to transform one string into another. It helps identify likely corrections for misspelled queries.
+
+**Time complexity:** O(nm) for the standard dynamic-programming implementation.
+
+### 5.4 Trie
+
+A Trie stores searchable terms in a tree-like structure. It supports prefix-based searching and helps retrieve terms beginning with a given prefix.
+
+### 5.5 Edmonds–Karp Maximum Flow
+
+Edmonds–Karp is a graph algorithm that calculates maximum flow using breadth-first search (BFS) to find augmenting paths. In this project, it is used by the recommendation module to select products while satisfying defined recommendation constraints.
+
+**Time complexity:** O(VE²), where V is the number of vertices and E is the number of edges.
+
+### 5.6 Corpus Processing and Relevance Ranking
+
+The corpus loader reads product documents, the search engine processes user queries, and relevance ranking helps present suitable results.
+
+## 6. System Workflow
 
 ```text
-Product Corpus
-      |
-      v
-Corpus Loader
-      |
-      v
-Product Records
-      |
-      v
-User Query
-      |
-      +-------------------+
-      |                   |
-      v                   v
-     KMP             Rabin-Karp
-      |                   |
-      +---------+---------+
-                |
-                v
-        Matching Products
-                |
-                v
-        Relevance Ranking
-                |
-                v
-         Search Results
-                |
-                v
-        Product Details
+              Product Corpus
+                    |
+                    v
+               Corpus Loader
+                    |
+                    v
+              Product Records
+                    |
+                    v
+                User Query
+                    |
+          +---------+----------+
+          |         |          |
+          v         v          v
+         KMP    Rabin-Karp   Trie Search
+          |         |          |
+          +---------+----------+
+                    |
+                    v
+             Matching Products
+                    |
+                    v
+             Relevance Ranking
+                    |
+                    v
+              Search Results
+                    |
+          +---------+----------+
+          |                    |
+          v                    v
+    Product Details      Recommendations
+                               |
+                               v
+                     Edmonds–Karp Max Flow
 ```
 
----
+## 7. Product Corpus
 
-## Product Corpus
+The project uses **300 product text files** stored in the `corpus/` directory.
 
-The system currently contains **300 product text files**.
+The corpus provides the product information used by the application. The corpus loader reads the files at runtime, and the application displays the number of files loaded.
 
-Each product document contains:
+The `corpus/` directory must remain in the project root for the application and tests to locate the product documents.
 
-- Product name
-- Brand
-- Category
-- Price
-- Rating
-- Overview
-- Key features
-- Specifications
-- Best use cases
-- Searchable attributes
+## 8. Getting Started
 
-# Getting Started
-
-## Prerequisites
+### Prerequisites
 
 Install:
 
-- **Java JDK**
-- **Git**
+- Java Development Kit (JDK)
+- Git, if you plan to clone the repository
 
-Check installation:
+Verify the installations:
 
-```bash
+```powershell
 java -version
 javac -version
 git --version
 ```
 
----
+### Clone the Repository
 
-## Clone the Repository
+Copy the HTTPS repository URL from GitHub using **Code → HTTPS**.
 
-Copy the repository URL from GitHub using **Code → HTTPS**.
-
-Then run:
-
-```bash
+```powershell
 git clone <YOUR_GITHUB_REPOSITORY_URL>
 cd Product_Search_Recommendation_System
 ```
 
----
+Replace the placeholder with your actual GitHub repository URL.
 
-## Compile
+### Compile the Project
 
-From the project root:
+Run this command from the project root:
 
 ```powershell
-javac -encoding UTF-8 -d out src\*.java
+javac -encoding UTF-8 -d out src/*.java
 ```
 
----
-
-## Run
+### Run the Application
 
 ```powershell
 java -cp out Main
 ```
 
-The application will display:
+The application loads the product corpus and displays the number of product files loaded before accepting search queries.
+
+## 9. How to Use the Application
+
+### 9.1 Product Search
+
+Enter a product name or keyword to retrieve matching products.
+
+Example:
 
 ```text
-========================================
-       PRODUCT SEARCH SYSTEM
-========================================
-Corpus files loaded: 20
-
-Automatic algorithm selection enabled.
-Type /test to benchmark KMP and Rabin-Karp.
-Type exit to close the system.
-
-Enter search query:
+phone
 ```
 
----
+The system displays relevant matching products.
 
-# How to Use
+### 9.2 Search by Feature
 
-### 1. Search for a Product
-
-Enter a product name:
-
-```text
-Samsung Galaxy S24 Ultra
-```
-
-The system displays the relevant products with:
-
-- Product name
-- Price
-- Rating
-- Brand
-- Category
-- Short description
-
-### 2. Search by Feature
-
-Example queries:
+Example queries include:
 
 ```text
 wireless charging
-```
-
-```text
 120hz display
+samsung
+apple
 ```
 
-```text
-phone with s pen
-```
+The results depend on the product information available in the corpus.
 
-```text
-200mp camera
-```
+### 9.3 Spelling-Error Recovery
 
-### 3. Spelling Errors
-
-The system can recover from simple spelling mistakes using **Levenshtein Edit Distance**.
+Enter a query containing a simple spelling mistake.
 
 Example:
 
@@ -218,182 +205,181 @@ Example:
 samsng
 ```
 
-can match:
+The system can identify the likely correction:
 
 ```text
 samsung
 ```
 
-> KMP and Rabin-Karp perform pattern matching; spelling correction is handled separately using Levenshtein Edit Distance.
+Spelling correction uses Levenshtein Edit Distance and is separate from KMP and Rabin–Karp pattern matching.
 
-### 4. View Product Details
+### 9.4 Prefix Search
 
-After search results appear, enter the product number:
-
-```text
-Enter product number for details or press ENTER for another search: 1
-```
-
-The system displays detailed product information and specifications.
-
----
-
-# Algorithm Testing
-
-Normal searches use **automatic algorithm selection**.
-
-To manually test the algorithms, enter:
+Enter:
 
 ```text
-/test
+/trie
 ```
 
-Options:
+Follow the prompt to enter a prefix.
+
+Example:
 
 ```text
-1. Test KMP
-2. Test Rabin-Karp
-3. Compare KMP vs Rabin-Karp
-4. Exit Test Mode
+app
 ```
 
-For example, selecting **3** compares both algorithms using the same query and displays their measured execution times.
+The Trie returns matching indexed terms. If no terms match the prefix, no matching terms are displayed.
 
----
+### 9.5 Performance Benchmarking
 
-## Time Complexity
-
-| Algorithm | Average | Worst Case |
-|-----------|---------|------------|
-| **KMP** | O(n + m) | O(n + m) |
-| **Rabin-Karp** | O(n + m) | O(nm) |
-| **Levenshtein Distance** | O(mn) | O(mn) |
-
-Where:
-
-- `n` = text length
-- `m` = pattern/string length
-
----
-
-# Project Structure
+Enter:
 
 ```text
-Product_Search_Recommendation_System/
-│
-├── corpus/
-├── src/
-│   ├── Main.java
-│   ├── SearchEngine.java
-│   ├── KMP.java
-│   ├── RabinKarp.java
-│   ├── Levenshtein.java
-│   ├── Trie.java
-│   ├── ProductDocument.java
-│   ├── CorpusLoader.java
-│   └── ...
-│
-├── out/
-└── README.md
+/time
 ```
 
----
+Provide a search query when prompted. The application compares KMP and Rabin–Karp using the same query and reports their match counts and measured execution times.
 
-# Troubleshooting
+Benchmark timings may vary depending on the computer and runtime conditions.
 
-### Corpus Not Found
+### 9.6 Product Recommendations
 
-Make sure `corpus/` is in the project root:
+Search for a product or keyword to explore the recommendation functionality. The recommendation module uses Edmonds–Karp maximum flow to select products while respecting the implemented constraints.
 
-```text
-Product_Search_Recommendation_System/
-├── corpus/
-├── src/
-└── out/
-```
+### 9.7 Exit
 
-### Compilation Error
-
-Run:
-
-```powershell
-javac -encoding UTF-8 -d out src\*.java
-```
-
-### No Results
-
-Try a product name or searchable feature such as:
-
-```text
-Samsung Galaxy S24 Ultra
-```
-
-```text
-wireless charging
-```
-
-```text
-120hz display
-```
-
----
-
-# Quick Start
-
-```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd Product_Search_Recommendation_System
-javac -encoding UTF-8 -d out src\*.java
-java -cp out Main
-```
-
-Then enter a search query.
-
-For algorithm testing:
-
-```text
-/test
-```
-
-To exit:
+Enter:
 
 ```text
 exit
 ```
 
----
+to terminate the application.
 
-# Future Enhancements
+## 10. Algorithm Complexity
 
-- Advanced product recommendations
-- Improved relevance ranking
-- Category and price filtering
-- Enhanced autocomplete
-- Larger product corpus
-- Additional DSA algorithms
-- Advanced performance analysis
+Let n represent the text length and m represent the pattern length.
 
----
+| Algorithm | Average / Expected Time | Worst-Case Time |
+|---|---|---|
+| KMP | O(n + m) | O(n + m) |
+| Rabin–Karp | O(n + m), under suitable hashing assumptions | O(nm) |
+| Levenshtein Edit Distance | O(nm) | O(nm) |
+| Edmonds–Karp | O(VE²) | O(VE²) |
 
-# Conclusion
+The complexities for Levenshtein Edit Distance refer to the standard dynamic-programming implementation. Actual execution time also depends on the input size and implementation details.
 
-The **Product Search and Recommendation System** demonstrates the practical application of Data Structures and Algorithms in an e-commerce search environment.
+## 11. Testing
 
-By combining **KMP, Rabin-Karp, Levenshtein Edit Distance, Trie-based searching, corpus processing, and relevance ranking**, the system provides efficient product search while allowing algorithm performance to be analyzed and compared.
+The project includes test programs for validating its algorithms and functionality.
 
----
+### Compile
 
-## Project Status
+```powershell
+javac -encoding UTF-8 -d out src/*.java
+```
 
-**Current Phase:** Pattern/String Matching – Review 2
+### Run the Full Test Suite
 
-Current implementation includes:
+```powershell
+java -cp out TestRunner
+```
 
-- Product corpus loading
-- KMP pattern matching
-- Rabin-Karp pattern matching
-- Levenshtein Edit Distance
-- Automatic algorithm selection
-- Product relevance ranking
-- Product detail retrieval
-- Algorithm benchmarking
+### Run Trie Tests
+
+```powershell
+java -cp out TrieTest
+```
+
+Run these commands from the project root. Ensure the corpus is available when required by the tests.
+
+## 12. Project Structure
+
+```text
+Product_Search_Recommendation_System/
+│
+├── corpus/
+│   └── 300 product text files
+│
+├── src/
+│   ├── Main.java
+│   ├── SearchEngine.java
+│   ├── CorpusLoader.java
+│   ├── ProductDocument.java
+│   ├── PatternMatching.java
+│   ├── Levenshtein.java
+│   ├── LevenshteinSearch.java
+│   ├── Trie.java
+│   ├── TrieSearch.java
+│   ├── MaxFlow.java
+│   ├── TestRunner.java
+│   ├── TrieTest.java
+│   └── ...
+│
+├── README.md
+├── ABSTRACT.md
+└── Project_Report.pdf
+```
+
+This is an illustrative structure. Retain the actual filenames and test files in your repository. Add `ABSTRACT.md` and `Project_Report.pdf` after creating those documents.
+
+## 13. Troubleshooting
+
+### Corpus Directory Not Found
+
+Ensure that `corpus/` exists in the project root and contains the product text files.
+
+```text
+Product_Search_Recommendation_System/
+├── corpus/
+├── src/
+└── README.md
+```
+
+### Compilation Error
+
+Run the compilation command from the project root:
+
+```powershell
+javac -encoding UTF-8 -d out src/*.java
+```
+
+### No Search Results
+
+Try a simpler keyword or a product term known to exist in the corpus. Check the spelling of your query.
+
+### Benchmark Times Differ
+
+Execution times vary with system load, runtime optimization, and input data. Compare both algorithms using the same query and corpus.
+
+## 14. Future Enhancements
+
+- Category and price filtering.
+- Improved relevance ranking.
+- Enhanced autocomplete.
+- Expansion of the product corpus.
+- Additional performance analysis.
+- Further refinement of product recommendations.
+
+## 15. Conclusion
+
+The Product Search and Recommendation System demonstrates the practical application of Data Structures and Algorithms in an e-commerce search environment.
+
+By combining KMP, Rabin–Karp, Levenshtein Edit Distance, Trie-based prefix searching, relevance ranking, and Edmonds–Karp maximum flow, the project supports product search, spelling-error recovery, performance comparison, and constrained product recommendations through a Java-based console application.
+
+## 16. Project Status
+
+**Status:** Final implementation and demonstration preparation.
+
+Implemented components include:
+
+- Product corpus loading and processing.
+- KMP pattern matching.
+- Rabin–Karp pattern matching.
+- Levenshtein Edit Distance.
+- Trie-based prefix searching.
+- Product relevance ranking.
+- Edmonds–Karp maximum-flow-based recommendations.
+- Algorithm performance benchmarking.
+- Automated test programs.
