@@ -89,7 +89,7 @@ User Query
 
 ## Product Corpus
 
-The system currently contains **20 product text files**.
+The system currently contains **300 product text files**.
 
 Each product document contains:
 
