@@ -1,0 +1,166 @@
+DELL INSPIRON 14 PLUS
+=============================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P134
+  Product Name: Dell Inspiron 14 Plus
+  Also Known As: Dell Laptop
+  Brand: Dell
+  Category: Laptop
+  Subcategory: Laptop
+  Model: Dell Inspiron 14 Plus
+  Selling Price: ₹79,999
+  Average Rating: 4.4/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Laptops
+  3: Consumer Technology
+  4: Laptop
+
+Product Overview:
+  Overview: The Dell Inspiron 14 Plus is a laptop from Dell, designed for dependable everyday performance and practical use.
+  Performance: Designed for responsive operation, reliable performance, and modern connectivity.
+  Battery: Designed for practical everyday battery life or efficient power use.
+  Connectivity: Supports modern wired and wireless connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Business Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processor
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Camera: Product-specific imaging system where applicable
+  Battery: Product-specific battery or power system
+  Connectivity: Wi-Fi, Bluetooth, USB-C, or product-specific connectivity
+
+Quick Highlights:
+  1: Dell engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity options for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: dell inspiron 14 plus, dell, laptop, laptops
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: dell laptop, dell inspiron 14 plus
+  Synonyms: best laptop, premium laptop, reliable laptops product
+  Common Misspellings: dellinspiron14plus, dell laptop
+  Search Phrases: best dell inspiron 14 plus, dell laptop, affordable laptop, premium laptop
+  Search Intent Keywords: buy laptop, best laptop, upgrade, replacement, new product
+  Related Search Terms: laptop, dell product, best laptops, high performance
+
+Customer Search Queries:
+  Exact Queries: "dell inspiron 14 plus", "dell laptop"
+  Partial Queries: "dell", "laptop"
+  Feature Queries: "best laptop", "fast laptop", "premium laptop"
+  Comparison Queries: "dell inspiron 14 plus vs alternative", "dell laptop comparison"
+  Attribute Queries: "high performance laptop", "reliable laptop", "best rated laptop"
+  Natural Language Queries: "which laptop is good for work", "best laptop for students"
+  Typo Queries: "dell laptop", "dellinspiron14plus"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.4/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Laptop
+      Common Search Terms: laptop, product type, category
+      Filter Value: Laptop
+
+  [2] Attribute: Brand
+      Value: Dell
+      Common Search Terms: dell, brand, manufacturer
+      Filter Value: Dell
+
+  [3] Attribute: Rating
+      Value: 4.4/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.4
+
+  [4] Attribute: Price
+      Value: ₹79,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹79,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Laptop
+  2: Previous-generation Laptop
+
+Brand Ecosystem Products:
+  1: Other Dell products
+  2: Compatible Dell accessories
+  3: Dell charging accessories
+  4: Dell connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level laptop
+  2: Previous-generation laptop

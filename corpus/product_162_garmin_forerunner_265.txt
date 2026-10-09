@@ -1,0 +1,166 @@
+GARMIN FORERUNNER 265
+=============================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P162
+  Product Name: Garmin Forerunner 265
+  Also Known As: Garmin Sports Watch
+  Brand: Garmin
+  Category: Wearable
+  Subcategory: Sports Watch
+  Model: Garmin Forerunner 265
+  Selling Price: ₹49,999
+  Average Rating: 4.6/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Wearables
+  3: Consumer Technology
+  4: Sports Watch
+
+Product Overview:
+  Overview: The Garmin Forerunner 265 is a sports watch from Garmin, designed for dependable everyday performance and practical use.
+  Performance: Designed for responsive operation, reliable performance, and modern connectivity.
+  Battery: Designed for practical everyday battery life or efficient power use.
+  Connectivity: Supports modern wired and wireless connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Business Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processor
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Camera: Product-specific imaging system where applicable
+  Battery: Product-specific battery or power system
+  Connectivity: Wi-Fi, Bluetooth, USB-C, or product-specific connectivity
+
+Quick Highlights:
+  1: Garmin engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity options for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: garmin forerunner 265, garmin, sports watch, wearables
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: garmin sports watch, garmin forerunner 265
+  Synonyms: best sports watch, premium sports watch, reliable wearables product
+  Common Misspellings: garminforerunner265, garmin sportswatch
+  Search Phrases: best garmin forerunner 265, garmin sports watch, affordable sports watch, premium sports watch
+  Search Intent Keywords: buy sports watch, best sports watch, upgrade, replacement, new product
+  Related Search Terms: sports watch, garmin product, best wearables, high performance
+
+Customer Search Queries:
+  Exact Queries: "garmin forerunner 265", "garmin sports watch"
+  Partial Queries: "garmin", "sports watch"
+  Feature Queries: "best sports watch", "fast sports watch", "premium sports watch"
+  Comparison Queries: "garmin forerunner 265 vs alternative", "garmin sports watch comparison"
+  Attribute Queries: "high performance sports watch", "reliable sports watch", "best rated sports watch"
+  Natural Language Queries: "which sports watch is good for work", "best sports watch for students"
+  Typo Queries: "garmin sportswatch", "garminforerunner265"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.6/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Sports Watch
+      Common Search Terms: sports watch, product type, category
+      Filter Value: Sports Watch
+
+  [2] Attribute: Brand
+      Value: Garmin
+      Common Search Terms: garmin, brand, manufacturer
+      Filter Value: Garmin
+
+  [3] Attribute: Rating
+      Value: 4.6/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.6
+
+  [4] Attribute: Price
+      Value: ₹49,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹49,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Sports Watch
+  2: Previous-generation Sports Watch
+
+Brand Ecosystem Products:
+  1: Other Garmin products
+  2: Compatible Garmin accessories
+  3: Garmin charging accessories
+  4: Garmin connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level sports watch
+  2: Previous-generation sports watch

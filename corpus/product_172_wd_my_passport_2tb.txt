@@ -1,0 +1,166 @@
+WD MY PASSPORT 2TB
+==========================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P172
+  Product Name: WD My Passport 2TB
+  Also Known As: Western Digital External HDD
+  Brand: Western Digital
+  Category: Storage
+  Subcategory: External HDD
+  Model: WD My Passport 2TB
+  Selling Price: ₹7,999
+  Average Rating: 4.4/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Storage
+  3: Consumer Technology
+  4: External HDD
+
+Product Overview:
+  Overview: The WD My Passport 2TB is a external hdd from Western Digital, designed for dependable everyday performance and practical use.
+  Performance: Designed for responsive operation, reliable performance, and modern connectivity.
+  Battery: Designed for practical everyday battery life or efficient power use.
+  Connectivity: Supports modern wired and wireless connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Business Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processor
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Camera: Product-specific imaging system where applicable
+  Battery: Product-specific battery or power system
+  Connectivity: Wi-Fi, Bluetooth, USB-C, or product-specific connectivity
+
+Quick Highlights:
+  1: Western Digital engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity options for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: wd my passport 2tb, western digital, external hdd, storage
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: western digital external hdd, wd my passport 2tb
+  Synonyms: best external hdd, premium external hdd, reliable storage product
+  Common Misspellings: wdmypassport2tb, western digital externalhdd
+  Search Phrases: best wd my passport 2tb, western digital external hdd, affordable external hdd, premium external hdd
+  Search Intent Keywords: buy external hdd, best external hdd, upgrade, replacement, new product
+  Related Search Terms: external hdd, western digital product, best storage, high performance
+
+Customer Search Queries:
+  Exact Queries: "wd my passport 2tb", "western digital external hdd"
+  Partial Queries: "western digital", "external hdd"
+  Feature Queries: "best external hdd", "fast external hdd", "premium external hdd"
+  Comparison Queries: "wd my passport 2tb vs alternative", "western digital external hdd comparison"
+  Attribute Queries: "high performance external hdd", "reliable external hdd", "best rated external hdd"
+  Natural Language Queries: "which external hdd is good for work", "best external hdd for students"
+  Typo Queries: "western digital externalhdd", "wdmypassport2tb"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.4/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: External HDD
+      Common Search Terms: external hdd, product type, category
+      Filter Value: External HDD
+
+  [2] Attribute: Brand
+      Value: Western Digital
+      Common Search Terms: western digital, brand, manufacturer
+      Filter Value: Western Digital
+
+  [3] Attribute: Rating
+      Value: 4.4/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.4
+
+  [4] Attribute: Price
+      Value: ₹7,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹7,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative External HDD
+  2: Previous-generation External HDD
+
+Brand Ecosystem Products:
+  1: Other Western Digital products
+  2: Compatible Western Digital accessories
+  3: Western Digital charging accessories
+  4: Western Digital connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level external hdd
+  2: Previous-generation external hdd

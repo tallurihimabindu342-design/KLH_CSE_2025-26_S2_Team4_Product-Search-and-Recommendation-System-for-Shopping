@@ -1,0 +1,166 @@
+SANDISK EXTREME PRO PORTABLE SSD 4TB
+============================================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P175
+  Product Name: SanDisk Extreme PRO Portable SSD 4TB
+  Also Known As: SanDisk Portable SSD
+  Brand: SanDisk
+  Category: Storage
+  Subcategory: Portable SSD
+  Model: SanDisk Extreme PRO Portable SSD 4TB
+  Selling Price: ₹39,999
+  Average Rating: 4.7/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Storage
+  3: Consumer Technology
+  4: Portable SSD
+
+Product Overview:
+  Overview: The SanDisk Extreme PRO Portable SSD 4TB is a portable ssd from SanDisk, designed for dependable everyday performance and practical use.
+  Performance: Designed for responsive operation, reliable performance, and modern connectivity.
+  Battery: Designed for practical everyday battery life or efficient power use.
+  Connectivity: Supports modern wired and wireless connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Business Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processor
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Camera: Product-specific imaging system where applicable
+  Battery: Product-specific battery or power system
+  Connectivity: Wi-Fi, Bluetooth, USB-C, or product-specific connectivity
+
+Quick Highlights:
+  1: SanDisk engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity options for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: sandisk extreme pro portable ssd 4tb, sandisk, portable ssd, storage
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: sandisk portable ssd, sandisk extreme pro portable ssd 4tb
+  Synonyms: best portable ssd, premium portable ssd, reliable storage product
+  Common Misspellings: sandiskextremeproportablessd4tb, sandisk portablessd
+  Search Phrases: best sandisk extreme pro portable ssd 4tb, sandisk portable ssd, affordable portable ssd, premium portable ssd
+  Search Intent Keywords: buy portable ssd, best portable ssd, upgrade, replacement, new product
+  Related Search Terms: portable ssd, sandisk product, best storage, high performance
+
+Customer Search Queries:
+  Exact Queries: "sandisk extreme pro portable ssd 4tb", "sandisk portable ssd"
+  Partial Queries: "sandisk", "portable ssd"
+  Feature Queries: "best portable ssd", "fast portable ssd", "premium portable ssd"
+  Comparison Queries: "sandisk extreme pro portable ssd 4tb vs alternative", "sandisk portable ssd comparison"
+  Attribute Queries: "high performance portable ssd", "reliable portable ssd", "best rated portable ssd"
+  Natural Language Queries: "which portable ssd is good for work", "best portable ssd for students"
+  Typo Queries: "sandisk portablessd", "sandiskextremeproportablessd4tb"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.7/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Portable SSD
+      Common Search Terms: portable ssd, product type, category
+      Filter Value: Portable SSD
+
+  [2] Attribute: Brand
+      Value: SanDisk
+      Common Search Terms: sandisk, brand, manufacturer
+      Filter Value: SanDisk
+
+  [3] Attribute: Rating
+      Value: 4.7/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.7
+
+  [4] Attribute: Price
+      Value: ₹39,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹39,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Portable SSD
+  2: Previous-generation Portable SSD
+
+Brand Ecosystem Products:
+  1: Other SanDisk products
+  2: Compatible SanDisk accessories
+  3: SanDisk charging accessories
+  4: SanDisk connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level portable ssd
+  2: Previous-generation portable ssd
