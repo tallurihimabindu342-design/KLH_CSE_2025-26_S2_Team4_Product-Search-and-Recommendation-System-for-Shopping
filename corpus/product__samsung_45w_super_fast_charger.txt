@@ -1,0 +1,166 @@
+SAMSUNG 45W SUPER FAST CHARGER
+==============================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P328
+  Product Name: Samsung 45W Super Fast Charger
+  Also Known As: Samsung Charger
+  Brand: Samsung
+  Category: Accessories
+  Subcategory: Computer Accessories
+  Model: Samsung 45W Super Fast Charger
+  Selling Price: ₹3,499
+  Average Rating: 4.6/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Computer Accessories
+  3: Consumer Technology
+  4: Charger
+
+Product Overview:
+  Overview: The Samsung 45W Super Fast Charger is a charger from Samsung, designed for dependable everyday performance and practical use.
+  Performance: Designed for responsive operation, reliable performance, and modern connectivity.
+  Battery: Designed for practical everyday battery life or efficient power use.
+  Connectivity: Supports modern wired and wireless connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Business Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processor
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Camera: Product-specific imaging system where applicable
+  Battery: Product-specific battery or power system
+  Connectivity: Wi-Fi, Bluetooth, USB-C, or product-specific connectivity
+
+Quick Highlights:
+  1: Samsung engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity options for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: samsung 45w super fast charger, samsung, charger, computer accessories
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: samsung charger, samsung 45w super fast charger
+  Synonyms: best charger, premium charger, reliable computer accessories product
+  Common Misspellings: samsung45wsuperfastcharger, samsung charger
+  Search Phrases: best samsung 45w super fast charger, samsung charger, affordable charger, premium charger
+  Search Intent Keywords: buy charger, best charger, upgrade, replacement, new product
+  Related Search Terms: charger, samsung product, best computer accessories, high performance
+
+Customer Search Queries:
+  Exact Queries: "samsung 45w super fast charger", "samsung charger"
+  Partial Queries: "samsung", "charger"
+  Feature Queries: "best charger", "fast charger", "premium charger"
+  Comparison Queries: "samsung 45w super fast charger vs alternative", "samsung charger comparison"
+  Attribute Queries: "high performance charger", "reliable charger", "best rated charger"
+  Natural Language Queries: "which charger is good for work", "best charger for students"
+  Typo Queries: "samsung charger", "samsung45wsuperfastcharger"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.6/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Charger
+      Common Search Terms: charger, product type, category
+      Filter Value: Charger
+
+  [2] Attribute: Brand
+      Value: Samsung
+      Common Search Terms: samsung, brand, manufacturer
+      Filter Value: Samsung
+
+  [3] Attribute: Rating
+      Value: 4.6/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.5
+
+  [4] Attribute: Price
+      Value: ₹3,499
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹3,499
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Charger
+  2: Previous-generation Charger
+
+Brand Ecosystem Products:
+  1: Other Samsung products
+  2: Compatible Samsung accessories
+  3: Samsung charging accessories
+  4: Samsung connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level charger
+  2: Previous-generation charger

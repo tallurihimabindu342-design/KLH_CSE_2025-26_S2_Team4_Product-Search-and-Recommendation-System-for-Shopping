@@ -1,0 +1,166 @@
+CANON PIXMA G3770
+=================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P309
+  Product Name: Canon PIXMA G3770
+  Also Known As: Canon Printer
+  Brand: Canon
+  Category: Printer
+  Subcategory: Printers
+  Model: Canon PIXMA G3770
+  Selling Price: ₹16,999
+  Average Rating: 4.2/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Printers
+  3: Consumer Technology
+  4: Printer
+
+Product Overview:
+  Overview: The Canon PIXMA G3770 is a printer from Canon, designed for dependable everyday performance and practical use.
+  Performance: Designed for responsive operation, reliable performance, and modern connectivity.
+  Battery: Designed for practical everyday battery life or efficient power use.
+  Connectivity: Supports modern wired and wireless connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Business Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processor
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Camera: Product-specific imaging system where applicable
+  Battery: Product-specific battery or power system
+  Connectivity: Wi-Fi, Bluetooth, USB-C, or product-specific connectivity
+
+Quick Highlights:
+  1: Canon engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity options for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: canon pixma g3770, canon, printer, printers
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: canon printer, canon pixma g3770
+  Synonyms: best printer, premium printer, reliable printers product
+  Common Misspellings: canonpixmag3770, canon printer
+  Search Phrases: best canon pixma g3770, canon printer, affordable printer, premium printer
+  Search Intent Keywords: buy printer, best printer, upgrade, replacement, new product
+  Related Search Terms: printer, canon product, best printers, high performance
+
+Customer Search Queries:
+  Exact Queries: "canon pixma g3770", "canon printer"
+  Partial Queries: "canon", "printer"
+  Feature Queries: "best printer", "fast printer", "premium printer"
+  Comparison Queries: "canon pixma g3770 vs alternative", "canon printer comparison"
+  Attribute Queries: "high performance printer", "reliable printer", "best rated printer"
+  Natural Language Queries: "which printer is good for work", "best printer for students"
+  Typo Queries: "canon printer", "canonpixmag3770"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.2/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: Printer
+      Common Search Terms: printer, product type, category
+      Filter Value: Printer
+
+  [2] Attribute: Brand
+      Value: Canon
+      Common Search Terms: canon, brand, manufacturer
+      Filter Value: Canon
+
+  [3] Attribute: Rating
+      Value: 4.2/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.5
+
+  [4] Attribute: Price
+      Value: ₹16,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹16,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative Printer
+  2: Previous-generation Printer
+
+Brand Ecosystem Products:
+  1: Other Canon products
+  2: Compatible Canon accessories
+  3: Canon charging accessories
+  4: Canon connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level printer
+  2: Previous-generation printer
