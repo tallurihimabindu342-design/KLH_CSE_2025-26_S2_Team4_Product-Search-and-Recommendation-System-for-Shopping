@@ -1,0 +1,165 @@
+DELL S2722QC
+========================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P286
+  Product Name: Dell S2722QC
+  Also Known As: Dell 4K Monitor
+  Brand: Dell
+  Category: Monitor
+  Subcategory: 4K Monitor
+  Model: Dell S2722QC
+  Selling Price: ₹39,999
+  Average Rating: 4.5/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Monitors
+  3: Consumer Technology
+  4: 4K Monitor
+
+Product Overview:
+  Overview: The Dell S2722QC is a 4k monitor from Dell, designed for dependable everyday performance.
+  Performance: Designed for responsive operation, reliability, and practical everyday use.
+  Battery: Optimized for practical use and efficient power consumption.
+  Connectivity: Supports modern connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processing platform
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Battery: Product-specific battery or power system
+  Connectivity: Modern wired and wireless connectivity
+
+Quick Highlights:
+  1: Dell engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: dell s2722qc, dell, 4k monitor, monitors
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: dell 4k monitor, dell s2722qc
+  Synonyms: best 4k monitor, premium 4k monitor, reliable monitors product
+  Common Misspellings: dell 4kmonitor, dells2722qc
+  Search Phrases: best dell s2722qc, dell 4k monitor, affordable 4k monitor, premium 4k monitor
+  Search Intent Keywords: buy 4k monitor, best 4k monitor, upgrade, replacement, new product
+  Related Search Terms: 4k monitor, dell product, best monitors, high performance
+
+Customer Search Queries:
+  Exact Queries: "dell s2722qc", "dell 4k monitor"
+  Partial Queries: "dell", "4k monitor"
+  Feature Queries: "best 4k monitor", "fast 4k monitor", "premium 4k monitor"
+  Comparison Queries: "dell s2722qc vs alternative", "dell 4k monitor comparison"
+  Attribute Queries: "high performance 4k monitor", "reliable 4k monitor", "best rated 4k monitor"
+  Natural Language Queries: "which 4k monitor is good for work", "best 4k monitor for students"
+  Typo Queries: "dell 4kmonitor", "dells2722qc"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.5/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: 4K Monitor
+      Common Search Terms: 4k monitor, product type, category
+      Filter Value: 4K Monitor
+
+  [2] Attribute: Brand
+      Value: Dell
+      Common Search Terms: dell, brand, manufacturer
+      Filter Value: Dell
+
+  [3] Attribute: Rating
+      Value: 4.5/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.5
+
+  [4] Attribute: Price
+      Value: ₹39,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹39,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative 4K Monitor
+  2: Previous-generation 4K Monitor
+
+Brand Ecosystem Products:
+  1: Other Dell products
+  2: Compatible Dell accessories
+  3: Dell charging accessories
+  4: Dell connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level 4k monitor
+  2: Previous-generation 4k monitor

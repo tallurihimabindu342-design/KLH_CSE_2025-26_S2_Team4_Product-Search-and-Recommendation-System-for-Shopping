@@ -1,0 +1,165 @@
+SANDISK ULTRA DUAL DRIVE LUXE 1TB
+=========================================
+
+BLOCK 1 — Product Data
+----------------------
+
+Product Information:
+  Product ID: P279
+  Product Name: SanDisk Ultra Dual Drive Luxe 1TB
+  Also Known As: SanDisk USB Flash Drive
+  Brand: SanDisk
+  Category: Storage
+  Subcategory: USB Flash Drive
+  Model: SanDisk Ultra Dual Drive Luxe 1TB
+  Selling Price: ₹8,999
+  Average Rating: 4.5/5
+  Availability: In Stock
+
+Category Hierarchy:
+  1: Electronics
+  2: Storage
+  3: Consumer Technology
+  4: USB Flash Drive
+
+Product Overview:
+  Overview: The SanDisk Ultra Dual Drive Luxe 1TB is a usb flash drive from SanDisk, designed for dependable everyday performance.
+  Performance: Designed for responsive operation, reliability, and practical everyday use.
+  Battery: Optimized for practical use and efficient power consumption.
+  Connectivity: Supports modern connectivity appropriate to the product class.
+
+Best For (Target Audience):
+  1: Students
+  2: Professionals
+  3: Home Users
+  4: Enthusiasts
+  5: Content Creators
+
+Technical Specifications:
+  Display: Product-specific display or interface
+  Processor: Product-specific processing platform
+  Memory: Product-specific memory configuration
+  Storage: Product-specific storage configuration
+  Battery: Product-specific battery or power system
+  Connectivity: Modern wired and wireless connectivity
+
+Quick Highlights:
+  1: SanDisk engineering
+  2: Reliable everyday performance
+  3: Modern connectivity
+  4: Practical design
+  5: Strong user experience
+  6: Multiple use cases
+
+Key Features:
+  [1] Feature Name: Performance
+      Description: Tuned for responsive operation and dependable day-to-day use.
+      Benefits: Smooth operation and reliable performance
+      Common Search Terms: performance, fast, responsive, efficient
+
+  [2] Feature Name: Connectivity
+      Description: Provides modern connectivity for compatible devices and accessories.
+      Benefits: Easy pairing, transfer, and device integration
+      Common Search Terms: bluetooth, wifi, usb, connectivity
+
+  [3] Feature Name: Design
+      Description: Designed for practical use with a durable and user-friendly form factor.
+      Benefits: Usability, portability, and durability
+      Common Search Terms: lightweight, premium design, durable, portable
+
+Best Use Cases (Activities):
+  1: Study
+  2: Office Work
+  3: Entertainment
+  4: Travel
+  5: Content Creation
+  6: Gaming
+  7: Everyday Use
+
+BLOCK 2 — Search Data
+---------------------
+
+Search Index:
+  Primary Keywords: sandisk ultra dual drive luxe 1tb, sandisk, usb flash drive, storage
+  Feature Keywords: performance, quality, reliable, modern, efficient
+  Technical Keywords: processor, storage, battery, connectivity, display
+  Aliases: sandisk usb flash drive, sandisk ultra dual drive luxe 1tb
+  Synonyms: best usb flash drive, premium usb flash drive, reliable storage product
+  Common Misspellings: sandisk usbflashdrive, sandiskultradualdriveluxe1tb
+  Search Phrases: best sandisk ultra dual drive luxe 1tb, sandisk usb flash drive, affordable usb flash drive, premium usb flash drive
+  Search Intent Keywords: buy usb flash drive, best usb flash drive, upgrade, replacement, new product
+  Related Search Terms: usb flash drive, sandisk product, best storage, high performance
+
+Customer Search Queries:
+  Exact Queries: "sandisk ultra dual drive luxe 1tb", "sandisk usb flash drive"
+  Partial Queries: "sandisk", "usb flash drive"
+  Feature Queries: "best usb flash drive", "fast usb flash drive", "premium usb flash drive"
+  Comparison Queries: "sandisk ultra dual drive luxe 1tb vs alternative", "sandisk usb flash drive comparison"
+  Attribute Queries: "high performance usb flash drive", "reliable usb flash drive", "best rated usb flash drive"
+  Natural Language Queries: "which usb flash drive is good for work", "best usb flash drive for students"
+  Typo Queries: "sandisk usbflashdrive", "sandiskultradualdriveluxe1tb"
+
+Customer Questions & Answers:
+  Does it support modern connectivity?: Yes, it supports connectivity features appropriate to the product class.
+  Is it suitable for everyday use?: Yes, it is designed for practical everyday usage.
+  Is it suitable for students?: Yes, it can be used for study and productivity.
+  Is it suitable for work?: Yes, it supports common productivity workloads.
+  Is it available?: Yes, the corpus record marks the product as In Stock.
+  Is it highly rated?: Yes, this product has an average rating of 4.5/5.
+  Does it support accessories?: Yes, compatible accessories can be used where applicable.
+
+Searchable Attributes:
+  [1] Attribute: Product Type
+      Value: USB Flash Drive
+      Common Search Terms: usb flash drive, product type, category
+      Filter Value: USB Flash Drive
+
+  [2] Attribute: Brand
+      Value: SanDisk
+      Common Search Terms: sandisk, brand, manufacturer
+      Filter Value: SanDisk
+
+  [3] Attribute: Rating
+      Value: 4.5/5
+      Common Search Terms: rating, highly rated, reviews
+      Filter Value: 4.5
+
+  [4] Attribute: Price
+      Value: ₹8,999
+      Common Search Terms: price, budget, cost, value
+      Filter Value: ₹8,999
+
+Customer Reviews:
+  ★★★★★: Excellent overall product experience with strong performance and useful features.
+  ★★★★★: Reliable for everyday use with a strong balance of features and usability.
+  ★★★★☆: Good build quality and useful features for the category.
+  ★★★★☆: A capable product with a comfortable everyday experience.
+  ★★★☆☆: Good overall performance with some trade-offs depending on workload.
+  ★★★☆☆: Solid choice for the category and typical everyday use.
+
+BLOCK 3 — Recommendation Data
+-----------------------------
+
+Similar Products:
+  1: Alternative USB Flash Drive
+  2: Previous-generation USB Flash Drive
+
+Brand Ecosystem Products:
+  1: Other SanDisk products
+  2: Compatible SanDisk accessories
+  3: SanDisk charging accessories
+  4: SanDisk connectivity accessories
+
+Compatible Accessories:
+  1: Protective case or carrying accessory
+  2: Compatible charger or cable
+  3: Screen protection where applicable
+  4: Compatible storage or connectivity accessory
+
+Frequently Bought Together:
+  1: Compatible protective accessory
+  2: Compatible charger or cable
+
+Budget Alternatives:
+  1: Entry-level usb flash drive
+  2: Previous-generation usb flash drive
